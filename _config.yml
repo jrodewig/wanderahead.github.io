@@ -1,0 +1,32 @@
+url: wanderahead.com
+title: Wander Ahead
+
+permalink: /:title/
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+plugins:
+  - jekyll-redirect-from
+
+redirect_from:
+  json: false
+
+sass:
+  sass_dir: css
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path:            "assets/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            ""
+    values:
+      layout: default
+      title: Wander Ahead
+      image: /assets/img/about.jpg

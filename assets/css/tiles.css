@@ -1,0 +1,66 @@
+/*----------------------------------------*/
+/* Tiles
+/*----------------------------------------*/
+
+.tile-heading {
+  text-align: center;
+}
+
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 20px;
+}
+
+.article.tile {
+  flex: 0 0 calc(33.33% - 13.33px); /* Adjusted for 3 columns with 20px gaps */
+  margin-bottom: 40px;
+}
+
+.tiles .article.tile a h2,
+.tiles .article.tile a h3 {
+  font-size: 24px;
+  line-height: 30px;
+  color: var(--black);
+  text-decoration: none;
+  margin: 0;
+  transition: color 0.3s ease;
+}
+
+.article.tile .image:hover + .info h2,
+.article.tile .info h2:hover {
+  color: #6c1d09;
+}
+
+.article.tile .image {
+  margin-bottom: 10px;
+  aspect-ratio: 384 / 256;
+  overflow: hidden;
+}
+
+.article.tile .image a img {
+  max-width: 100%;
+  aspect-ratio: 384 / 256;
+  transition: transform 0.3s ease;
+}
+
+.article.tile .image a img:hover {
+  transform: scale(1.1);
+}
+
+.article.tile .info {
+  margin-top: 8px;
+}
+
+@media (max-width: 768px) {
+  .article.tile {
+    flex: 0 100%;
+    margin-bottom: 40px;
+  }
+
+  .article.tile .image a img {
+    width: 100%;
+    object-fit: cover;
+  }
+}

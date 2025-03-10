@@ -1,0 +1,50 @@
+.featured-image-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featured-image-wrapper .featured-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+.post .cat {
+  margin-top: 20px;
+}
+
+.post h1 {
+  font-size: 46px;
+  line-height: 52px;
+  margin-top: 0;
+}
+
+.post .info .author {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+.post .info .last-updated {
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.post .article p {
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.post.fixed-width {
+  max-width: 665px;
+}
+
+.post .article p img,
+.post .article img {
+  width: 100%;
+  height: auto;
+  max-width: 665px;
+  display: block;
+}
