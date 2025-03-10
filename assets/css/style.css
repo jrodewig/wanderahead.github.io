@@ -1,0 +1,178 @@
+/*----------------------------------------*/
+/* Variables
+/*----------------------------------------*/
+
+:root {
+  --bg: #f5f1e9;
+  --meta: #3B3B3B;
+  --accent: #6C1D09;
+  --border: #e6d9c3;
+  --black: #000;
+  --font-size: 16px;
+}
+
+/*----------------------------------------*/
+/* Defaults + fallback
+/*----------------------------------------*/
+
+@view-transition {
+  navigation: auto;
+}
+
+body {
+  background-color: var(--bg);
+  font-family: 'Noto Serif', serif;
+  padding: 0;
+  margin: 0;
+}
+
+@media (min-width: 1280px) {
+  .nav,
+  .footer,
+  main {
+    max-width: 1200px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .nav,
+  .footer,
+  main {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .nav,
+  .footer,
+  main {
+    max-width: 720px;
+  }
+}
+
+.footer,
+.nav,
+main {
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+
+/*----------------------------------------*/
+/* Typography
+/*----------------------------------------*/
+
+span.cat {
+  color: var(--accent);
+  display: flex;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 11px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span {
+  font-family: 'Lato', sans-serif;
+}
+
+a,
+p {
+  font-family: 'Noto Serif', serif;
+}
+
+/*----------------------------------------*/
+/* Nav
+/*----------------------------------------*/
+
+.nav {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--s-16);
+  padding-top: var(--s-24);
+  padding-bottom: var(--s-24);
+  position: relative;
+}
+
+.nav a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav a:not(:first-child) {
+  color: var(--accent);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--border-radius);
+}
+
+/*----------------------------------------*/
+/* Footer
+/*----------------------------------------*/
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.footer .logo {
+  width: 50%;
+}
+
+.footer .col {
+  width: calc(50% / 3);
+  text-align: right;
+}
+
+.footer .col ul {
+  padding-left: 0;
+}
+
+.footer .col ul li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.footer .copyright {
+  width: 100%;
+  text-align: left;
+  padding: 20px 0;
+  margin-top: 20px;
+}
+
+.footer .copyright p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--meta);
+}
+
+@media (max-width: 768px) {
+  .footer .logo,
+  .footer .col {
+    flex: 0 0 50%;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .footer .col:nth-child(3) {
+    text-align: left;
+  }
+
+  .footer .copyright {
+    padding: 15px 0;
+  }
+}

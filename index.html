@@ -1,0 +1,332 @@
+---
+title: Home page
+description: Lorem ipsum dolor sit amet
+---
+
+<style>
+.featured-grid {
+  display: grid;
+  gap: 20px;
+  padding: 0 16px;
+  contain: content;
+}
+
+.featured-grid .article {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 20px;
+}
+
+.featured-grid .article.sidebar {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.featured-grid .article:last-child {
+  border-bottom: none;
+}
+
+.featured-grid .article .info a,
+.featured-grid .article .info a h2 {
+  color: var(--black);
+  text-decoration: none;
+  margin: 0;
+}
+
+.featured-grid .article.sidebar .image {
+  width: 180px;
+}
+
+.featured-grid .article.featured .image img {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  aspect-ratio: 588 / 396;
+}
+
+.featured-grid .article.featured .info a,
+.featured-grid .article.featured .info a h2  {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.featured-grid .article.sidebar .image {
+  margin-left: 20px;
+}
+
+.featured-grid .article.sidebar .image img {
+  aspect-ratio: 180 / 180;
+  height: 180px;
+  width: 180px;
+}
+
+.featured-grid .article.sidebar .info a,
+.featured-grid .article.sidebar .info a h2  {
+  font-size: 17px;
+  line-height: 22px;
+}
+
+.featured-grid .article p {
+  color: var(--meta);
+}
+
+.featured-grid .article.featured p {
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.featured-grid .article.sidebar p {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+@media (min-width: 768px) {
+  .featured-grid {
+    display: grid;
+    gap: 32px 24px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    padding: 0;
+  }
+
+  .featured-grid .article {
+    border-bottom: none;
+  }
+
+  .featured-grid .article.featured {
+    display: flex;
+    flex-direction: column;
+    grid-area: span 3 / span 1;
+    align-items: baseline;
+  }
+
+  .featured-grid .article.sidebar {
+    display: flex;
+    flex-direction: row;
+    grid-column: 2 / span 1;
+    max-height: 180px;
+    align-items: center;
+    padding-bottom: 0;
+  }
+
+  .featured-grid .article.sidebar .image {
+    margin-right: 20px;
+  }
+}
+
+.tile-heading {
+  text-align: center;
+}
+
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.article.tile {
+  flex: 0 32%;
+  margin-bottom: 2%; /* (100-32*3)/2 */
+}
+
+.tiles .article.tile a,
+.tiles .article.tile a h2  {
+  font-size: 24px;
+  line-height: 30px;
+  color: var(--black);
+  text-decoration: none;
+  margin: 0;
+}
+
+.article.tile .image,
+.article.tile .image a img {
+    max-width: 100%;
+    aspect-ratio: 384 / 256;
+  }
+
+@media (max-width: 1280px) {
+  .article.tile {
+    flex: 0 45%;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .article.tile {
+    flex: 0 100%;
+    margin-bottom: 40px;
+  }
+
+  .article.tile .image a img {
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+}
+
+.destinations {
+  contain: layout;
+  cursor: grab;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  user-select: none;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  touch-action: pan-y; /* Prevents vertical scrolling interference */
+  -webkit-user-drag: none; /* Prevents image dragging in Webkit */
+  padding: 0 10px;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.destination {
+  margin-right: 10px;
+  flex: 0 0 auto;
+}
+
+.destination img {
+  aspect-ratio: 278 / 379;
+}
+
+</style>
+
+<div class="featured-grid">
+  {% assign posts = site.posts | slice: 0, 4 %}
+  {% for post in posts %}
+    {% if forloop.first %}
+    <div class="article featured"> 
+      <div class="image">
+        <a href="{{ post.url }}">
+          {% assign featured_image = post.image | replace: '.svg', '-588x396.svg' %}
+          <img src="{{ featured_image }}" alt="{{ post.title }}" >
+        </a>
+      </div>
+      <div class="info">
+        <span class="cat">{{ post.category }}</span>
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+          {{ post.excerpt }}
+      </div>
+    </div>
+    {% else %}
+    <div class="article sidebar"> 
+      <div class="image">
+        <a href="{{ post.url }}">
+          {% assign sidebar_image = post.image | replace: '.svg', '-180x180.svg' %}
+          <img src="{{ sidebar_image }}" alt="{{ post.title }}" loading="lazy">
+        </a>
+      </div>
+      <div class="info">
+        <span class="cat">{{ post.category }}</span>
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<h2>Read more cool stuff</h2>
+
+<div class="tiles">
+  {% assign posts = site.posts | slice: 4, 10  %}
+  {% for post in posts %}
+    <div class="article tile">
+      <div class="image">
+        <a href="{{ post.url }}">
+          {% assign tile_image = post.image | replace: '.svg', '-384x256.svg' %}
+          <img src="{{ tile_image }}" alt="{{ post.title }}" loading="lazy">
+        </a>
+      </div>
+      <div>
+        <span class="cat">{{ post.category }}</span>
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Top destinations</h2>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const destinations = document.querySelector('.destinations');
+  let isDragging = false;
+  let startX;
+  let scrollLeft;
+
+  // Prevent default image dragging
+  destinations.querySelectorAll('img').forEach(img => {
+    img.setAttribute('draggable', 'false');
+    img.style.userSelect = 'none';
+  });
+
+  const startDragging = (x) => {
+    isDragging = true;
+    startX = x - destinations.offsetLeft;
+    scrollLeft = destinations.scrollLeft;
+    destinations.style.cursor = 'grabbing';
+  };
+
+  const stopDragging = () => {
+    isDragging = false;
+    destinations.style.cursor = 'grab';
+  };
+
+  // Mouse events
+  destinations.addEventListener('mousedown', (e) => {
+    e.preventDefault(); // Prevent default behavior
+    startDragging(e.pageX);
+  });
+
+  destinations.addEventListener('mouseleave', stopDragging);
+  destinations.addEventListener('mouseup', stopDragging);
+
+  destinations.addEventListener('mousemove', (e) => {
+    if (!isDragging) return;
+    e.preventDefault();
+    const x = e.pageX - destinations.offsetLeft;
+    const walk = (x - startX) * 1.5;
+    destinations.scrollLeft = scrollLeft - walk;
+  });
+
+  // Touch events
+  destinations.addEventListener('touchstart', (e) => {
+    e.preventDefault(); // Prevent default touch behavior
+    startDragging(e.touches[0].pageX);
+  }, { passive: false });
+
+  destinations.addEventListener('touchend', stopDragging);
+  destinations.addEventListener('touchcancel', stopDragging);
+
+  destinations.addEventListener('touchmove', (e) => {
+    if (!isDragging) return;
+    e.preventDefault();
+    const x = e.touches[0].pageX - destinations.offsetLeft;
+    const walk = (x - startX) * 1.5;
+    destinations.scrollLeft = scrollLeft - walk;
+  }, { passive: false });
+});
+</script>
+
+{% assign categories_array = "" | split:"|" %}
+{% for post in site.posts %}
+  {% if post.category %}
+    {% assign categories_array = categories_array | push: post.category | uniq %}
+  {% endif %}
+{% endfor %}
+
+<div class="destinations">
+  {% for category in categories_array %}
+    <div class="destination">
+      {% assign category_data = site.data.category_images[category] %}
+      {% if category_data.image %}
+        {% assign dest_image = category_data.image | replace: '.svg', '-278x379.svg' %}
+        <a href="#"><img src="{{ dest_image }}" alt="{{ category }}" loading="lazy"></a>
+      {% else %}
+        <a href="#"><img src="/assets/img/placeholder-278x379.svg" alt="Destination" loading="lazy"></a>
+      {% endif %}
+      <h3>{{ category }}</h3>
+    </div>
+  {% endfor %}
+</div>
