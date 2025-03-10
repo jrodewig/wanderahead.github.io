@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    {% include head.html %}
+    <link rel="preload" href="/assets/css/home.css" as="style" onload="this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="/assets/css/home.css">
+    </noscript>
+  </head>
+<body>
+  {% include nav.html %}
+  <main class="fixed-width">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>

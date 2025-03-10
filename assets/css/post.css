@@ -1,0 +1,25 @@
+.post .featured-image {
+  max-width: 100%; /* Ensures the image never exceeds its container's width */
+  height: auto;    /* Maintains the aspect ratio */
+  display: block;  /* Removes any unwanted spacing below the image */
+}
+
+.post .cat {
+  margin-top: 20px;
+}
+
+.post .content-wrapper {
+  display: flex;
+  gap: 20px; /* Space between article and sidebar */
+}
+
+.post .content-wrapper .article {
+  flex: 2;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.post .content-wrapper .sidebar {
+  flex: 1;
+  padding: 15px;
+}

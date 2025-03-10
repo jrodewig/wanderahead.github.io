@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  {% include head.html %}
+  <link rel="preload" href="/assets/css/post.css" as="style" onload="this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="/assets/css/post.css">
+  </noscript>
+</head>
+
+<body>
+  {% include nav.html %}
+  <main class="fixed-width post">
+    {% assign featured_image = page.image | replace: '.svg', '-1200x675.svg' %}
+    <img class="featured-image" src="{{ featured_image }}" alt="{{ page.title
+    }}">
+    <span class="cat">{{ page.category }}</span>
+    <h1>{{ page.title }}</h1>
+    <div class="content-wrapper">
+      <article class="article">
+        {{ content }}
+      </article>
+      <aside class="sidebar">
+      </aside>
+    </div>
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>
