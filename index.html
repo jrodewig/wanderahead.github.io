@@ -1,0 +1,32 @@
+---
+title: Home page
+description: Lorem ipsum dolor sit amet
+---
+
+<div class="featured-grid">
+  {% assign featured_posts = site.posts | where: "featured", "true" | limit: 4 %}
+  {% for post in featured_posts %}
+    {% if forloop.first %}
+    <div class="article featured"> 
+      <div class="image">
+        <a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
+      </div>
+      <div class="info">
+        <span>{{ post.category }}</span>
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+          {{ post.excerpt }}
+      </div>
+    </div>
+    {% else %}
+    <div class="article sidebar"> 
+      <div class="image">
+        <a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
+      </div>
+      <div class="info">
+        <span>{{ post.category }}</span>
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>

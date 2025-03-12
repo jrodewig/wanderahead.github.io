@@ -1,0 +1,9 @@
+<head>
+<!-- Preload CSS with non-blocking technique -->
+<link rel="preload" href="/assets/css/style.css" as="style" onload="this.rel='stylesheet'">
+
+<!-- Fallback for browsers that don't support the onload technique -->
+<noscript>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</noscript>
+</head>
