@@ -49,6 +49,20 @@ body {
 }
 
 /*----------------------------------------*/
+/* Typography
+/*----------------------------------------*/
+
+span.cat {
+  color: var(--accent);
+  display: flex;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 11px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+/*----------------------------------------*/
 /* Home Page - Featured Grid
 /*----------------------------------------*/
 
@@ -71,16 +85,6 @@ body {
 
 .featured-grid .article:last-child {
   border-bottom: none;
-}
-
-.featured-grid .article .info .cat {
-  display: flex;
-  font-size: 11px;
-  text-transform: uppercase;
-  color: var(--accent);
-  font-weight: 700;
-  line-height: 11px;
-  margin-bottom: 8px;
 }
 
 .featured-grid .article .info a,
@@ -158,4 +162,32 @@ body {
   .featured-grid .article.sidebar .image {
     margin-right: 20px;
   }
+}
+
+/*----------------------------------------*/
+/* Home Page - Tiles
+/*----------------------------------------*/
+
+.tile-heading {
+  text-align: center;
+}
+
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.article.tile {
+  flex: 0 32%;
+  margin-bottom: 2%; /* (100-32*3)/2 */
+}
+
+.tiles .article.tile a,
+.tiles .article.tile a h2  {
+  font-size: 24px;
+  line-height: 30px;
+  color: var(--black);
+  text-decoration: none;
+  margin: 0;
 }

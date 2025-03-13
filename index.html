@@ -4,8 +4,8 @@ description: Lorem ipsum dolor sit amet
 ---
 
 <div class="featured-grid">
-  {% assign featured_posts = site.posts | where: "featured", "true" | limit: 4 %}
-  {% for post in featured_posts %}
+  {% assign posts = site.posts %}
+  {% for post in posts | limit: 4 %}
     {% if forloop.first %}
     <div class="article featured"> 
       <div class="image">
@@ -28,5 +28,21 @@ description: Lorem ipsum dolor sit amet
       </div>
     </div>
     {% endif %}
+  {% endfor %}
+</div>
+
+<h2 class="tile-heading">Lorem ipsum dolor sit amet</h2>
+
+<div class="tiles">
+  {% for post in posts | offset: 4 | limit: 6 %}
+    <div class="article tile">
+      <div class="image">
+        <a href="{{ post.url }}"><img src="{{ post.image }}" /></a>
+      </div>
+      <div class="image">
+        <span class="cat">{{ post.category }}</span>
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      </div>
+    </div>
   {% endfor %}
 </div>
