@@ -15,33 +15,37 @@
 /* Defaults + fallback
 /*----------------------------------------*/
 
+@view-transition {
+  navigation: auto;
+}
+
 body {
   background-color: var(--bg);
   font-family: Arial, sans-serif;
-  margin: 20px auto;
-  max-width: 1200px;
   padding: 0;
 }
 
 @media (min-width: 1280px) {
-  body {
+  main {
     max-width: 1200px;
+    margin: 20px auto;
   }
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
-  body {
+  main {
     max-width: 960px;
+    margin: 20px auto;
+    padding: 0 20px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-  body {
+  main {
     max-width: 720px;
+    margin: 20px auto;
+    padding: 0 20px;
   }
-}
-
-@media (max-width: 768px) {
 }
 
 /*----------------------------------------*/
