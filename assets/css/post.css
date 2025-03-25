@@ -1,25 +1,42 @@
-.post .featured-image {
-  max-width: 100%; /* Ensures the image never exceeds its container's width */
-  height: auto;    /* Maintains the aspect ratio */
-  display: block;  /* Removes any unwanted spacing below the image */
+.featured-image-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featured-image-wrapper .featured-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
 }
 
 .post .cat {
   margin-top: 20px;
 }
 
-.post .content-wrapper {
-  display: flex;
-  gap: 20px; /* Space between article and sidebar */
+.post h1 {
+  font-size: 46px;
+  line-height: 52px;
+  margin-top: 0;
 }
 
-.post .content-wrapper .article {
-  flex: 2;
-  font-size: 18px;
-  line-height: 28px;
+.post .info .author {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
 }
 
-.post .content-wrapper .sidebar {
-  flex: 1;
-  padding: 15px;
+.post .info .last-updated {
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.post .article p {
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.post.fixed-width {
+  max-width: 665px;
 }

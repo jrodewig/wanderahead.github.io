@@ -33,7 +33,7 @@ section {
 }
 
 .featured-grid .article .info a,
-.featured-grid .article .info a h2 {
+.featured-grid .article .info a h3 {
   color: var(--black);
   text-decoration: none;
   margin: 0;
@@ -146,6 +146,10 @@ section {
   color: var(--black);
   text-decoration: none;
   margin: 0;
+}
+
+.article.tile .image {
+  margin-bottom: 10px;
 }
 
 .article.tile .image,

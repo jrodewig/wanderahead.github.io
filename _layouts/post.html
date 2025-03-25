@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
 <head>
   {% include head.html %}
   <link rel="preload" href="/assets/css/post.css" as="style" onload="this.rel='stylesheet'">
@@ -8,24 +7,47 @@
     <link rel="stylesheet" href="/assets/css/post.css">
   </noscript>
 </head>
-
 <body>
   {% include nav.html %}
+  {% assign featured_image = page.image | replace: '.webp', '-1200x400.webp' %}
+  <div class="featured-image-wrapper">
+    <picture>
+      <source 
+        media="(min-width: 1280px)" 
+        srcset="{{ page.image | replace: '.webp', '-1200x400.webp' }} 1200w"
+      >
+      <source 
+        media="(min-width: 1024px)" 
+        srcset="{{ page.image | replace: '.webp', '-960x320.webp' }} 960w"
+      >
+      <source 
+        media="(min-width: 768px)" 
+        srcset="{{ page.image | replace: '.webp', '-720x240.webp' }} 720w"
+      >
+      <source 
+        srcset="{{ page.image | replace: '.webp', '-480x160.webp' }} 480w"
+      >
+      <img 
+        class="featured-image" 
+        src="{{ featured_image }}" 
+        alt="{{ page.title }}"
+        width="1200"
+        height="400"
+      >
+    </picture>
+  </div>
   <main class="fixed-width post">
-    {% assign featured_image = page.image | replace: '.svg', '-1200x675.svg' %}
-    <img class="featured-image" src="{{ featured_image }}" alt="{{ page.title
-    }}">
     <span class="cat">{{ page.category }}</span>
     <h1>{{ page.title }}</h1>
-    <div class="content-wrapper">
+    <div class="info">
+      <p class="author">By {{ page.author }}</p>
+      <p class="last-updated">Updated on {{ page.last-updated | date: "%B %d,
+      %Y" }}</p>
       <article class="article">
         {{ content }}
       </article>
-      <aside class="sidebar">
-      </aside>
     </div>
   </main>
   {% include footer.html %}
 </body>
-
 </html>

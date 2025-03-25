@@ -12,8 +12,8 @@ layout: home
     <div class="article featured">
       <div class="image">
         <a href="{{ post.url }}">
-          {% assign featured_image = post.image | replace: '.svg', '-588x396.svg' %}
-          <img src="{{ featured_image }}" alt="{{ post.title }}">
+          {% assign featured_image = post.image | replace: '.webp', '-588x396.webp' %}
+          <img src="{{ featured_image }}" alt="{{ post.title }}" width="588" height="396"">
         </a>
       </div>
       <div class="info">
@@ -28,7 +28,7 @@ layout: home
     <div class="article sidebar">
       <div class="image">
         <a href="{{ post.url }}">
-          {% assign sidebar_image = post.image | replace: '.svg', '-180x180.svg' %}
+          {% assign sidebar_image = post.image | replace: '.webp', '-180x180.webp' %}
           <img src="{{ sidebar_image }}" alt="{{ post.title }}" loading="lazy">
         </a>
       </div>
@@ -53,7 +53,7 @@ layout: home
     <div class="article tile">
       <div class="image">
         <a href="{{ post.url }}">
-          {% assign tile_image = post.image | replace: '.svg', '-384x256.svg' %}
+          {% assign tile_image = post.image | replace: '.webp', '-384x256.webp' %}
           <img src="{{ tile_image }}" alt="{{ post.title }}" loading="lazy">
         </a>
       </div>
@@ -83,7 +83,7 @@ layout: home
     <div class="destination">
       {% assign category_data = site.data.category_images[category] %}
       {% if category_data.image %}
-      {% assign dest_image = category_data.image | replace: '.svg', '-278x379.svg' %}
+      {% assign dest_image = category_data.image | replace: '.webp', '-278x379.webp' %}
       <a href="#"><img src="{{ dest_image }}" alt="{{ category }}" loading="lazy"></a>
       {% else %}
       <a href="#"><img src="/assets/img/placeholder-278x379.svg" alt="Destination" loading="lazy"></a>
