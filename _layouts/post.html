@@ -9,9 +9,13 @@
 </head>
 <body>
   {% include nav.html %}
-  {% assign featured_image = page.image | replace: '.webp', '-1200x400.webp' %}
+  {% assign featured_image = page.image | replace: '.webp', '-1800x600.webp' %}
   <div class="featured-image-wrapper">
     <picture>
+      <source 
+        media="(min-width: 1280px)" 
+        srcset="{{ page.image | replace: '.webp', '-1800x600.webp' }} 1600w"
+      >
       <source 
         media="(min-width: 1280px)" 
         srcset="{{ page.image | replace: '.webp', '-1200x400.webp' }} 1200w"
@@ -36,7 +40,7 @@
       >
     </picture>
   </div>
-  <main class="fixed-width post">
+  <main class="post fixed-width ">
     <span class="cat">{{ page.category }}</span>
     <h1>{{ page.title }}</h1>
     <div class="info">

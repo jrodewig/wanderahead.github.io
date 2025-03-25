@@ -40,3 +40,9 @@
 .post.fixed-width {
   max-width: 665px;
 }
+
+.post .article p img,
+.post .article img {
+  width: 100%;
+  height: auto;
+}
