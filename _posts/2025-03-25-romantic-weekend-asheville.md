@@ -160,10 +160,10 @@ placards. Did you know the Twilight Zone pinball maker hired a voice actor?
 ## 4. Lounge in Comfort
 
 <img
-  src="./assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-665.webp"
-  srcset="./assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-320.webp 320w,
-          ./assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-480.webp 480w,
-          ./assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-665.webp 665w"
+  src="/assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-665.webp"
+  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-320.webp 320w,
+          /assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-480.webp 480w,
+          /assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Hampton Inn & Suites Asheville Biltmore Area"
   width="665"

@@ -9,34 +9,26 @@
 </head>
 <body>
   {% include nav.html %}
-  {% assign featured_image = page.image | replace: '.webp', '-1800x600.webp' %}
+  {% assign featured_image = page.image | replace: '.webp', '-1440x600.webp' %}
   <div class="featured-image-wrapper">
     <picture>
       <source 
         media="(min-width: 1280px)" 
-        srcset="{{ page.image | replace: '.webp', '-1800x600.webp' }} 1600w"
-      >
-      <source 
-        media="(min-width: 1280px)" 
-        srcset="{{ page.image | replace: '.webp', '-1200x400.webp' }} 1200w"
+        srcset="{{ featured_image }} 1600w"
       >
       <source 
         media="(min-width: 1024px)" 
-        srcset="{{ page.image | replace: '.webp', '-960x320.webp' }} 960w"
+        srcset="{{ page.image | replace: '.webp', '-768x320.webp' }} 960w"
       >
       <source 
-        media="(min-width: 768px)" 
-        srcset="{{ page.image | replace: '.webp', '-720x240.webp' }} 720w"
-      >
-      <source 
-        srcset="{{ page.image | replace: '.webp', '-480x160.webp' }} 480w"
+        srcset="{{ page.image | replace: '.webp', '-414x173.webp' }} 480w"
       >
       <img 
         class="featured-image" 
         src="{{ featured_image }}" 
         alt="{{ page.title }}"
         width="1200"
-        height="400"
+        height="500"
       >
     </picture>
   </div>

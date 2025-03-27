@@ -27,6 +27,7 @@ magick "$input_file" -resize 665x -quality 80 -strip "${dir}/${base}-665.${ext}"
 
 # Get the height of the 665px image
 height=$(magick identify -format "%h" "${dir}/${base}-665.${ext}")
+dir=$(dirname "$input_file" | sed 's/^\.//') 
 
 # Construct the img tag
 echo "<img"
