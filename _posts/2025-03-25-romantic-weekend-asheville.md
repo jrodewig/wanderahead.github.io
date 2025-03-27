@@ -19,8 +19,17 @@ while keeping things relaxed.
 
 ## 1. Pack a Gourmet Picnic
 
-![Picnic at Catawba Falls in Old Fort, NC, near Asheville](/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic.webp){:width="665" height="442"
-lazy="loading"}
+<img 
+  src="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp" 
+  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-320.webp 320w, 
+          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-480.webp 480w, 
+          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp 665w" 
+  sizes="(max-width: 665px) 100vw, 665px" 
+  alt="Picnic at Catawba Falls in Old Fort, NC, near Asheville" 
+  width="665" 
+  height="442" 
+  loading="lazy"
+/>
 
 If you’re going to be out in that gorgeous nature all day, you’ll be hungry, but
 you don’t necessarily want to cut your hike short. Plan ahead by bringing a
@@ -52,9 +61,17 @@ of the best picnics we’ve ever had.
 
 ## 2. Hit the Trails
 
-![Flower on a trail in
-Asheville](/assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail.webp){:width="665" height="499"
-lazy="loading"}
+<img 
+  src="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-665.webp" 
+  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-320.webp 320w, 
+          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-480.webp 480w, 
+          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-665.webp 665w" 
+  sizes="(max-width: 665px) 100vw, 665px" 
+  alt="Flower on a trail in Asheville" 
+  width="665" 
+  height="449" 
+  loading="lazy"
+/>
 
 If you look at a map of greater Asheville, it looks like two giant swathes of
 green are about to converge on the city. One comes in from the northeast and the

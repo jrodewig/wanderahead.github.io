@@ -45,4 +45,6 @@
 .post .article img {
   width: 100%;
   height: auto;
+  max-width: 665px;
+  display: block;
 }
