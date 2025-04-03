@@ -28,8 +28,8 @@
   transition: color 0.3s ease;
 }
 
-.article.tile .image:hover + .info h2,
-.article.tile .info h2:hover {
+.article.tile .image:hover + .info h3,
+.article.tile .info h3:hover {
   color: #6c1d09;
 }
 
