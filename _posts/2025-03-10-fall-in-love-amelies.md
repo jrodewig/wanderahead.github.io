@@ -1,10 +1,12 @@
 ---
 title: Why You’ll Fall in Love with Amélie’s
-image: /assets/img/placeholder.webp
+image: /assets/img/2025-03-25-romantic-weekend-asheville/asheville-romantic.webp
 featured: true
 category: North Carolina
 layout: post
 author: Cheryl Rodewig
+excerpt: 
+last-updated: 2025-03-10
 ---
 
 You’ve got your typical coffee joints and bakeries — and then there’s Amélie’s
@@ -22,7 +24,7 @@ across North and South Carolina.
 
 And their food isn’t just good; it’s art. The cakes are things of beauty.
 Splurge on a slice — or two. The pretty multicolored macarons are also a must,
-sweet and utter bliss when paired with a fresh café (coffee).
+sweet and utter bliss when paired with a fresh coffee.
 
 Each cup of joe is made with North Carolina’s own Magnolia Coffee Company
 roasted coffee. If you’re having trouble deciding, opt for a café crème, which
