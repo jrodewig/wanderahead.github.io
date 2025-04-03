@@ -19,9 +19,9 @@ input="$1"
 # Derive base name by removing the extension
 base="${input%.*}"
 
-# Convert original image to WebP (no resizing)
+# Convert original image to WebP
 echo "Converting original to WebP..."
-magick "$input" -define webp:lossless=true "$base.webp"
+magick "$input" -quality 85 -define webp:method=6 "$base.webp"
 
 # Array of sizes
 sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x320" "1440x600")
@@ -29,7 +29,7 @@ sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x320" "1440x600")
 # Loop through sizes
 for size in "${sizes[@]}"; do
   echo "Converting to $size..."
-  magick "$input" -resize "$size^" -gravity center -crop "$size+0+0" -define webp:lossless=true "$base-$size.webp"
+  magick "$input" -resize "$size^" -gravity center -crop "$size+0+0" -quality 85 -define webp:method=6 "$base-$size.webp"
 done
 
 echo "Conversion complete!"
