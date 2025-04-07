@@ -18,23 +18,22 @@ fi
 # Get the directory and filename without extension
 dir=$(dirname "$input_file")
 base=$(basename "$input_file" | sed 's/\.[^.]*$//')
-ext="${input_file##*.}"
 
-# Run magick commands with different sizes
-magick "$input_file" -resize 320x -quality 80 -strip "${dir}/${base}-320.${ext}"
-magick "$input_file" -resize 480x -quality 80 -strip "${dir}/${base}-480.${ext}"
-magick "$input_file" -resize 665x -quality 80 -strip "${dir}/${base}-665.${ext}"
+# Run magick commands with different sizes and convert to webp
+magick "$input_file" -resize 320x -quality 80 -strip "${dir}/${base}-320.webp"
+magick "$input_file" -resize 480x -quality 80 -strip "${dir}/${base}-480.webp"
+magick "$input_file" -resize 665x -quality 80 -strip "${dir}/${base}-665.webp"
 
 # Get the height of the 665px image
-height=$(magick identify -format "%h" "${dir}/${base}-665.${ext}")
+height=$(magick identify -format "%h" "${dir}/${base}-665.webp")
 dir=$(dirname "$input_file" | sed 's/^\.//') 
 
 # Construct the img tag
 echo "<img"
-echo "  src=\"${dir}/${base}-665.${ext}\""
-echo "  srcset=\"${dir}/${base}-320.${ext} 320w,"
-echo "          ${dir}/${base}-480.${ext} 480w,"
-echo "          ${dir}/${base}-665.${ext} 665w\""
+echo "  src=\"${dir}/${base}-665.webp\""
+echo "  srcset=\"${dir}/${base}-320.webp 320w,"
+echo "          ${dir}/${base}-480.webp 480w,"
+echo "          ${dir}/${base}-665.webp 665w\""
 echo "  sizes=\"(max-width: 665px) 100vw, 665px\""
 echo "  alt=\"\""
 echo "  width=\"665\""
