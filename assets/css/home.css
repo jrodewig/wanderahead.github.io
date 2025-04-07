@@ -107,6 +107,42 @@ section {
   line-height: 20px;
 }
 
+@media (max-width: 1279px) {
+  .featured-grid .article.sidebar .image {
+    height: 140px;
+    min-width: 140px;
+  }
+  
+  .featured-grid .article.sidebar .image img {
+    height: 140px;
+    width: 140px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .featured-grid .article.sidebar .image {
+    height: 112px;
+    min-width: 112px;
+  }
+  
+  .featured-grid .article.sidebar .image img {
+    height: 112px;
+    width: 112px;
+  }
+}
+
+@media (max-width: 769px) {
+  .featured-grid .article.sidebar .image {
+    height: 180px;
+    min-width: 180px;
+  }
+  
+  .featured-grid .article.sidebar .image img {
+    height: 180px;
+    width: 180px;
+  }
+}
+
 @media (min-width: 768px) {
   .featured-grid {
     display: grid;
