@@ -237,7 +237,7 @@ mountains that go on forever. Allow at least two hours for your self-guided tour
 And you can’t ignore Antler Hill Village & Winery. They sometimes have exhibits
 there as well as a wine tasting, included with admission. If that sounds like a
 lot, it is. Although you can leave the estate and come back the same day with
-your ticket, it’s better to stay on the property to maximize your time. 
+your ticket, it’s better to stay on the property to maximize your time.
 
 **Local tip:** Nearby, [Historic Biltmore
 Village](http://www.historicbiltmorevillage.com/), a turn-of-the-century planned
@@ -272,7 +272,7 @@ online](https://www.biltmore.com/landing/ticket-options/) before you go.
   loading="lazy"
 />
 
-I like trees as much as the next person, but I’m here for the flowers. 
+I like trees as much as the next person, but I’m here for the flowers.
 
 Despite its name, the North Carolina Arboretum includes several manicured
 gardens that make for a pleasant evening stroll — they’re open as late as 9 p.m.

@@ -1,44 +1,58 @@
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
 <!-- Favicon -->
-<link href="/assets/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/assets/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 <!-- Preload the font files -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style"
-  href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="preload"
+  as="style"
+  href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+/>
 
 <!-- Load the font stylesheet -->
-<link rel="stylesheet"
-  href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+/>
 
 <!-- Preload CSS with non-blocking technique -->
-<link rel="preload" href="/assets/css/style.css" as="style" onload="this.rel='stylesheet'">
+<link
+  rel="preload"
+  href="/assets/css/style.css"
+  as="style"
+  onload="this.rel='stylesheet'"
+/>
 
 <!-- Fallback for browsers that don't support the onload technique -->
 <noscript>
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css" />
 </noscript>
 
 {% if page.name == "index.html" %}
 <title>{{page.title}}</title>
-<meta property="og:title" content="{{page.title}}">
-<meta property="twitter:title" content="{{page.title}}">
+<meta property="og:title" content="{{page.title}}" />
+<meta property="twitter:title" content="{{page.title}}" />
 {% else %}
 <title>{{page.title}} | {{site.title}}</title>
-<meta property="og:title" content="{{page.title}} | {{site.title}}">
-<meta property="twitter:title" content="{{page.title}} | {{site.title}}">
-{% endif %}
-
-{% if page.description %}
-<meta name="description" content="{{page.description}}">
-<meta property="og:description" content="{{page.description}}">
+<meta property="og:title" content="{{page.title}} | {{site.title}}" />
+<meta property="twitter:title" content="{{page.title}} | {{site.title}}" />
+{% endif %} {% if page.description %}
+<meta name="description" content="{{page.description}}" />
+<meta property="og:description" content="{{page.description}}" />
 {% else if page.excerpt %}
-<meta name="description" content="{{ page.excerpt | strip_html }}">
-<meta property="og:description" content="{{ page.excerpt | strip_html }}">
+<meta name="description" content="{{ page.excerpt | strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
 {% else %}
-<meta name="description" content="{{ page.content | strip_html | truncatewords: 25 }}">
-<meta property="og:description" content="{{ page.content | strip_html | truncatewords: 25 }}">
+<meta
+  name="description"
+  content="{{ page.content | strip_html | truncatewords: 25 }}"
+/>
+<meta
+  property="og:description"
+  content="{{ page.content | strip_html | truncatewords: 25 }}"
+/>
 {% endif %}
 
 <meta name="robots" content="noindex, nofollow" />

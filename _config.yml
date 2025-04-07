@@ -18,14 +18,12 @@ sass:
   style: compressed
 
 defaults:
-  -
-    scope:
-      path:            "assets/*"
+  - scope:
+      path: "assets/*"
     values:
-      sitemap:         false
-  -
-    scope:
-      path:            ""
+      sitemap: false
+  - scope:
+      path: ""
     values:
       layout: default
       title: Wander Ahead

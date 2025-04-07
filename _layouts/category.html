@@ -1,50 +1,61 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-US">
   <head>
     {% include head.html %}
-    <link rel="preload" href="/assets/css/category.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="/assets/css/tiles.css" as="style" onload="this.rel='stylesheet'">
+    <link
+      rel="preload"
+      href="/assets/css/category.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <link
+      rel="preload"
+      href="/assets/css/tiles.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
     <noscript>
-      <link rel="stylesheet" href="/assets/css/category.css">
-      <link rel="stylesheet" href="/assets/css/tiles.css">
+      <link rel="stylesheet" href="/assets/css/category.css" />
+      <link rel="stylesheet" href="/assets/css/tiles.css" />
     </noscript>
   </head>
-<body>
-  {% include nav.html %}
-  <main class="fixed-width category-page">
-    {% assign featured_image = page.image | replace: '.webp', '-1440x600.webp' %}
-    <div class="featured-image-wrapper">
-      <picture>
-        <source 
-          media="(min-width: 1280px)" 
-          srcset="{{ featured_image }} 1600w"
-        >
-        <source 
-          media="(min-width: 1024px)" 
-          srcset="{{ page.image | replace: '.webp', '-768x320.webp' }} 960w"
-        >
-        <source 
-          srcset="{{ page.image | replace: '.webp', '-414x173.webp' }} 480w"
-        >
-        <img 
-          class="featured-image" 
-          src="{{ featured_image }}" 
-          alt="{{ page.title }}"
-          width="1200"
-          height="500"
-        >
-      </picture>
-    </div>
-    <h1>{{ page.title }}</h1>
-    <p class="excerpt">{{ page.excerpt | strip_html }}</p>
-    <div class="tiles">
-    {% for post in site.posts %}
-      {% if post.category == page.title %}
+  <body>
+    {% include nav.html %}
+    <main class="fixed-width category-page">
+      {% assign featured_image = page.image | replace: '.webp', '-1440x600.webp'
+      %}
+      <div class="featured-image-wrapper">
+        <picture>
+          <source
+            media="(min-width: 1280px)"
+            srcset="{{ featured_image }} 1600w"
+          />
+          <source
+            media="(min-width: 1024px)"
+            srcset="{{ page.image | replace: '.webp', '-768x320.webp' }} 960w"
+          />
+          <source
+            srcset="{{ page.image | replace: '.webp', '-414x173.webp' }} 480w"
+          />
+          <img
+            class="featured-image"
+            src="{{ featured_image }}"
+            alt="{{ page.title }}"
+            width="1200"
+            height="500"
+          />
+        </picture>
+      </div>
+      <h1>{{ page.title }}</h1>
+      <p class="excerpt">{{ page.excerpt | strip_html }}</p>
+      <div class="tiles">
+        {% for post in site.posts %} {% if post.category == page.title %}
         <div class="article tile">
           <div class="image">
             <a href="{{ post.url }}">
-              {% assign tile_image = post.image | replace: '.webp', '-384x256.webp' %}
-              <img src="{{ tile_image }}" alt="{{ post.title }}">
+              {% assign tile_image = post.image | replace: '.webp',
+              '-384x256.webp' %}
+              <img src="{{ tile_image }}" alt="{{ post.title }}" />
             </a>
           </div>
           <div class="info">
@@ -53,10 +64,9 @@
             </a>
           </div>
         </div>
-      {% endif %}
-    {% endfor %}
-    </div>
-  </main>
-  {% include footer.html %}
-</body>
+        {% endif %} {% endfor %}
+      </div>
+    </main>
+    {% include footer.html %}
+  </body>
 </html>
