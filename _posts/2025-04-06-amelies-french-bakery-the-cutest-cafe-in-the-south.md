@@ -1,6 +1,6 @@
 ---
 title: "Amélie's French Bakery: The Cutest Cafe in the South"
-image: /assets/img/2025-03-10-amelies/assorted-pastries-amelies-in-rock-hill.webp
+image: /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/assorted-pastries-amelies-in-rock-hill.webp
 featured: true
 category: North Carolina
 layout: post
@@ -20,10 +20,10 @@ chandelier made of pots and pans. And the Mona Lisa could easily be wearing
 sunglasses.
 
 <img
-  src="/assets/img/2025-03-10-amelies/amelies-pastry-665.webp"
-  srcset="/assets/img/2025-03-10-amelies/amelies-pastry-320.webp 320w,
-          /assets/img/2025-03-10-amelies/amelies-pastry-480.webp 480w,
-          /assets/img/2025-03-10-amelies/amelies-pastry-665.webp 665w"
+  src="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-pastry-665.webp"
+  srcset="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-pastry-320.webp 320w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-pastry-480.webp 480w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-pastry-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Pastry at Amélie's French Bakery in North Carolina"
   width="665"
@@ -41,10 +41,10 @@ now have five, including one in Rock Hill, South Carolina.
 ## What To Eat at Amélie's French Bakery
 
 <img
-  src="/assets/img/2025-03-10-amelies/amelies-tart-665.webp"
-  srcset="/assets/img/2025-03-10-amelies/amelies-tart-320.webp 320w,
-          /assets/img/2025-03-10-amelies/amelies-tart-480.webp 480w,
-          /assets/img/2025-03-10-amelies/amelies-tart-665.webp 665w"
+  src="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-tart-665.webp"
+  srcset="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-tart-320.webp 320w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-tart-480.webp 480w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-tart-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Tart at Amélie's French Bakery in North Carolina"
   width="665"
@@ -63,10 +63,10 @@ café marcotter, an Amélie's signature drink with vanilla bean syrup, caramel,
 sea salt and probably magic.
 
 <img
-  src="/assets/img/2025-03-10-amelies/amelies-sandwich-fruit-cake-665.webp"
-  srcset="/assets/img/2025-03-10-amelies/amelies-sandwich-fruit-cake-320.webp 320w,
-          /assets/img/2025-03-10-amelies/amelies-sandwich-fruit-cake-480.webp 480w,
-          /assets/img/2025-03-10-amelies/amelies-sandwich-fruit-cake-665.webp 665w"
+  src="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-sandwich-fruit-cake-665.webp"
+  srcset="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-sandwich-fruit-cake-320.webp 320w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-sandwich-fruit-cake-480.webp 480w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-sandwich-fruit-cake-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Sandwich, fruit, and small cake at Amélie's French Bakery in North Carolina"
   width="665"
@@ -82,10 +82,10 @@ and duxelles. It's even better dipped in soup.
 ## Amélie's Quirky-Cool Decor
 
 <img
-  src="/assets/img/2025-03-10-amelies/amelies-decor-665.webp"
-  srcset="/assets/img/2025-03-10-amelies/amelies-decor-320.webp 320w,
-          /assets/img/2025-03-10-amelies/amelies-decor-480.webp 480w,
-          /assets/img/2025-03-10-amelies/amelies-decor-665.webp 665w"
+  src="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-decor-665.webp"
+  srcset="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-decor-320.webp 320w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-decor-480.webp 480w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-decor-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Funky decor including clock and bust of Michelangelo's David at Amélie's French Bakery in North Carolina"
   width="665"
@@ -102,10 +102,10 @@ bout of Cranium. Or feel free to bring a laptop to plug in and work away on your
 project of choice. Plenty of people do.
 
 <img
-  src="/assets/img/2025-03-10-amelies/amelies-venus-mirror-665.webp"
-  srcset="/assets/img/2025-03-10-amelies/amelies-venus-mirror-320.webp 320w,
-          /assets/img/2025-03-10-amelies/amelies-venus-mirror-480.webp 480w,
-          /assets/img/2025-03-10-amelies/amelies-venus-mirror-665.webp 665w"
+  src="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-venus-mirror-665.webp"
+  srcset="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-venus-mirror-320.webp 320w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-venus-mirror-480.webp 480w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-venus-mirror-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Mirror reflecting the Birth of Venus painting with the viewer's face as Venus, displayed at Amélie's French Bakery in North Carolina"
   width="665"
@@ -123,10 +123,10 @@ heavenly.
 ## A Picture-Perfect Cafe
 
 <img
-  src="/assets/img/2025-03-10-amelies/amelies-coffee-cup-665.webp"
-  srcset="/assets/img/2025-03-10-amelies/amelies-coffee-cup-320.webp 320w,
-          /assets/img/2025-03-10-amelies/amelies-coffee-cup-480.webp 480w,
-          /assets/img/2025-03-10-amelies/amelies-coffee-cup-665.webp 665w"
+  src="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-coffee-cup-665.webp"
+  srcset="/assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-coffee-cup-320.webp 320w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-coffee-cup-480.webp 480w,
+          /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/amelies-coffee-cup-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Coffee cup from Amélie's French Bakery in North Carolina"
   width="665"

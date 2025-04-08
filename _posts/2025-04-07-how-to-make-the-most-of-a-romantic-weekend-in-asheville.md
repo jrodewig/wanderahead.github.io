@@ -1,6 +1,6 @@
 ---
 title: How To Make the Most of a Romantic Weekend in Asheville
-image: /assets/img/2025-03-25-romantic-weekend-asheville/asheville-romantic.webp
+image: /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-romantic.webp
 featured: true
 category: North Carolina
 layout: post
@@ -20,10 +20,10 @@ while keeping things relaxed.
 ## 1. Pack a Gourmet Picnic
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Picnic at Catawba Falls in Old Fort, NC, near Asheville" 
   width="665"
@@ -62,10 +62,10 @@ of the best picnics we’ve ever had.
 ## 2. Hit the Trails
 
 <img 
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-665.webp" 
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-320.webp 320w, 
-          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-480.webp 480w, 
-          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-trail-665.webp 665w" 
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-665.webp" 
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-320.webp 320w, 
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-480.webp 480w, 
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-665.webp 665w" 
   sizes="(max-width: 665px) 100vw, 665px" 
   alt="Flower on a trail in Asheville" 
   width="665" 
@@ -88,10 +88,10 @@ end. Then climb Frying Pan Tower, a 70-foot-tower on a nearby trail that lets
 you see for miles.
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/catawba-falls-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/catawba-falls-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/catawba-falls-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/catawba-falls-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Catawba Falls in Asheville"
   width="665"
@@ -108,10 +108,10 @@ foot traffic.
 ## 3. Play Like You’re a Kid Again
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/board-game-cafe-asheville-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/board-game-cafe-asheville-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/board-game-cafe-asheville-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/board-game-cafe-asheville-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Well Played Board Game Café in Asheville"
   width="665"
@@ -160,10 +160,10 @@ placards. Did you know the Twilight Zone pinball maker hired a voice actor?
 ## 4. Lounge in Comfort
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/hampton-inn-suites-asheville-biltmore-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Hampton Inn & Suites Asheville Biltmore Area"
   width="665"
@@ -195,10 +195,10 @@ bottle filling station. Hydration is key for all that hiking we were doing!
 ## 5. Bliss out at Biltmore
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/biltmore-mansion-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/biltmore-mansion-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/biltmore-mansion-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/biltmore-mansion-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Biltmore Mansion"
   width="665"
@@ -217,10 +217,10 @@ day where you need a timed entry for the house, reserve your slot midday to get
 a break from the sun.
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/gardens-biltmore-manor-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/gardens-biltmore-manor-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/gardens-biltmore-manor-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/gardens-biltmore-manor-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Gardens at the Biltmore Mansion"
   width="665"
@@ -261,10 +261,10 @@ online](https://www.biltmore.com/landing/ticket-options/) before you go.
 ## 6. Wander Through a Floral Arboretum
 
 <img
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/north-carolina-arboretum-665.webp"
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/north-carolina-arboretum-320.webp 320w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/north-carolina-arboretum-480.webp 480w,
-          /assets/img/2025-03-25-romantic-weekend-asheville/north-carolina-arboretum-665.webp 665w"
+  src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-665.webp"
+  srcset="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-320.webp 320w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-480.webp 480w,
+          /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt=""
   width="665"
