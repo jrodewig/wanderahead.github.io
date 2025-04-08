@@ -116,11 +116,13 @@
         <div class="destinations">
           {% for page in site.pages %} {% if page.layout == "category" %}
           <div class="destination">
-            {% assign slugified_title = page.title | slugify %}
-            {% if page.image %} {% assign dest_image = page.image | replace:
-            '.webp', '-278x379.webp' %}
+            {% assign slugified_title = page.title | slugify %} {% if page.image
+            %} {% assign dest_image = page.image | replace: '.webp',
+            '-278x379.webp' %}
             <div class="image">
-              <a href="{{ '/category/' | append: slugified_title | relative_url }}">
+              <a
+                href="{{ '/category/' | append: slugified_title | relative_url }}"
+              >
                 <img
                   src="{{
                     dest_image }}"
@@ -131,7 +133,9 @@
               /></a>
             </div>
             {% endif %}
-            <a href="{{ '/category/' | append: slugified_title | relative_url }}">
+            <a
+              href="{{ '/category/' | append: slugified_title | relative_url }}"
+            >
               <h3>{{ page.title }}</h3>
             </a>
           </div>
