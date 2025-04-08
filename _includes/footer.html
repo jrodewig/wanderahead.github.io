@@ -38,3 +38,15 @@
     <p>&copy; {{ "now" | date: "%Y" }} Wander Ahead. All rights reserved.</p>
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const links = document.getElementsByTagName("a");
+
+    for (let link of links) {
+      if (link.hostname && link.hostname !== window.location.hostname) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    }
+  });
+</script>
