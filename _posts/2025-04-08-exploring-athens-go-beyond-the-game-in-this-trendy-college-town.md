@@ -219,7 +219,7 @@ House](https://www.taylorgrady.com/). Lit by chandeliers and surrounded by
 columns, this antebellum National Historic Landmark exudes elegance and, not
 surprisingly, is a popular venue for weddings.
 
-## Savor Athens’ Food Scene
+## Where To Eat in Athens
 
 Fuel your travels through nature and history with one of the many local
 restaurants, serving up fresh cuisine ranging from Vietnamese and Jamaican to
