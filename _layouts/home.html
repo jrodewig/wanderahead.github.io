@@ -182,7 +182,6 @@
             destinations.addEventListener(
               "touchstart",
               (e) => {
-                e.preventDefault(); // Prevent default touch behavior
                 startDragging(e.touches[0].pageX);
               },
               { passive: false },
