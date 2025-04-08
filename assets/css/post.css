@@ -48,3 +48,29 @@
   max-width: 665px;
   display: block;
 }
+
+.tiles-wrapper {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .tiles-wrapper {
+    margin: 0 20px;
+  }
+
+  .tiles-wrapper h2 {
+    margin-left: 20px;
+  }
+
+  .tiles-wrapper .article.tile {
+    flex: 0 80%;
+    margin: 0 20px 20px;
+  }
+
+  .tiles-wrapper .article.tile .image a img {
+    width: 100%;
+    object-fit: cover;
+  }
+}
