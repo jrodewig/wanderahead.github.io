@@ -41,16 +41,11 @@ section {
 .featured-grid .article.featured .image {
   aspect-ratio: 588 / 390;
   overflow: hidden;
-  display: flex;
-  object-fit: cover;
-  object-position: center center;
 }
 
 .featured-grid .article.featured .image img {
   width: 100%;
-  display: flex;
   object-fit: cover;
-  object-position: center center;
   margin-bottom: 20px;
   aspect-ratio: 588 / 390;
   transition: transform 0.3s ease;
