@@ -30,10 +30,10 @@ but there’s much more to discover. Monroe County, which just celebrated its
 bicentennial anniversary, has taken pains to preserve its storied past, and I
 uncovered glimpses of yesteryear almost everywhere on my recent visit.
 
-Learn how it all started at the Monroe County Historical Society Museum and
-Archives, housed inside an 1899 train depot. Forsyth was home to Georgia’s first
-railroad, and you can spot a second depot in town, this one dating to the 1850s,
-just down the street from the museum.
+Learn how it all started at the [Monroe County Historical Society Museum and
+Archives](https://www.mchsga.org), housed inside an 1899 train depot. Forsyth
+was home to Georgia’s first railroad, and you can spot a second depot in town,
+this one dating to the 1850s, just down the street from the museum.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp"
@@ -45,9 +45,10 @@ just down the street from the museum.
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Monroe County Historical
   Society Museum and Archives" width="665" height="499" loading="lazy" />
 
-Farther afield at Jarrell Plantation State Historic Site, step back in time to
-an antebellum cotton plantation. It boasts a steam-powered cotton gin and 1870s
-log smokehouse, among other relics.
+Farther afield at [Jarrell Plantation State Historic
+Site](https://gastateparks.org/JarrellPlantation), step back in time to an
+antebellum cotton plantation. It boasts a steam-powered cotton gin and 1870s log
+smokehouse, among other relics.
 
 In the 20th century, the county's economy invariably shifted from agriculture to
 manufacturing. You can ponder the march of progress as you swim, boat or picnic
@@ -125,12 +126,13 @@ context to the people and places you’ll learn about.
 
 Other must-see stops downtown include the City of Forsyth train mural, St.
 Luke’s African American Episcopal Church, the historic Rose Theater, where you
-can catch a live show, and the 1823 Artisan Guild & Gallery, where you can shop
-handmade treasures and take art classes like basket weaving. (Fun fact: The
-guild's name is a nod to the year Forsyth was founded.) You can enjoy even more
-local art if you visit in March during the annual Forsythia Festival. (Its name
-actually isn't from the city at all, but from the yellow flower that blooms
-every spring.)
+can catch a live show, and the [1823 Artisan Guild &
+Gallery](https://www.facebook.com/artinforsythga), where you can shop handmade
+treasures and take art classes like basket weaving. (Fun fact: The guild's name
+is a nod to the year Forsyth was founded.) You can enjoy even more local art if
+you visit in March during the annual Forsythia Festival. (Its name actually
+isn't from the city at all, but from the yellow flower that blooms every
+spring.)
 
 ## Farm Life in Monroe County
 
@@ -165,10 +167,11 @@ locally grown and crafted products.
 
 ## Waterfall Watching
 
-If you're not expecting waterfalls outside North Georgia, High Falls State Park
-is something of a surprise. The broad, multi-tiered cascade tumbling down the
-Towaliga River holds its own against the glories of the Blue Ridge foothills.
-It's the largest waterfall south of Atlanta.
+If you're not expecting waterfalls outside North Georgia, [High Falls State
+Park](https://gastateparks.org/HighFalls) is something of a surprise. The broad,
+multi-tiered cascade tumbling down the Towaliga River holds its own against the
+glories of the Blue Ridge foothills. It's the largest waterfall south of
+Atlanta.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp"
@@ -211,12 +214,13 @@ petite and weathered, is undeniably Instagrammable.
   loading="lazy"
 />
 
-The Whistle Stop Café at the end of the block is your destination, both for its
-role in the film and its delicious cuisine. The menu is thoroughly Southern:
-fried chicken livers, smoked ribs, catfish, country fried steak and sides that
-range from cornbread to collards. Order an appetizer of fried green tomatoes and
-you’ll understand why people rave about them. These magical circles are piping
-hot with soft yellow centers covered in a crispy, seasoned batter.
+The [Whistle Stop Café](https://thewhistlestopcafe.com) at the end of the block
+is your destination, both for its role in the film and its delicious cuisine.
+The menu is thoroughly Southern: fried chicken livers, smoked ribs, catfish,
+country fried steak and sides that range from cornbread to collards. Order an
+appetizer of fried green tomatoes and you’ll understand why people rave about
+them. These magical circles are piping hot with soft yellow centers covered in a
+crispy, seasoned batter.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp"
