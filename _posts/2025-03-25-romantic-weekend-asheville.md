@@ -19,15 +19,15 @@ while keeping things relaxed.
 
 ## 1. Pack a Gourmet Picnic
 
-<img 
-  src="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp" 
-  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-320.webp 320w, 
-          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-480.webp 480w, 
-          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp 665w" 
-  sizes="(max-width: 665px) 100vw, 665px" 
+<img
+  src="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp"
+  srcset="/assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-320.webp 320w,
+          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-480.webp 480w,
+          /assets/img/2025-03-25-romantic-weekend-asheville/asheville-picnic-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
   alt="Picnic at Catawba Falls in Old Fort, NC, near Asheville" 
-  width="665" 
-  height="442" 
+  width="665"
+  height="442"
   loading="lazy"
 />
 
