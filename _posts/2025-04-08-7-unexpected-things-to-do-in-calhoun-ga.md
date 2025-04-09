@@ -17,23 +17,24 @@ conveniently right off I-75, but there’s so much more for travelers to uncover
 including a Colosseum. If you know where to look, Gordon County's biggest city
 (population: 15,000) has unexpected treasures you won’t find anywhere else.
 
-## Southern Estate Alpacas
+## Pet Alpacas at K&T Farms
 
 Start your adventure at a local alpaca farm. These herd animals hail from Peru,
 but the Georgia climate agrees with them just fine. Though they’re usually
-skittish, the ones at Southern Estate Alpacas are friendly. In fact, they’ll eat
-right out of your hand.
+skittish, the ones at [K&T Farms](https://www.kandtfarms.com/) are friendly. In
+fact, they’ll eat right out of your hand.
 
 <img
-  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-southern-estate-alpacas-in-calhoun-ga-665.webp"
-  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-southern-estate-alpacas-in-calhoun-ga-320.webp
-          320w,
-          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-southern-estate-alpacas-in-calhoun-ga-480.webp
-  480w,
-  /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-southern-estate-alpacas-in-calhoun-ga-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Alpacas at Southern Estate
-  Alpacas in Calhoun, GA" width="665" height="442" loading="lazy" />
-
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Alpacas at K&T Farms in Rydal, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 “That’s because they’re only fed when people come to visit,” explains Jenna
 Cain, who started offering farm tours in 2017. The two-hour tours, held Monday
 through Saturday, include a hayride down to the creek, a stop to see the
@@ -48,14 +49,16 @@ larger farm that raised buffalo. Now it’s home to cows, horses, pigs, dogs, a
 miniature donkey and 11 alpacas.
 
 <img
-  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-665.webp"
-  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-320.webp
-          320w,
-          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-480.webp
-  480w,
-  /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Alpacas at Southern Estate
-  Alpacas in Calhoun, GA" width="665" height="442" loading="lazy" />
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Alpacas at K&T Farms in Rydal, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 On your visit, you’ll also learn about the fascinating industry surrounding
 alpaca fiber. Cain will tell you how fiber from young alpacas, called crias, is
@@ -69,14 +72,16 @@ barely keep alpaca socks in stock. “Alpaca fiber wicks the moisture away from
 your skin, but it’s really warm and lightweight,” she says.
 
 <img
-  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-665.webp"
-  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-320.webp
-          320w,
-          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-480.webp
-  480w,
-  /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-southern-estate-alpacas-in-calhoun-ga-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Alpacas at Southern Estate
-  Alpacas in Calhoun, GA" width="665" height="442" loading="lazy" />
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Alpacas at K&T Farms in Rydal, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 If you want to take it one step further and be part of the behind-the-scenes
 process of making alpaca fiber, you can. Every April, Cain and a crew of
@@ -85,7 +90,7 @@ friends — “that one time I sheared alpacas in Georgia.” Volunteers help co
 the animals in the barn and roll up the fur “like a sleeping bag,” Cain says,
 after it comes off in one large blanket.
 
-## Fox Farm
+## Get Fresh Produce at Fox Farm
 
 Get a taste of the season with a stop by [Fox
 Farm](https://www.facebook.com/Fox-Farm-103025565300207/). It all starts with
@@ -96,7 +101,7 @@ brings pumpkins, mums and fall veggies like collards and cabbage.
 In December, Santa makes an appearance alongside rows of picture-perfect
 Christmas trees awaiting their final home.
 
-## Copper Creek Farm
+## See the Sunflowers at Copper Creek Farm
 
 Your farm fun isn't over. On the other side of town, [Copper
 Creek Farm](http://www.coppercreekfarm.com/) is open
@@ -133,7 +138,7 @@ sunflower bulbs bending above your head, you’ll feel like you're in a storyboo
   loading="lazy"
 />
 
-## New Echota Historic Site
+## Learn Cherokee History at the New Echota Historic Site
 
 This state historic site marks the beginning of the Trail of Tears, often
 discussed in history books but sometimes hard for kids to grasp. [New
@@ -145,7 +150,7 @@ more.
 Check out the film and exhibits in the visitors’ center. Then set off to explore
 the nature trails and historic sites. You can even go fishing.
 
-## The Calhoun Rock Garden
+## Experience a Miniature World at the Calhoun Rock Garden
 
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp"
@@ -218,7 +223,7 @@ Volunteers light lanterns and hang them on the posts above the walkways, and
 visitors place hundreds of candles around the garden until the entire tiny
 village is ablaze.
 
-## BBQ Boogie and Blues Festival
+## Eat and Dance at the Bbq Boogie and Blues Festival
 
 Here’s a quick tip. If you happen to be in town in Spring. It’s
 held downtown for an annual weekend, and it’s the city’s biggest event. Usually
@@ -231,7 +236,7 @@ Society, family-friendly entertainment, arts and crafts, live music, plenty of
 food (of course) and more. Barbecue lovers can't miss the People’s Choice BBQ
 Tasting on Saturday.
 
-## Visiting Downtown Calhoun
+## Visit Downtown Calhoun
 
 After communing with nature, you’ll be ready for city exploration. In Calhoun,
 the hub is the downtown strip, five blocks along South Wall Street.
@@ -259,8 +264,9 @@ up a handmade gift or just browse the antiques and country-style decor.
 
 By now you'll be hungry for dinner. Barbecue, burgers and baked beans are the
 order of the day at most Calhoun eateries. Be sure to stop by [Christian and
-Jake's Bistro](https://www.cjsbistro.com/) are a quality sandwich or [Thatcher's
-Barbeque and Grill](https://www.thatchersbbq.com/) for some pulled pork.
+Jake's Bistro](https://www.cjsbistro.com/) for authentic chicken salad or [Thatcher's
+Barbeque and Grill](https://www.thatchersbbq.com/) for a pulled pork sandwich.
+You can't go wrong.
 
 To close out your evening, take in a show at the historic [GEM
 Theatre](https://calhoungemtheatre.org/) just up the street. Opened in 1927, the
