@@ -6,7 +6,6 @@ category: Georgia
 layout: post
 author: Cheryl Rodewig
 excerpt: Learn how Gwinnett County became Georgia's unofficial K-Town and home to world-class Korean cuisine.
-last-updated: 2025-04-09
 ---
 
 When in-the-know Atlantans crave the best selection of Korean food, varied and

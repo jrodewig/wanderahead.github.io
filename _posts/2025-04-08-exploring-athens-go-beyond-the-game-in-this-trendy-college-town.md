@@ -6,7 +6,6 @@ category: Georgia
 layout: post
 author: Cheryl Rodewig
 excerpt: This college town boasts award-winning restaurants, expansive nature, and plenty of history.
-last-updated: 2025-04-08
 ---
 
 When people think of Athens, stadiums and football spring to mind, but this

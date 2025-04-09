@@ -6,7 +6,6 @@ category: Georgia
 layout: post
 author: Cheryl Rodewig
 excerpt: Red barns, grazing cattle, weathered downtown buildings that have stood the test of time.
-last-updated: 2025-04-08
 ---
 
 What do you think of when you picture a country town? Red barns, grazing cattle,

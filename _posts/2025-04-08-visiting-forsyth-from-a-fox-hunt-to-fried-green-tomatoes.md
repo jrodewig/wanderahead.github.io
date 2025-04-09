@@ -6,7 +6,6 @@ category: Georgia
 layout: post
 author: Cheryl Rodewig
 excerpt: A postcard-perfect town packed with secret art, Victorian architecture, and cinematic cuisine.
-last-updated: 2025-04-08
 ---
 
 In Forsyth’s postcard-perfect downtown, a striking brick Victorian courthouse

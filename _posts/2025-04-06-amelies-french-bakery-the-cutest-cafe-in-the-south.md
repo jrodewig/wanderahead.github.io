@@ -6,7 +6,6 @@ category: North Carolina
 layout: post
 author: Cheryl Rodewig
 excerpt:
-last-updated: 2025-03-10
 ---
 
 Pastries with coffee are indeed among the best things in life. But pair them

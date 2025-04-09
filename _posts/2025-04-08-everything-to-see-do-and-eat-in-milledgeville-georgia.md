@@ -6,7 +6,6 @@ category: Georgia
 layout: post
 author: Cheryl Rodewig
 excerpt: Check out this small town for outdoor beauty, 19th-century architecture, and farm-fresh treats.
-last-updated: 2025-04-09
 ---
 
 Deeply historic and buoyantly youthful, walkable and welcoming, Milledgeville is

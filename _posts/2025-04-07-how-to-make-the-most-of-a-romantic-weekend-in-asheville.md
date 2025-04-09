@@ -6,7 +6,6 @@ category: North Carolina
 layout: post
 author: Cheryl Rodewig
 excerpt: Trails tripping over waterfalls, Instagram-flawless food, flowers galore and those beautiful Blue Ridge Mountains.
-last-updated: 2025-03-25
 ---
 
 You don’t have to be traveling with your significant other to find romance in
