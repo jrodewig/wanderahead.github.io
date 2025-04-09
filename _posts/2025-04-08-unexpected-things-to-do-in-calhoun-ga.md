@@ -222,7 +222,7 @@ Volunteers light lanterns and hang them on the posts above the walkways, and
 visitors place hundreds of candles around the garden until the entire tiny
 village is ablaze.
 
-## Eat and Dance at the Bbq Boogie and Blues Festival
+## Eat and Dance at the BBQ Boogie and Blues Festival
 
 Here’s a quick tip. If you happen to be in town in Spring. It’s
 held downtown for an annual weekend, and it’s the city’s biggest event. Usually

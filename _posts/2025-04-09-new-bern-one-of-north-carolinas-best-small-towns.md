@@ -182,7 +182,7 @@ lilies
 Plan for at least three hours, or two, if you move quickly through the gardens
 and museum.
 
-## Where to Eat in New Bern
+## Where To Eat in New Bern
 
 Downtown New Bern’s dining scene is solid across the board, but here are
 standout picks for every meal, plus a snack stop.
