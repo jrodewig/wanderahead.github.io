@@ -32,6 +32,10 @@
   line-height: 14px;
 }
 
+.post .article h3 {
+  font-size: 1.35rem;
+}
+
 .post .article p {
   font-size: 20px;
   line-height: 32px;
