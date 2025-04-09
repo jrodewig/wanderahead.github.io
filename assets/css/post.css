@@ -55,11 +55,13 @@
   margin: 0 auto;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .tiles-wrapper {
-    margin: 0 20px;
+    max-width: 705px;
   }
+}
 
+@media (max-width: 768px) {
   .tiles-wrapper h2 {
     margin-left: 20px;
   }
