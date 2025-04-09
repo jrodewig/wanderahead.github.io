@@ -5,7 +5,7 @@ featured: true
 category: Georgia
 layout: post
 author: Cheryl Rodewig
-excerpt: A postcard-perfect downtown with secret art and a Victorian courthouse.
+excerpt: A postcard-perfect town packed with secret art, Victorian architecture, and cinematic cuisine.
 last-updated: 2025-04-08
 ---
 
