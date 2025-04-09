@@ -37,6 +37,14 @@
   line-height: 32px;
 }
 
+.post .article ul li, 
+.post .article ol li {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
 .post.fixed-width {
   max-width: 665px;
 }
