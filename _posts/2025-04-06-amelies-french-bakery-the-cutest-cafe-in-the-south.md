@@ -5,7 +5,7 @@ featured: true
 category: North Carolina
 layout: post
 author: Cheryl Rodewig
-excerpt:
+excerpt: A Charlotte-based boutique bakery chain pairs delicious pastries with a whimsical aesthetic.
 ---
 
 Pastries with coffee are indeed among the best things in life. But pair them
