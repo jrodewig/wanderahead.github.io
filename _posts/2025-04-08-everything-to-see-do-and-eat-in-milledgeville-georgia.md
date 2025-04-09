@@ -1,6 +1,6 @@
 ---
 title: Everything To See, Do, and Eat in Milledgeville, Georgia
-image: /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/old-governors-mansion-dome-milledgeville-ga.webp
+image: /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/atkinson-hall-at-georgia-college-and-state-university-in-milledgeville-ga.webp
 featured: true
 category: Georgia
 layout: post
