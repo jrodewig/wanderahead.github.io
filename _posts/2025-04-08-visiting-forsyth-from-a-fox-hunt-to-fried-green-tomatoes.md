@@ -1,5 +1,5 @@
 ---
-title: "Visiting Forsyth: From a Fox ‘Hunt’ to Fried Green Tomatoes"
+title: "Visiting Forsyth: From a Fox 'Hunt' to Fried Green Tomatoes"
 image: /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/victorian-brick-courthouse-in-forsyth-ga.webp
 featured: true
 category: Georgia
@@ -94,14 +94,16 @@ treats. Grab a sundae or a cone — butter pecan and salted caramel truffle are
 popular — and start exploring.
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-320.webp
-          320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-480.webp
-  480w,
-  /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="A super-sized cone at
-  Scoops in downtown Forsyth, GA" width="665" height="499" loading="lazy" />
+  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp"
+  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-320.webp 320w,
+          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-480.webp 480w,
+          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt=""
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 There's a fox hunt with clues that leads you all over downtown in search of
 miniature bronze foxes. Why foxes? It’s a throwback to Forsyth's former
