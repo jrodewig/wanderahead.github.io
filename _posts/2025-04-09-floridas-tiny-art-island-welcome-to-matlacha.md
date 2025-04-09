@@ -59,11 +59,12 @@ Here are the Matlacha experiences you can’t miss.
 ## Soak in Galleries Galore
 
 Effusive and fanciful, Matlacha’s art covers everything from blown glass to
-coconut postcards. Browse work by dozens of local artists at Wild Child Art
-Gallery, Matlacha Menagerie, and Island Visions, just steps from each other.
-Funkiest of all, [Leoma Lovegrove’s gallery](www.leomalovegrove.com) includes a
-one-of-a-kind garden, featuring a Beatles stage, a 1960s glamper and several
-palm trees, all painted with her signature bold strokes.
+coconut postcards. Browse work by dozens of local artists at [Matlacha
+Menagerie](https://www.facebook.com/matlachamenagerie/) and Island Visions, just
+steps from each other. Funkiest of all, [Leoma Lovegrove’s
+gallery](www.leomalovegrove.com) includes a one-of-a-kind garden, featuring a
+Beatles stage, a 1960s glamper and several palm trees, all painted with her
+signature bold strokes.
 
 <img
   src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
@@ -101,31 +102,9 @@ cream pie, pistachio or creme brulee. You can even watch it being made on-site.
 
 The protected estuary surrounding Matlacha is a haven for eagles, ospreys,
 dolphins, even manatees who winter in the warmer waters. Get a glimpse of these
-and more on one of [Captain Cathy’s boat tours](https://www.captaincathy.com/)
+and more on one of [Captain Cathy’s Eagle boat tours](https://www.captaincathy.com/)
 through the protected estuary. She'll also tell you all about the Calusa tribe
 and their magnificent shell mounds, which you can still see today.
-
-## Sit Back with Some Seafood
-
-Located at the end of “The Fishingest Bridge in the World,” [Bert's Bar &
-Grill](https://www.bertsbar.com/) is one of several laid-back restaurants where
-boaters can pull right up and enjoy locally sourced fish. Bert's has been
-serving up good times, in various capacities, since the ’30s, but today it's
-best known for live music, brews and plenty of seafood. Order the fresh grouper
-or catch of the day, and follow it with a slice of their award-winning key lime
-pie.
-
-<img
-  src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/seafood-from-berts-bar-grill-matlacha-fl-665.webp"
-  srcset="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/seafood-from-berts-bar-grill-matlacha-fl-320.webp 320w,
-          /assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/seafood-from-berts-bar-grill-matlacha-fl-480.webp 480w,
-          /assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/seafood-from-berts-bar-grill-matlacha-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Seafood from Bert's Bar & Grill in Matlacha, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
 
 ## Check Out the Tiny Home Architecture
 
