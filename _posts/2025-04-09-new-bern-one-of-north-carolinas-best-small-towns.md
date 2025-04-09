@@ -39,7 +39,7 @@ experiences to prioritize when you visit New Bern.
 
 You can’t visit New Bern without getting out on the water. Positioned at the
 meeting point of two rivers, the city is defined by its aquatic surroundings.
-Paddleboarding, kayaking, boating, fishing—the options are endless, but a guided
+Paddleboarding, kayaking, boating, fishing  —  the options are endless, but a guided
 cruise stands out as an accessible and engaging way to take it all in. It’s
 straightforward and informative: just show up, and let the captain handle the
 rest.
@@ -47,7 +47,7 @@ rest.
 Book a two-hour cruise with [Anchors Up Marine
 Solutions](https://www.anchorsupms.com/) to navigate the mighty Neuse River, the
 quieter Trent River, and even Brices Creek. On one tour, Capt. Matthew Gotz, a
-USCG Master, shared a wealth of insights—explaining the “Neuse River mustache,”
+USCG Master, shared a wealth of insights, explaining the “Neuse River mustache,”
 pointing out turtles and wildlife, showcasing multimillion-dollar waterfront
 properties, and recounting the tale of America’s first registered nurse and her
 obscure link to “Brad’s Drink.”
@@ -65,21 +65,21 @@ obscure link to “Brad’s Drink.”
 />
 
 The 22-foot covered boat seats up to six and can be enclosed if the weather
-turns chilly. Morning, afternoon, and sunset tours run daily—opt for the sunset
+turns chilly. Morning, afternoon, and sunset tours run daily — opt for the sunset
 slot for breathtaking wetland views or the morning for serene calm. Bring snacks
 to enjoy onboard.
 
 Your local captain knows New Bern inside and out, so feel free to ask questions.
-Booking the whole boat lets you customize the experience—focus on history,
+Booking the whole boat lets you customize the experience. Focus on history,
 wildlife, boats, or simply relax with music and conversation.
 
-**Pro tip:** Use the onboard binoculars for birdwatching—blue jays, ospreys, belted
-kingfishers, and cardinals are common sights—or just to zoom in on the scenery.
+**Pro tip:** Use the onboard binoculars for birdwatching. Blue jays, ospreys, belted
+kingfishers, and cardinals are common sights. Or just to zoom in on the scenery.
 
 ## Go Out on the Town
 
 Here’s a key fact about New Bern: bears. Not the living kind, but the symbolic
-ones. Named after Bern, Switzerland—where the bear is a heraldic icon—New Bern
+ones. Named after Bern, Switzerland, where the bear is a heraldic icon, New Bern
 embraces this connection with over 80 fiberglass bear sculptures around town.
 Tracking them down is a fun challenge; grab a map from the visitors center if
 you want a head start.
@@ -97,13 +97,13 @@ you want a head start.
 />
 
 Spot a bear in a green vest, and you’ve found Mitchell Hardware. Step inside
-this 1898 general store for a dose of nostalgia—it’s stocked with everything
+this 1898 general store for a dose of nostalgia. It’s stocked with everything
 from birdhouses to barbecue sauce to boating gear and doubles as an attraction
 itself.
 
 Nearby, The Birthplace of Pepsi marks the spot where a local pharmacist
-concocted the drink in 1898. Check out vintage artifacts—Pepsi lunch boxes,
-international bottles, even a Mountain Dew hillbilly mural—then grab a Pepsi
+concocted the drink in 1898. Check out vintage artifacts like Pepsi lunch boxes,
+international bottles, even a Mountain Dew hillbilly mural. Then grab a Pepsi
 float and popcorn at the soda shop.
 
 <img
@@ -119,7 +119,7 @@ float and popcorn at the soda shop.
 />
 
 For a livelier outing, hit Beary The Hatchet, an axe-throwing spot that’s equal
-parts quirky and thrilling. Axes, ninja stars, knives, even shovels—you can try
+parts quirky and thrilling. Axes, ninja stars, knives, even shovels. You can try
 them all, and the axe coach will guide you through the technique (it’s less
 about strength, more about finesse).
 
@@ -153,7 +153,7 @@ period-dressed guide will explain how the original 1770 structure, built for the
 royal colonial governor, burned down in 1798. Today’s version is a faithful
 recreation based on historical records.
 
-Gov. William Tryon’s lavish “palace”—funded by steep taxes—didn’t win him many
+Gov. William Tryon’s lavish "palace," funded by steep taxes, didn’t win him many
 fans back then, and its opulence still impresses. Tour the replica ballroom
 where George Washington danced or the surprisingly modern kitchen, where
 18th-century cooking demos still happen.
@@ -179,7 +179,7 @@ clipped hedges, statues, and scenic pathways
 - Backyard gardens at historic homes like the Stanly House, featuring heirloom camellias and a fountain with water
 lilies
 
-Plan for at least three hours—two if you move quickly through the gardens
+Plan for at least three hours, or two, if you move quickly through the gardens
 and museum.
 
 ## Where to Eat in New Bern
@@ -192,7 +192,7 @@ standout picks for every meal, plus a snack stop.
 [Baker’s Kitchen Restaurant & Bakery](https://bakerskitchennb.com/) draws
 crowds, especially on weekends during brunch hours. Known for fresh cinnamon
 rolls and their famous Butter Syrup (shipped nationwide), they nail the
-classics—eggs any way you like, plus Southern staples like country fried steak
+classics: eggs any way you like, plus Southern staples like country fried steak
 and biscuits with gravy. Order à la carte to customize your plate; the “Twigs &
 Berries” yogurt with granola is a lighter gem.
 
@@ -211,7 +211,7 @@ Berries” yogurt with granola is a lighter gem.
 Service is quick and friendly, and the bright, welcoming vibe sets you up for
 the day.
 
-**Tip:** Save space for the pastry case—muffins, cookies, and more await.
+**Tip:** Save space for the pastry case. Muffins, cookies, and more await.
 
 ### Lunch
 
@@ -220,7 +220,7 @@ Creek](https://www.lawsonsonthecreek.com/) at the North Carolina History Center
 is a convenient waterfront option. Soups, salads, and sandwiches dominate the
 menu, alongside craft beer, wine, and desserts. Expect crowd-pleasers like
 grilled cheese and hot dogs, plus elevated picks like Reubens or shrimp salad.
-The patio views are a bonus—worth stepping out for even if you eat inside.
+The patio views are a bonus. It's worth stepping out for even if you eat inside.
 
 <img
   src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-665.webp"
@@ -236,7 +236,7 @@ The patio views are a bonus—worth stepping out for even if you eat inside.
 
 ### Dinner
 
-Morgan’s Tavern & Grill might steal the show with its steakburgers—a juicy blend
+Morgan’s Tavern & Grill might steal the show with its steakburgers, a juicy blend
 of chuck roast, short rib, and brisket, paired perfectly with creamy mac and
 cheese. Complimentary honey-drizzled croissants kick things off right, and the
 menu spans salads, seafood, pasta, ribs, and more, all with a local, seasonal
@@ -256,7 +256,7 @@ twist.
 
 Sit on the patio (with heaters or fans as needed) or inside the 1911
 brick-walled space, adorned with art and lanterns. Snap a pic with the bear
-statue for a shot at free food—ask your server for details.
+statue for a shot at free food. Ask your server for details.
 
 Dessert is a must, even if just to admire the platter.
 
@@ -275,7 +275,7 @@ Dessert is a must, even if just to admire the platter.
 />
 
 [Bella’s Cafe & Catering](https://www.bellascafenb.com/) has drinks for every
-taste—smoothies, cappuccinos, Italian sodas—plus breakfast and lunch options
+taste — smoothies, cappuccinos, Italian sodas — plus breakfast and lunch options
 like a solid gyro. The baked goods look tempting, prices are fair, and the
 atmosphere is pure relaxation: Wi-Fi, warm woodsy decor, comfy seats, and a
 mellow playlist. It’s a spot to linger.

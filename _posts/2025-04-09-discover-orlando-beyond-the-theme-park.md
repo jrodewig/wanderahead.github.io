@@ -117,7 +117,7 @@ and play with them or just admire the way they lounge with absolute abandon.
   loading="lazy"
 />
 
-## Where to Eat in Orlando
+## Where To Eat in Orlando
 
 Wake up with coffee. And pastries. The fast-moving line at [Buttermilk
 Bakery](https://www.buttermilk-bakery.com/) lets you know you've come to the

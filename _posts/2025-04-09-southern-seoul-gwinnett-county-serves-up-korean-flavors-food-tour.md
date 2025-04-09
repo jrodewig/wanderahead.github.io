@@ -129,7 +129,7 @@ out-of-towners gawking at the rows of elaborate pastries. More than a few are
 snapping photos before eating, the desire to somehow preserve all that beauty
 being one that crosses cultures.
 
-## How to Choose a Korean Eatery
+## How To Choose a Korean Eatery
 
 Choosing one place to eat among the many is a challenge. An early arrival to the
 culinary scene, [Jang Su
@@ -139,8 +139,8 @@ Opened in 2005, the restaurant specializes in homestyle Korean cuisine. A visit
 there involves a dizzying procession of dishes, eight of which are sides, or
 _banchan_, intended to complement the flavor of the main course. The servers are
 friendly, happy to tell you what each dish is and how to eat it — how to soak
-the rice in _seolleongtang_ soup, how the cabbage leaves for *bossam jungsik
-*should fold around the steamed pork, jalapeños and sliced radishes to make a
+the rice in _seolleongtang_ soup, how the cabbage leaves for _bossam jungsik_
+should fold around the steamed pork, jalapeños and sliced radishes to make a
 wrap.
 
 <img
