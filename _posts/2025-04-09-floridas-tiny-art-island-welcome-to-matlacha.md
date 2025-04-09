@@ -33,17 +33,6 @@ once a thriving fishing village. When the industry died, the community got
 creative, literally, transforming its main street into a tropical, technicolor
 canvas of shops and seafood shacks.
 
-The surrounding tidal flats, meanwhile, owe nothing to art. They're scenic and
-alive, popular for birdwatching, crabbing, shrimping and fishing or simply
-admiring a glorious Gulf Coast sunset.
-
-Leoma Lovegrove, a Matlacha artist who owns a gallery on the island, sums it up
-best: “When I cross over the Matlacha Island bridge, I fall in love with my
-little fishing village all over again. It’s home, the place that always inspires
-me to pick up my paintbrush.”
-
-Here are the Matlacha experiences you can’t miss.
-
 <img
   src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-665.webp"
   srcset="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-320.webp 320w,
@@ -56,15 +45,16 @@ Here are the Matlacha experiences you can’t miss.
   loading="lazy"
 />
 
-## Soak in Galleries Galore
+The surrounding tidal flats, meanwhile, owe nothing to art. They're scenic and
+alive, popular for birdwatching, crabbing, shrimping and fishing or simply
+admiring a glorious Gulf Coast sunset.
 
-Effusive and fanciful, Matlacha’s art covers everything from blown glass to
-coconut postcards. Browse work by dozens of local artists at [Matlacha
-Menagerie](https://www.facebook.com/matlachamenagerie/) and Island Visions, just
-steps from each other. Funkiest of all, [Leoma Lovegrove’s
-gallery](www.leomalovegrove.com) includes a one-of-a-kind garden, featuring a
-Beatles stage, a 1960s glamper and several palm trees, all painted with her
-signature bold strokes.
+Leoma Lovegrove, a Matlacha artist who owns a gallery on the island, sums it up
+best: “When I cross over the Matlacha Island bridge, I fall in love with my
+little fishing village all over again. It’s home, the place that always inspires
+me to pick up my paintbrush.”
+
+Here are the Matlacha experiences you can’t miss.
 
 <img
   src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
@@ -77,6 +67,22 @@ signature bold strokes.
   height="499"
   loading="lazy"
 />
+
+
+## Soak in Galleries Galore
+
+Effusive and fanciful, Matlacha’s art covers everything from blown glass to
+coconut postcards. Browse work by dozens of local artists at [Matlacha
+Menagerie](https://www.facebook.com/matlachamenagerie/) and Island Visions, just
+steps from each other. Funkiest of all, [Leoma Lovegrove’s
+gallery](www.leomalovegrove.com) includes a one-of-a-kind garden, featuring a
+Beatles stage, a 1960s glamper and several palm trees, all painted with her
+signature bold strokes.
+
+<blockquote class="pullquote">"When I cross over the Matlacha Island bridge, I fall in love with my little fishing village all over again. It’s home, the place that always inspires me to pick up my paintbrush."
+<br/><br/>
+— Leoma Lovegrove, artist</blockquote>
+
 
 ## Indulge in Old-Fashioned Fudge
 

@@ -49,6 +49,32 @@
   margin-bottom: 10px;
 }
 
+.post .article .pullquote {
+  font-family: "Noto Serif", serif;
+  font-weight: 300;
+}
+
+.pullquote {
+  position: relative;
+  max-width: 100%;
+  margin: 80px auto;
+  padding: 20px;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.pullquote::before {
+  content: '“';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 4rem;
+  color: #6c1d09;
+  line-height: 0;
+}
+
 .post.fixed-width {
   max-width: 665px;
 }
