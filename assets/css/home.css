@@ -83,6 +83,7 @@ section {
   aspect-ratio: 180 / 180;
   height: 180px;
   width: 180px;
+  transition: transform 0.3s ease;
 }
 
 .featured-grid .article.sidebar .image img:hover {
