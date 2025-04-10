@@ -119,7 +119,7 @@
             '-278x379.webp' %}
             <div class="image">
               <a
-                href="{{ '/category/' | append: slugified_title | relative_url }}"
+                href="{{ slugified_title | relative_url }}"
               >
                 <img
                   src="{{
@@ -132,7 +132,7 @@
             </div>
             {% endif %}
             <a
-              href="{{ '/category/' | append: slugified_title | relative_url }}"
+              href="{{ slugified_title | relative_url }}"
             >
               <h3>{{ page.title }}</h3>
             </a>
