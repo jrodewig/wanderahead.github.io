@@ -2,7 +2,7 @@
 title: In Door County, Wisconsin, Winter Holds Unexpected Charms for Nature Lovers
 image: /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-trees-in-door-county-wi.webp
 featured: true
-category: Wisconson
+category: Wisconsin
 layout: post
 author: Cheryl Rodewig
 excerpt: A winter retreat with Swedish Julbord, wooden churches, and rocky, snow-covered beaches.
