@@ -36,6 +36,18 @@ list.
 
 ## How Gwinnett County Became a Hot Spot for Korean Cuisine
 
+<img
+  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-665.webp"
+  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-320.webp 320w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-480.webp 480w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Korean food in Gwinnett County, GA"
+  width="665"
+  height="443"
+  loading="lazy"
+/>
+
 The Korean American Association of Greater Atlanta, now headquartered in
 Gwinnett County, opened its first office in 1968 off Buford Highway in
 Doraville, then the hub for the many Korean Americans moving to Georgia. The
@@ -54,18 +66,6 @@ Though sometimes informally referred to as Korea Town, there’s not one address
 you can plug into your GPS to get there. Pockets of it flourish around Pleasant
 Hill Road, Duluth Highway and Lawrenceville-Suwanee Road. Look for a strip mall
 anchored by a Korean grocery store, and you’re there.
-
-<img
-  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-665.webp"
-  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-320.webp 320w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-480.webp 480w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-gwinnett-county-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Korean food in Gwinnett County, GA"
-  width="665"
-  height="443"
-  loading="lazy"
-/>
 
 But the Gwinnett Place area, at the junction of I-85 and Pleasant Hill Road, is
 a convenient place to begin your exploration. While the landmark Gwinnett Place
@@ -87,16 +87,6 @@ made from scratch. You can walk into a Korean restaurant and immediately smell
 food balanced with harmonious seasoning and lots of deep, rich broth that gives
 warmth.”
 
-It’s the warmth that envelops you when you step inside one of the myriad
-eateries cooking up favorites like _sundubu-jjigae_, soft tofu stew, and
-_gamjatang_, spicy pork bone soup. Korean street food, meanwhile, is less about
-hearth and home and more about indulging on the go. Case in point is
-_myungrang_, a rice flour battered and fried hot dog on a stick, clustered with
-potatoes, rolled in sugar crystals or infused with squid ink, depending on your
-preference. You can pick up one, or more likely three, in the back corner of
-Duluth’s Super H Mart at the counter service restaurant appropriately named
-Myungrang Hot Dog.
-
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-hotdogs-665.webp"
   srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-hotdogs-320.webp
@@ -106,6 +96,16 @@ Myungrang Hot Dog.
   /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-hotdogs-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Korean hot dogs" width="665" height="573"
   loading="lazy" />
+
+It’s the warmth that envelops you when you step inside one of the myriad
+eateries cooking up favorites like _sundubu-jjigae_, soft tofu stew, and
+_gamjatang_, spicy pork bone soup. Korean street food, meanwhile, is less about
+hearth and home and more about indulging on the go. Case in point is
+_myungrang_, a rice flour battered and fried hot dog on a stick, clustered with
+potatoes, rolled in sugar crystals or infused with squid ink, depending on your
+preference. You can pick up one, or more likely three, in the back corner of
+Duluth’s Super H Mart at the counter service restaurant appropriately named
+Myungrang Hot Dog.
 
 Then there’s cafe culture, every bit as serious as any patisserie in France.
 Koreans often retire to a cafe for sweets or coffee after dinner, explains Choi,
@@ -131,18 +131,6 @@ being one that crosses cultures.
 
 ## How To Choose a Korean Eatery
 
-Choosing one place to eat among the many is a challenge. An early arrival to the
-culinary scene, [Jang Su
-Jang](https://www.exploregwinnett.org/listing/jang-su-jang/449/) is something of
-a safe bet, the sort of place the local visitors center recommends to tourists.
-Opened in 2005, the restaurant specializes in homestyle Korean cuisine. A visit
-there involves a dizzying procession of dishes, eight of which are sides, or
-_banchan_, intended to complement the flavor of the main course. The servers are
-friendly, happy to tell you what each dish is and how to eat it — how to soak
-the rice in _seolleongtang_ soup, how the cabbage leaves for _bossam jungsik_
-should fold around the steamed pork, jalapeños and sliced radishes to make a
-wrap.
-
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/dish-at-jang-su-jang-665.webp"
   srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/dish-at-jang-su-jang-320.webp 320w,
@@ -155,6 +143,18 @@ wrap.
   loading="lazy"
 />
 
+Choosing one place to eat among the many is a challenge. An early arrival to the
+culinary scene, [Jang Su
+Jang](https://www.exploregwinnett.org/listing/jang-su-jang/449/) is something of
+a safe bet, the sort of place the local visitors center recommends to tourists.
+Opened in 2005, the restaurant specializes in homestyle Korean cuisine. A visit
+there involves a dizzying procession of dishes, eight of which are sides, or
+_banchan_, intended to complement the flavor of the main course. The servers are
+friendly, happy to tell you what each dish is and how to eat it — how to soak
+the rice in _seolleongtang_ soup, how the cabbage leaves for _bossam jungsik_
+should fold around the steamed pork, jalapeños and sliced radishes to make a
+wrap.
+
 Traditionally, the dishes would be shared among the family, says
 second-generation owner Stephen Cho. Most patrons today order their own entree,
 but if you’re eating with friends, it’s hard not to let your fork stray to
@@ -163,6 +163,18 @@ quantity of dishes.
 
 “A lot of people think Korean food is just Korean barbecue nowadays,” says Cho.
 “Our family wants to keep this traditional style of Korean dishes.”
+
+<img
+  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-665.webp"
+  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-320.webp 320w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-480.webp 480w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Korean barbecue in Gwinnett County, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 That’s not to knock Korean barbecue, something of a gateway dish for aspiring
 foodies into the world of Korean cuisine. And it's everywhere in K-Town: [K-BBQ
@@ -180,14 +192,14 @@ welcome to ask for free refills of those, but if you’ve opted for
 all-you-can-eat, you don’t want to fill up on sides.
 
 <img
-  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-665.webp"
-  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-320.webp 320w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-480.webp 480w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-665.webp 665w"
+  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-665.webp"
+  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-320.webp 320w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-480.webp 480w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Korean barbecue in Gwinnett County, GA"
+  alt="Fried chicken, sushi, and tteok-bokki at Harue in Doraville, GA"
   width="665"
-  height="499"
+  height="887"
   loading="lazy"
 />
 
@@ -211,18 +223,6 @@ _gimbap_, bite-sized seaweed-wrapped rice rolls; and _tteok-bokki_, chewy,
 oblong rice cakes coated in a pepper paste. It’s the perfect spot for lunch and
 right next-door to [Cafe Rothem](https://www.caferothem.com/) when you’re ready
 for dessert.
-
-<img
-  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-665.webp"
-  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-320.webp 320w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-480.webp 480w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Fried chicken, sushi, and tteok-bokki at Harue in Doraville, GA"
-  width="665"
-  height="887"
-  loading="lazy"
-/>
 
 ## Where To Eat the Best Korean Food in Gwinnett County
 
@@ -249,16 +249,6 @@ walls).
 
 ### Tree Story Bakery & Cafe
 
-Part of the Park Village Shopping Center, where you’ll also find an H Mart and
-several Korean restaurants, [Tree Story Bakery &
-Cafe](https://www.facebook.com/TreeStoryCafe/) is a wonderland for pastry
-lovers. Baskets of individually packaged sweet and savory breads fill the
-shelves and tables near the entrance. More complex desserts like cakes and
-mousses line glass cases at the counter. Park says she enjoys their Misugaru
-drink for a quick meal. It's thick and undoubtedly wholesome. Those with a sweet
-tooth may prefer the patbingsu, which ranges from chocolatey tiramisu to
-traditional with red beans.
-
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/cake-at-tree-story-cafe-duluth-ga-665.webp"
   srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/cake-at-tree-story-cafe-duluth-ga-320.webp 320w,
@@ -270,6 +260,16 @@ traditional with red beans.
   height="499"
   loading="lazy"
 />
+
+Part of the Park Village Shopping Center, where you’ll also find an H Mart and
+several Korean restaurants, [Tree Story Bakery &
+Cafe](https://www.facebook.com/TreeStoryCafe/) is a wonderland for pastry
+lovers. Baskets of individually packaged sweet and savory breads fill the
+shelves and tables near the entrance. More complex desserts like cakes and
+mousses line glass cases at the counter. Park says she enjoys their Misugaru
+drink for a quick meal. It's thick and undoubtedly wholesome. Those with a sweet
+tooth may prefer the patbingsu, which ranges from chocolatey tiramisu to
+traditional with red beans.
 
 ### Jang Su Jang
 
@@ -300,6 +300,18 @@ won't leave hungry.
 
 ## Cultural Notes
 
+<img
+  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-665.webp"
+  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-320.webp 320w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-480.webp 480w,
+          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Korean food in Gwinnett County, GA"
+  width="665"
+  height="458"
+  loading="lazy"
+/>
+
 With so much selection, it's easy to get caught up in the flavors alone, but
 K-Town engages all five senses. It’s the full experience: TVs streaming K-pop
 while you eat, piles of striped _chamwae_ melons in the markets, snatches of
@@ -321,18 +333,6 @@ dispensing bits of Korean history, dining tips and more from the front of the
 trolley. She teaches fragments of Korean and warns everyone, "Pace yourselves."
 It's _a lot_ of food. Everyone digs in around communal tables, an appropriately
 Korean approach to mealtime.
-
-<img
-  src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-665.webp"
-  srcset="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-320.webp 320w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-480.webp 480w,
-          /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/more-korean-food-gwinnett-county-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Korean food in Gwinnett County, GA"
-  width="665"
-  height="458"
-  loading="lazy"
-/>
 
 While no one quite masters Korean on the tour — though some fare better than
 others at using chopsticks — Park says it's important to her to share Korean

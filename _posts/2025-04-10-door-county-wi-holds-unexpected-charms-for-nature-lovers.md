@@ -59,19 +59,19 @@ Midwest, with the beaches, lighthouses, and seafood shacks to prove it. But I
 like it this way, uncrowded, quiet, pristine after the fresh snowfall that
 arrived my first night, right on cue.
 
+## Hiking in a Winter Wonderland
+
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/lighthouse-in-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/lighthouse-in-door-county-wi-320.webp 320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/lighthouse-in-door-county-wi-480.webp 480w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/lighthouse-in-door-county-wi-665.webp 665w"
+  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp"
+  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-320.webp 320w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-480.webp 480w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Lighthouse in Door County, WI"
+  alt="Snow-covered wood and river at Whitefish Dunes State Park in Door County, WI"
   width="665"
-  height="294"
+  height="499"
   loading="lazy"
 />
-
-## Hiking in a Winter Wonderland
 
 My introduction to Door County's scenic off-season begins at Whitefish Dunes
 State Park. The beachfront park turns snowy November through March when you can
@@ -81,13 +81,10 @@ only briefly. Once inside the park, I'm surrounded by the postcard panoramas I
 was hoping for: towering hardwoods like oak, beech, and maples intermixed with
 evergreens, all comfortably blanketed in white.
 
-<img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-320.webp 320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-480.webp 480w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp 665w"
+<img                                                                                                                                               src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp"                                                                                                                                srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-320.webp 320w,                                                                                                                                /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-480.webp 480w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Snow-covered wood and river at Whitefish Dunes State Park in Door County, WI"
+  alt="Boynton Chapel, a stavkirke in the Björklunden, in Door County, WI"
   width="665"
   height="499"
   loading="lazy"
@@ -107,10 +104,13 @@ The tranquil setting seems well-suited to contemplation. And if the landscape
 isn’t as dramatic as Whitefish Dunes, Björklunden has something the state park
 doesn't: a replica 12th-century Norwegian stavkirke.
 
-<img                                                                                                                                               src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp"                                                                                                                                srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-320.webp 320w,                                                                                                                                /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-480.webp 480w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp 665w"
+<img
+  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp"
+  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-320.webp 320w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-480.webp 480w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Boynton Chapel, a stavkirke in the Björklunden, in Door County, WI"
+  alt="Scandinavian engraved pews at Boynton Chapel in Björklunden, Door County, WI"
   width="665"
   height="499"
   loading="lazy"
@@ -130,12 +130,12 @@ want to make the most of daylight. I still have one final stop on the other side
 of Baileys Harbor.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-320.webp 320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-480.webp 480w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp 665w"
+  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp"
+  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-320.webp 320w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-480.webp 480w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Scandinavian engraved pews at Boynton Chapel in Björklunden, Door County, WI"
+  alt="Frozen shallows in the harbor at Door County, WI"
   width="665"
   height="499"
   loading="lazy"
@@ -153,26 +153,9 @@ range lights stand sentinel at opposite ends of a long path. The lighthouses,
 which once helped sailors avoid the harbor's dangerous shallows, are picturesque
 today, the boardwalk to reach them uncluttered by footprints in the snow.
 
-<img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-320.webp 320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-480.webp 480w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Frozen shallows in the harbor at Door County, WI"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+
 
 ## Holiday Cheer in Door County
-
-The winter beauty is only part of the appeal. Door County shines with festive
-events that warm the season. At the Door County Maritime Museum in Sturgeon Bay,
-the [Merry-Time Festival of Trees](http://www.dcmm.org/) runs from November
-through mid-December, filling the space with dozens of elaborately decorated
-Christmas trees. Alongside exhibits on shipwrecks, lighthouses, and Great Lakes
-nautical history, a 101-year-old red tugboat out front glows with white lights.
 
 <img
   src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-665.webp"
@@ -185,6 +168,13 @@ nautical history, a 101-year-old red tugboat out front glows with white lights.
   height="499"
   loading="lazy"
 />
+
+The winter beauty is only part of the appeal. Door County shines with festive
+events that warm the season. At the Door County Maritime Museum in Sturgeon Bay,
+the [Merry-Time Festival of Trees](http://www.dcmm.org/) runs from November
+through mid-December, filling the space with dozens of elaborately decorated
+Christmas trees. Alongside exhibits on shipwrecks, lighthouses, and Great Lakes
+nautical history, a 101-year-old red tugboat out front glows with white lights.
 
 In Ephraim, [Christmas in the Village](https://ephraim-doorcounty.com/) offers a
 daylong celebration with caroling, carriage rides, a tree lighting, and a visit

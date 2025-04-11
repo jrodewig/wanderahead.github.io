@@ -86,12 +86,6 @@ signature bold strokes.
 
 ## Indulge in Old-Fashioned Fudge
 
-Designed as the fudge shop of your childhood memories, [CW Fudge
-Factory](https://cwfudge.info/) is stocked with nostalgic candy, homemade
-popcorn, truffles and more. But most importantly, there’s fudge: around 30
-flavors on any given day that might include salted caramel, sangria, coconut
-cream pie, pistachio or creme brulee. You can even watch it being made on-site.
-
 <img
   src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-665.webp"
   srcset="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-320.webp 320w,
@@ -104,6 +98,12 @@ cream pie, pistachio or creme brulee. You can even watch it being made on-site.
   loading="lazy"
 />
 
+Designed as the fudge shop of your childhood memories, [CW Fudge
+Factory](https://cwfudge.info/) is stocked with nostalgic candy, homemade
+popcorn, truffles and more. But most importantly, there’s fudge: around 30
+flavors on any given day that might include salted caramel, sangria, coconut
+cream pie, pistachio or creme brulee. You can even watch it being made on-site.
+
 ## See Dolphins on an Eco Tour
 
 The protected estuary surrounding Matlacha is a haven for eagles, ospreys,
@@ -113,12 +113,6 @@ through the protected estuary. She'll also tell you all about the Calusa tribe
 and their magnificent shell mounds, which you can still see today.
 
 ## Check Out the Tiny Home Architecture
-
-Sporting names like Flamingo and Margarita and vivid exteriors that range from
-turquoise to tangerine, the houses at [Matlacha Tiny
-Village](https://www.matlachatinyvillage.com/) perfectly match the rest of the
-town. Overnight guests have all they need with a kitchenette, outdoor grill,
-picnic table, dock and kayak launch.
 
 <img
   src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/artwork-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
@@ -131,6 +125,12 @@ picnic table, dock and kayak launch.
   height="499"
   loading="lazy"
 />
+
+Sporting names like Flamingo and Margarita and vivid exteriors that range from
+turquoise to tangerine, the houses at [Matlacha Tiny
+Village](https://www.matlachatinyvillage.com/) perfectly match the rest of the
+town. Overnight guests have all they need with a kitchenette, outdoor grill,
+picnic table, dock and kayak launch.
 
 ## Paddle the Preserve
 

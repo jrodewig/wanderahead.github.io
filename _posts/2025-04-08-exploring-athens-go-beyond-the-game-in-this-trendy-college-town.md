@@ -28,14 +28,6 @@ remember.
 
 ## Step Outside and Soak Up Athens Nature
 
-Start off with some outdoor exercise. In a city that’s predominantly Georgia
-Bulldogs black and red, it’s pleasant to find so much green.
-Parks and nature paths are plentiful, like the [Firefly
-Trail](https://www.fireflytrail.com/), an ambitious rails-to-trails project
-beginning in Athens and planned to extend all the way to Union Point (about 35
-miles) one day. Nearby, the tree-lined 3.5-mile North Oconee River Greenway is
-another great place for a walk or bike ride.
-
 <img
   src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/boardwalk-in-athens-ga-665.webp"
   srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/boardwalk-in-athens-ga-320.webp 320w,
@@ -48,6 +40,28 @@ another great place for a walk or bike ride.
   loading="lazy"
 />
 
+
+Start off with some outdoor exercise. In a city that’s predominantly Georgia
+Bulldogs black and red, it’s pleasant to find so much green.
+Parks and nature paths are plentiful, like the [Firefly
+Trail](https://www.fireflytrail.com/), an ambitious rails-to-trails project
+beginning in Athens and planned to extend all the way to Union Point (about 35
+miles) one day. Nearby, the tree-lined 3.5-mile North Oconee River Greenway is
+another great place for a walk or bike ride.
+
+<img
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Fountain in a garden courtyard in Athens, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
+
+
 With more than 2,000 acres of public green space, the city prizes its natural
 resources, so perhaps it’s not surprising that it’s one of the only places in
 the world you’ll find a tree that owns itself. As the legend goes, a
@@ -58,12 +72,12 @@ planted another from its acorns. Today, it's one of the Classic City’s top
 attractions.
 
 <img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/garden-fountain-in-athens-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Fountain in a garden courtyard in Athens, GA"
+  alt="Flower-lined bridge in a wooded garden in Athens, GA"
   width="665"
   height="442"
   loading="lazy"
@@ -78,12 +92,12 @@ Alice H. Richards Children’s Garden, even if you’re not traveling with kids.
 Though geared toward younger ages, the interactive design makes it fun for all.
 
 <img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/flower-lined-bridge-in-wooded-garden-in-athens-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Flower-lined bridge in a wooded garden in Athens, GA"
+  alt="Black bear at Bear Hollow Zoo in Athens, GA"
   width="665"
   height="442"
   loading="lazy"
@@ -97,12 +111,12 @@ and owls, several reptiles, an otter, a bobcat and everyone’s favorite, a trio
 of black bears.
 
 <img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/black-bear-at-bear-hollow-zoo-in-athens-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Black bear at Bear Hollow Zoo in Athens, GA"
+  alt="Dogwood flowers in Athens, GA"
   width="665"
   height="442"
   loading="lazy"
@@ -120,19 +134,20 @@ Art](https://www.visitathensga.com/listing/georgia-museum-of-art/290/). On a
 terraced lawn off the entrance lobby, the museum’s sculpture garden is a quiet
 retreat where art blends with nature.
 
-<img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/dogwood-flowers-in-athens-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Dogwood flowers in Athens, GA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
 
 ## Stroll Through Historic Athens
+
+<img
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="The historic Morton Theatre in Athens, GA"
+  width="665"
+  height="434"
+  loading="lazy"
+/>
 
 You don’t have to search far in Athens to find pieces of its past. Even its
 parks have scraps of history. The Greenway, for example, features dozens of
@@ -150,16 +165,17 @@ see original seats and equipment from the theater’s heyday and learn about its
 creator and stars on a guided tour.
 
 <img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/historic-morton-theatre-athens-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="The historic Morton Theatre in Athens, GA"
+  alt="Historic Ware-Lyndon House"
   width="665"
-  height="434"
+  height="442"
   loading="lazy"
 />
+
 
 Two blocks from the theater is yet another artifact: an authentic Civil War
 double barrel cannon. Designed and made in Athens, this unusual invention was
@@ -182,12 +198,12 @@ showcasing paintings, sculpture and more. If you’re using Google Maps, plug in
 the Lyndon House Arts Center to get to the right destination.
 
 <img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/ware-lyndon-house-museum-in-athens-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Historic Ware-Lyndon House"
+  alt=""
   width="665"
   height="442"
   loading="lazy"
@@ -201,32 +217,12 @@ around 1852. It's the first attraction so far in this list that has a cost, a
 period furnishings like a turtle-top marble table and a cabinet filled with
 delicate burgundy and white china gifted by the Georgia Legislature.
 
-<img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/statue-in-garden-outside-historic-ware-lyndon-house-in-athens-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt=""
-  width="665"
-  height="442"
-  loading="lazy"
-/>
-
 From here, you’re less than five minutes by foot from the [Taylor-Grady
 House](https://www.taylorgrady.com/). Lit by chandeliers and surrounded by
 columns, this antebellum National Historic Landmark exudes elegance and, not
 surprisingly, is a popular venue for weddings.
 
 ## Where To Eat in Athens
-
-Fuel your travels through nature and history with one of the many local
-restaurants, serving up fresh cuisine ranging from Vietnamese and Jamaican to
-Lowcountry and soul food. Two of these restaurants even have James Beard level
-honors: the upscale [Five and Ten](https://www.fiveandten.com/) and the
-no-frills [Weaver
-D's](https://www.visitathensga.com/listing/weaver-ds-fine-foods/99/), both
-featuring Southern cooking.
 
 <img
   src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/custom-bowl-from-maepole-athens-ga-665.webp"
@@ -239,6 +235,28 @@ featuring Southern cooking.
   height="442"
   loading="lazy"
 />
+
+Fuel your travels through nature and history with one of the many local
+restaurants, serving up fresh cuisine ranging from Vietnamese and Jamaican to
+Lowcountry and soul food. Two of these restaurants even have James Beard level
+honors: the upscale [Five and Ten](https://www.fiveandten.com/) and the
+no-frills [Weaver
+D's](https://www.visitathensga.com/listing/weaver-ds-fine-foods/99/), both
+featuring Southern cooking.
+
+<img
+  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-665.webp"
+  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-320.webp 320w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-480.webp 480w,
+          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Tres leches cake with strawberry rhubarb coulis at Heirloom Athens in
+  Athens, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
+
 
 If you’re trying to fit in all the sights of Athens and need some healthy food
 fast, [Maepole](https://www.maepole.com/) is your best bet. You’ll recognize it
@@ -253,19 +271,6 @@ grass-fed meatballs, black-eyed pea tempeh, sriracha honey and braised cabbage
 in coconut milk. Do yourself a favor and pick the whole wheat mac and cheese for
 at least one of your sides. Since you’re eating all those veggies, you deserve
 something a little decadent.
-
-<img
-  src="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-665.webp"
-  srcset="/assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-320.webp 320w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-480.webp 480w,
-          /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/tres-leches-cake-with-strawberry-rhubarb-coulis-at-hierloom-athens-in-athens-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Tres leches cake with strawberry rhubarb coulis at Heirloom Athens in
-  Athens, GA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
 
 Finish up with dessert at [Heirloom Athens](https://www.heirloomathens.com/), a
 farm-to-table restaurant down the road from Maepole with a seasonal menu.

@@ -16,15 +16,6 @@ Orlando.
 
 ## Culture on a Dime
 
-While a ticket to Universal Studios or Magic Kingdom can set you back upwards of
-$100, you can tour more than a dozen museums in the Orlando area for a fraction
-of the price. For a visual smorgasbord, try the [Orlando Museum of
-Art](https://omart.org/) or the [Mennello Museum of American
-Art](https://www.mennellomuseum.org/Home). Not into art? Opt for education fun
-at the [Orlando Science Center](https://www.osc.org/) or a whirlwind tour of
-Central Florida’s past at the [Orange County Regional History
-Center](https://www.thehistorycenter.org/).
-
 <img
   src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-665.webp"
   srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-320.webp 320w,
@@ -37,11 +28,14 @@ Center](https://www.thehistorycenter.org/).
   loading="lazy"
 />
 
-For more options, visit the surrounding cities. The [Albin Polasek Museum &
-Sculpture Gardens](https://polasek.org/), for example, which celebrates the
-works of this Czech sculptor, is an intriguing find just north of Orlando in
-Winter Park. You can tour the artist’s studio, see rotating exhibits indoors and
-bliss out in the backyard sculpture garden on Lake Osceola.
+While a ticket to Universal Studios or Magic Kingdom can set you back upwards of
+$100, you can tour more than a dozen museums in the Orlando area for a fraction
+of the price. For a visual smorgasbord, try the [Orlando Museum of
+Art](https://omart.org/) or the [Mennello Museum of American
+Art](https://www.mennellomuseum.org/Home). Not into art? Opt for education fun
+at the [Orlando Science Center](https://www.osc.org/) or a whirlwind tour of
+Central Florida’s past at the [Orange County Regional History
+Center](https://www.thehistorycenter.org/).
 
 <img
   src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-665.webp"
@@ -54,7 +48,26 @@ bliss out in the backyard sculpture garden on Lake Osceola.
   loading="lazy"
 />
 
+For more options, visit the surrounding cities. The [Albin Polasek Museum &
+Sculpture Gardens](https://polasek.org/), for example, which celebrates the
+works of this Czech sculptor, is an intriguing find just north of Orlando in
+Winter Park. You can tour the artist’s studio, see rotating exhibits indoors and
+bliss out in the backyard sculpture garden on Lake Osceola.
+
 ## Best Entertainment
+
+<img
+  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp"
+  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-320.webp 320w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-480.webp 480w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="SAK comedy lab in Downtown Orlando, FL"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
 
 Wrap up your day a live show. Choose from drama, dance, music, magic and more,
 but if you’re looking for a true Orlando classic, get tickets to the [SAK Comedy
@@ -74,16 +87,17 @@ and quoting zany lines performers made up on the spot. And you can go right back
 the next night to see something new.
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp 665w"
+  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp"
+  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-320.webp 320w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-480.webp 480w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="SAK comedy lab in Downtown Orlando, FL"
+  alt="Sleeping cat at the Orlando Cat Cafe"
   width="665"
   height="499"
   loading="lazy"
 />
+
 
 If all that audience participation leaves you craving more interactive
 entertainment, that’s where Escapology comes in. Headquartered in Orlando and
@@ -105,19 +119,20 @@ For a nominal fee, you can enter the feline hangout, stocked with comfortable
 seats (for humans) and climbing trees and hidey holes (for cats). You can pet
 and play with them or just admire the way they lounge with absolute abandon.
 
+## Where To Eat in Orlando
+
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp 665w"
+  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp"
+  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-320.webp 320w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-480.webp 480w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Sleeping cat at the Orlando Cat Cafe"
+  alt="Pastries and doughnuts from the Buttermilk Baker in Orlando, FL"
   width="665"
   height="499"
   loading="lazy"
 />
 
-## Where To Eat in Orlando
 
 Wake up with coffee. And pastries. The fast-moving line at [Buttermilk
 Bakery](https://www.buttermilk-bakery.com/) lets you know you've come to the
@@ -128,12 +143,12 @@ fruit. The sheer variety makes it hard to choose, but you're on vacation, so you
 have permission to order at least three.
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp 665w"
+  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp"
+  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-320.webp 320w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-480.webp 480w,
+          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Pastries and doughnuts from the Buttermilk Baker in Orlando, FL"
+  alt="Shrimp bowl and dip at the East End Market in Orlando, FL"
   width="665"
   height="499"
   loading="lazy"
@@ -148,18 +163,6 @@ hungry. The shrimp, sourced right off the Florida coast, is plentiful, and the
 brown rice, from Jacksonville, is creamy. It plumps up wonderfully with the
 absorbed sauces — like cilantro lemongrass in their bestseller Florida Bowl or
 the pineapple-sweet meets Caribbean spice of the Island Jerk Bowl.
-
-<img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Shrimp bowl and dip at the East End Market in Orlando, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
 
 As a bonus, they’re fully gluten-free and low sugar, too, so it’s OK to splurge
 on dessert at one of the other food stalls in the market. It’ll likely be one of

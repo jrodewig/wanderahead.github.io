@@ -18,11 +18,6 @@ including a Colosseum. If you know where to look, Gordon County's biggest city
 
 ## Pet Alpacas at K&T Farms
 
-Start your adventure at a local alpaca farm. These herd animals hail from Peru,
-but the Georgia climate agrees with them just fine. Though they’re usually
-skittish, the ones at [K&T Farms](https://www.kandtfarms.com/) are friendly. In
-fact, they’ll eat right out of your hand.
-
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp"
   srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
@@ -34,18 +29,11 @@ fact, they’ll eat right out of your hand.
   height="442"
   loading="lazy"
 />
-“That’s because they’re only fed when people come to visit,” explains Jenna
-Cain, who started offering farm tours in 2017. The two-hour tours, held Monday
-through Saturday, include a hayride down to the creek, a stop to see the
-miniature pigs and, the highlight, meeting the alpacas. Cain includes a cup of
-feed for every guest, so you’re guaranteed some personalized alpaca attention.
 
-“It’s beautiful out here,” she says. “I didn’t think I would enjoy it as much as
-I do.”
-
-Her family moved to the farm in 1994. The 60-acre tract used to be part of a
-larger farm that raised buffalo. Now it’s home to cows, horses, pigs, dogs, a
-miniature donkey and 11 alpacas.
+Start your adventure at a local alpaca farm. These herd animals hail from Peru,
+but the Georgia climate agrees with them just fine. Though they’re usually
+skittish, the ones at [K&T Farms](https://www.kandtfarms.com/) are friendly. In
+fact, they’ll eat right out of your hand.
 
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
@@ -59,16 +47,23 @@ miniature donkey and 11 alpacas.
   loading="lazy"
 />
 
+“That’s because they’re only fed when people come to visit,” explains Jenna
+Cain, who started offering farm tours in 2017. The two-hour tours, held Monday
+through Saturday, include a hayride down to the creek, a stop to see the
+miniature pigs and, the highlight, meeting the alpacas. Cain includes a cup of
+feed for every guest, so you’re guaranteed some personalized alpaca attention.
+
+“It’s beautiful out here,” she says. “I didn’t think I would enjoy it as much as
+I do.”
+
+Her family moved to the farm in 1994. The 60-acre tract used to be part of a
+larger farm that raised buffalo. Now it’s home to cows, horses, pigs, dogs, a
+miniature donkey and 11 alpacas.
+
 On your visit, you’ll also learn about the fascinating industry surrounding
 alpaca fiber. Cain will tell you how fiber from young alpacas, called crias, is
 as valuable as cashmere. It’s easy to believe when you pet the downy coats of
 1-year-old alpaca twins Domino and Tinker Bell.
-
-The farm store has the usual souvenirs (felted soap, dryer balls) and unusual
-ones: nesting balls that look like giant furry heads, which you hang in your
-yard so birds can make tiny, intricate nests from the hair. In winter, Cain can
-barely keep alpaca socks in stock. “Alpaca fiber wicks the moisture away from
-your skin, but it’s really warm and lightweight,” she says.
 
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
@@ -81,6 +76,14 @@ your skin, but it’s really warm and lightweight,” she says.
   height="442"
   loading="lazy"
 />
+
+
+The farm store has the usual souvenirs (felted soap, dryer balls) and unusual
+ones: nesting balls that look like giant furry heads, which you hang in your
+yard so birds can make tiny, intricate nests from the hair. In winter, Cain can
+barely keep alpaca socks in stock. “Alpaca fiber wicks the moisture away from
+your skin, but it’s really warm and lightweight,” she says.
+
 
 If you want to take it one step further and be part of the behind-the-scenes
 process of making alpaca fiber, you can. Every April, Cain and a crew of
@@ -102,12 +105,6 @@ Christmas trees awaiting their final home.
 
 ## See the Sunflowers at Copper Creek Farm
 
-Your farm fun isn't over. On the other side of town, [Copper
-Creek Farm](http://www.coppercreekfarm.com/) is open
-seasonally for all the traditional kitschy entertainment: mechanical bull, cow
-train, duck races. They have a corn maze in the fall along with a haunted barn
-and pumpkin cannon, making it a popular destination for families.
-
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp"
   srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-320.webp 320w,
@@ -120,10 +117,11 @@ and pumpkin cannon, making it a popular destination for families.
   loading="lazy"
 />
 
-The stars of the show come out in summer, though, when a field of golden
-sunflowers erupts into bloom. Their beauty is fleeting, here for only a few
-weeks, but it's impressive while it lasts. As you wander among the stalks,
-sunflower bulbs bending above your head, you’ll feel like you're in a storybook.
+Your farm fun isn't over. On the other side of town, [Copper
+Creek Farm](http://www.coppercreekfarm.com/) is open
+seasonally for all the traditional kitschy entertainment: mechanical bull, cow
+train, duck races. They have a corn maze in the fall along with a haunted barn
+and pumpkin cannon, making it a popular destination for families.
 
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp"
@@ -136,6 +134,13 @@ sunflower bulbs bending above your head, you’ll feel like you're in a storyboo
   height="442"
   loading="lazy"
 />
+
+The stars of the show come out in summer, though, when a field of golden
+sunflowers erupts into bloom. Their beauty is fleeting, here for only a few
+weeks, but it's impressive while it lasts. As you wander among the stalks,
+sunflower bulbs bending above your head, you’ll feel like you're in a storybook.
+
+
 
 ## Learn Cherokee History at the New Echota Historic Site
 
@@ -237,9 +242,6 @@ Tasting on Saturday.
 
 ## Visit Downtown Calhoun
 
-After communing with nature, you’ll be ready for city exploration. In Calhoun,
-the hub is the downtown strip, five blocks along South Wall Street.
-
 <img
   src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp"
   srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-320.webp 320w,
@@ -251,6 +253,9 @@ the hub is the downtown strip, five blocks along South Wall Street.
   height="442"
   loading="lazy"
 />
+
+After communing with nature, you’ll be ready for city exploration. In Calhoun,
+the hub is the downtown strip, five blocks along South Wall Street.
 
 Stop into the [Harris Arts Center](https://harrisartscenter.com/) for a dash of
 culture. The complex houses art galleries, a theater, an art market and a museum

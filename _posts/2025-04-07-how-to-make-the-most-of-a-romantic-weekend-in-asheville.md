@@ -16,7 +16,7 @@ galore and those beautiful Blue Ridge Mountains.
 It’s hard to cram it all in a weekend, but if you must, here’s how to do it
 while keeping things relaxed.
 
-## 1. Pack a Gourmet Picnic
+## Pack a Gourmet Picnic
 
 <img
   src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-665.webp"
@@ -58,7 +58,7 @@ baguette. Sparkling water on the side. Rushing water in the background. Enjoyed
 in our own shady nook we found off the popular Catawba Falls trail, this was one
 of the best picnics we’ve ever had.
 
-## 2. Hit the Trails
+## Hit the Trails
 
 <img 
   src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-665.webp" 
@@ -104,7 +104,7 @@ If you have time, stop by Catawba Falls on the way back into town. This popular
 hike is less than 1.5 miles with a wide path to accommodate the high volume of
 foot traffic.
 
-## 3. Play Like You’re a Kid Again
+## Play Like You’re a Kid Again
 
 <img
   src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-665.webp"
@@ -156,7 +156,7 @@ additional bonding — just don’t get too competitive!
 **Fun fact:** You can also pick up some fascinating trivia by reading the nearby
 placards. Did you know the Twilight Zone pinball maker hired a voice actor?
 
-## 4. Lounge in Comfort
+## Lounge in Comfort
 
 <img
   src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-665.webp"
@@ -191,7 +191,7 @@ trouble falling asleep anyway. The indoor pool is nice, if hard to share with an
 enthusiastic baseball team, but the amenity I liked the most was the water
 bottle filling station. Hydration is key for all that hiking we were doing!
 
-## 5. Bliss out at Biltmore
+## Bliss out at Biltmore
 
 <img
   src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-665.webp"
@@ -257,7 +257,7 @@ do love a good picnic.
 Tickets are cheapest ordered ahead, so I recommend [booking
 online](https://www.biltmore.com/landing/ticket-options/) before you go.
 
-## 6. Wander Through a Floral Arboretum
+## Wander Through a Floral Arboretum
 
 <img
   src="/assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-665.webp"

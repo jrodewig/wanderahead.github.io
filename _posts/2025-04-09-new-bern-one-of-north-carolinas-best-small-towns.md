@@ -37,6 +37,18 @@ experiences to prioritize when you visit New Bern.
 
 ## Get Out on the Water
 
+<img
+  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp"
+  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-320.webp 320w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-480.webp 480w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Cruise on the Neuse River with Anchors Up Marine Solutions in New Bern, NC"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
 You can’t visit New Bern without getting out on the water. Positioned at the
 meeting point of two rivers, the city is defined by its aquatic surroundings.
 Paddleboarding, kayaking, boating, fishing  —  the options are endless, but a guided
@@ -52,18 +64,6 @@ pointing out turtles and wildlife, showcasing multimillion-dollar waterfront
 properties, and recounting the tale of America’s first registered nurse and her
 obscure link to “Brad’s Drink.”
 
-<img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Cruise on the Neuse River with Anchors Up Marine Solutions in New Bern, NC"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
-
 The 22-foot covered boat seats up to six and can be enclosed if the weather
 turns chilly. Morning, afternoon, and sunset tours run daily — opt for the sunset
 slot for breathtaking wetland views or the morning for serene calm. Bring snacks
@@ -78,12 +78,6 @@ kingfishers, and cardinals are common sights. Or just to zoom in on the scenery.
 
 ## Go Out on the Town
 
-Here’s a key fact about New Bern: bears. Not the living kind, but the symbolic
-ones. Named after Bern, Switzerland, where the bear is a heraldic icon, New Bern
-embraces this connection with over 80 fiberglass bear sculptures around town.
-Tracking them down is a fun challenge; grab a map from the visitors center if
-you want a head start.
-
 <img
   src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-665.webp"
   srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-320.webp 320w,
@@ -96,15 +90,17 @@ you want a head start.
   loading="lazy"
 />
 
+
+Here’s a key fact about New Bern: bears. Not the living kind, but the symbolic
+ones. Named after Bern, Switzerland, where the bear is a heraldic icon, New Bern
+embraces this connection with over 80 fiberglass bear sculptures around town.
+Tracking them down is a fun challenge; grab a map from the visitors center if
+you want a head start.
+
 Spot a bear in a green vest, and you’ve found Mitchell Hardware. Step inside
 this 1898 general store for a dose of nostalgia. It’s stocked with everything
 from birdhouses to barbecue sauce to boating gear and doubles as an attraction
 itself.
-
-Nearby, The Birthplace of Pepsi marks the spot where a local pharmacist
-concocted the drink in 1898. Check out vintage artifacts like Pepsi lunch boxes,
-international bottles, even a Mountain Dew hillbilly mural. Then grab a Pepsi
-float and popcorn at the soda shop.
 
 <img
   src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-665.webp"
@@ -113,6 +109,23 @@ float and popcorn at the soda shop.
           /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="The Birthplace of Pepsi in New Bern, NC"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
+Nearby, The Birthplace of Pepsi marks the spot where a local pharmacist
+concocted the drink in 1898. Check out vintage artifacts like Pepsi lunch boxes,
+international bottles, even a Mountain Dew hillbilly mural. Then grab a Pepsi
+float and popcorn at the soda shop.
+
+<img
+  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp"
+  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-320.webp 320w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-480.webp 480w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Beary The Hatchet in New Bern, NC"
   width="665"
   height="499"
   loading="lazy"
@@ -128,18 +141,6 @@ and drinks are available, and they’ve got close-toed shoes to rent if you need
 them.
 
 **Tip:** Swing by on “Broke Axe Mondays” for 40% off an hour of throwing.
-
-<img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Beary The Hatchet in New Bern, NC"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
 
 ## Stop in at the Palace
 
@@ -189,13 +190,6 @@ standout picks for every meal, plus a snack stop.
 
 ### Breakfast
 
-[Baker’s Kitchen Restaurant & Bakery](https://bakerskitchennb.com/) draws
-crowds, especially on weekends during brunch hours. Known for fresh cinnamon
-rolls and their famous Butter Syrup (shipped nationwide), they nail the
-classics: eggs any way you like, plus Southern staples like country fried steak
-and biscuits with gravy. Order à la carte to customize your plate; the “Twigs &
-Berries” yogurt with granola is a lighter gem.
-
 <img
   src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-665.webp"
   srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-320.webp 320w,
@@ -208,19 +202,19 @@ Berries” yogurt with granola is a lighter gem.
   loading="lazy"
 />
 
+[Baker’s Kitchen Restaurant & Bakery](https://bakerskitchennb.com/) draws
+crowds, especially on weekends during brunch hours. Known for fresh cinnamon
+rolls and their famous Butter Syrup (shipped nationwide), they nail the
+classics: eggs any way you like, plus Southern staples like country fried steak
+and biscuits with gravy. Order à la carte to customize your plate; the “Twigs &
+Berries” yogurt with granola is a lighter gem.
+
 Service is quick and friendly, and the bright, welcoming vibe sets you up for
 the day.
 
 **Tip:** Save space for the pastry case. Muffins, cookies, and more await.
 
 ### Lunch
-
-If you’re at Tryon Palace, [Lawson’s On The
-Creek](https://www.lawsonsonthecreek.com/) at the North Carolina History Center
-is a convenient waterfront option. Soups, salads, and sandwiches dominate the
-menu, alongside craft beer, wine, and desserts. Expect crowd-pleasers like
-grilled cheese and hot dogs, plus elevated picks like Reubens or shrimp salad.
-The patio views are a bonus. It's worth stepping out for even if you eat inside.
 
 <img
   src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-665.webp"
@@ -234,13 +228,14 @@ The patio views are a bonus. It's worth stepping out for even if you eat inside.
   loading="lazy"
 />
 
-### Dinner
+If you’re at Tryon Palace, [Lawson’s On The
+Creek](https://www.lawsonsonthecreek.com/) at the North Carolina History Center
+is a convenient waterfront option. Soups, salads, and sandwiches dominate the
+menu, alongside craft beer, wine, and desserts. Expect crowd-pleasers like
+grilled cheese and hot dogs, plus elevated picks like Reubens or shrimp salad.
+The patio views are a bonus. It's worth stepping out for even if you eat inside.
 
-Morgan’s Tavern & Grill might steal the show with its steakburgers, a juicy blend
-of chuck roast, short rib, and brisket, paired perfectly with creamy mac and
-cheese. Complimentary honey-drizzled croissants kick things off right, and the
-menu spans salads, seafood, pasta, ribs, and more, all with a local, seasonal
-twist.
+### Dinner
 
 <img
   src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-665.webp"
@@ -253,6 +248,12 @@ twist.
   height="499"
   loading="lazy"
 />
+
+[Morgan’s Tavern & Grill](http://morganstavernnewbern.com/) might steal the show
+with its steakburgers, a juicy blend of chuck roast, short rib, and brisket,
+paired perfectly with creamy mac and cheese. Complimentary honey-drizzled
+croissants kick things off right, and the menu spans salads, seafood, pasta,
+ribs, and more, all with a local, seasonal twist.
 
 Sit on the patio (with heaters or fans as needed) or inside the 1911
 brick-walled space, adorned with art and lanterns. Snap a pic with the bear

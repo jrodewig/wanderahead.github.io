@@ -82,16 +82,6 @@ in store when you visit Monroe County.
 
 ## Downtown Forsyth
 
-Start your journey in downtown Forsyth. If it’s a weekday, head inside the
-courthouse to see the restored courtroom with its decorative pressed tin
-ceiling. Then hit the streets for a self-guided tour.
-
-Your walk is naturally better with ice cream, so stop into
-[Scoops](https://www.scoopsicecream.com/forsyth) first. This sweets shop is
-packed with novelty candy from decades ago along with all your favorite frozen
-treats. Grab a sundae or a cone — butter pecan and salted caramel truffle are
-popular — and start exploring.
-
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp"
   srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-320.webp 320w,
@@ -104,12 +94,15 @@ popular — and start exploring.
   loading="lazy"
 />
 
-There's a fox hunt with clues that leads you all over downtown in search of
-miniature bronze foxes. Why foxes? It’s a throwback to Forsyth's former
-nickname, “Fox City.” As the story goes, the town earned the moniker due to the
-charms of the students of Tift College, the second oldest women's college in
-Georgia. It’s a fun but challenging scavenger hunt (I admit I was stumped on a
-few clues), and you’ll get to know some of the city’s landmarks along the way.
+Start your journey in downtown Forsyth. If it’s a weekday, head inside the
+courthouse to see the restored courtroom with its decorative pressed tin
+ceiling. Then hit the streets for a self-guided tour.
+
+Your walk is naturally better with ice cream, so stop into
+[Scoops](https://www.scoopsicecream.com/forsyth) first. This sweets shop is
+packed with novelty candy from decades ago along with all your favorite frozen
+treats. Grab a sundae or a cone — butter pecan and salted caramel truffle are
+popular — and start exploring.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp"
@@ -120,6 +113,13 @@ few clues), and you’ll get to know some of the city’s landmarks along the wa
   /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Hidden Fox in Forsyth, GA"
   width="665" height="499" loading="lazy" />
+
+There's a fox hunt with clues that leads you all over downtown in search of
+miniature bronze foxes. Why foxes? It’s a throwback to Forsyth's former
+nickname, “Fox City.” As the story goes, the town earned the moniker due to the
+charms of the students of Tift College, the second oldest women's college in
+Georgia. It’s a fun but challenging scavenger hunt (I admit I was stumped on a
+few clues), and you’ll get to know some of the city’s landmarks along the way.
 
 Pick up an African American Heritage Guide & Tour booklet at the welcome center
 for more historic sites to visit as well as biographies and a timeline to give
@@ -137,6 +137,18 @@ spring.)
 
 ## Farm Life in Monroe County
 
+<img
+  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp"
+  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-320.webp 320w,
+          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-480.webp 480w,
+          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Old-timey Coca-Cola signs at Hamlin Hills Farms in Forsyth, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
 Agritourism is thriving in Monroe County today. There's nearly always something
 in season, beginning with strawberries in the spring through pecans and pumpkins
 in the fall.
@@ -150,29 +162,11 @@ your camera roll with old-timey Coca-Cola signs and unusual sights like the
 state’s cleanest outhouse (they say) and a 17-passenger helicopter you can climb
 inside.
 
-<img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-320.webp 320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-480.webp 480w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Old-timey Coca-Cola signs at Hamlin Hills Farms in Forsyth, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
-
 Of course, you don't have to leave town for farm-fresh flavors. On Fridays from
 May through September, swing by the farmers market downtown to stock up on
 locally grown and crafted products.
 
 ## Waterfall Watching
-
-If you're not expecting waterfalls outside North Georgia, [High Falls State
-Park](https://gastateparks.org/HighFalls) is something of a surprise. The broad,
-multi-tiered cascade tumbling down the Towaliga River holds its own against the
-glories of the Blue Ridge foothills. It's the largest waterfall south of
-Atlanta.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp"
@@ -184,6 +178,11 @@ Atlanta.
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Towaliga River in Juliette,
   GA" width="665" height="499" loading="lazy" />
 
+If you're not expecting waterfalls outside North Georgia, [High Falls State
+Park](https://gastateparks.org/HighFalls) is something of a surprise. The broad,
+multi-tiered cascade tumbling down the Towaliga River holds its own against the
+glories of the Blue Ridge foothills. It's the largest waterfall south of
+Atlanta.
 
 There's an accessible platform so everyone can enjoy the falls plus plenty of
 opportunities for hiking, geocaching and bass fishing.
@@ -193,15 +192,6 @@ Monroe County. It was once a thriving industrial town, and you can still see
 ruins of the hydroelectric plant, dating to the 1890s, on a half-mile trail.
 
 ## Fried Green Tomatoes
-
-Monroe County has featured in a number of films: _Baby Driver_, _Anchorman 2_,
-_Cockfighter_, and _Seven Little Johnstons_, to name a few. But it's the 1990s
-drama _Fried Green Tomatoes_ that draws tourists from around the world.
-
-You'll feel like you're stepping onto a movie set as you walk down McCracken
-Street in Juliette. The storefronts are impossibly quaint. Antiques and
-nostalgic bric-a-brac fill the front porches. Even the sheriff's substation,
-petite and weathered, is undeniably Instagrammable.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp"
@@ -215,13 +205,14 @@ petite and weathered, is undeniably Instagrammable.
   loading="lazy"
 />
 
-The [Whistle Stop Café](https://thewhistlestopcafe.com) at the end of the block
-is your destination, both for its role in the film and its delicious cuisine.
-The menu is thoroughly Southern: fried chicken livers, smoked ribs, catfish,
-country fried steak and sides that range from cornbread to collards. Order an
-appetizer of fried green tomatoes and you’ll understand why people rave about
-them. These magical circles are piping hot with soft yellow centers covered in a
-crispy, seasoned batter.
+Monroe County has featured in a number of films: _Baby Driver_, _Anchorman 2_,
+_Cockfighter_, and _Seven Little Johnstons_, to name a few. But it's the 1990s
+drama _Fried Green Tomatoes_ that draws tourists from around the world.
+
+You'll feel like you're stepping onto a movie set as you walk down McCracken
+Street in Juliette. The storefronts are impossibly quaint. Antiques and
+nostalgic bric-a-brac fill the front porches. Even the sheriff's substation,
+petite and weathered, is undeniably Instagrammable.
 
 <img
   src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp"
@@ -234,6 +225,15 @@ crispy, seasoned batter.
   height="499"
   loading="lazy"
 />
+
+
+The [Whistle Stop Café](https://thewhistlestopcafe.com) at the end of the block
+is your destination, both for its role in the film and its delicious cuisine.
+The menu is thoroughly Southern: fried chicken livers, smoked ribs, catfish,
+country fried steak and sides that range from cornbread to collards. Order an
+appetizer of fried green tomatoes and you’ll understand why people rave about
+them. These magical circles are piping hot with soft yellow centers covered in a
+crispy, seasoned batter.
 
 Get there early to put your name on the list. This place is hopping. In the
 movie, “the secret’s in the sauce,” but at The Whistle Stop Café today, the

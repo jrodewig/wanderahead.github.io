@@ -33,12 +33,6 @@ how.
 
 ## A Unique B&B in Milledgeville
 
-The city’s heart and soul, Milledgeville’s 10-block historic district is the
-best place to stay, and there’s just one hotel downtown: [The Inn on North
-Jefferson](https://theinnonnorthjefferson.com/). Checking into the circa 1820
-home, with its columns, wrought iron fence, rocking chairs, and flickering
-lanterns, feels like stepping back in time.
-
 <img
   src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
   srcset="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-320.webp 320w,
@@ -51,12 +45,11 @@ lanterns, feels like stepping back in time.
   loading="lazy"
 />
 
-The house is filled with vintage touches, which, if not entirely true to
-one specific period, are altogether homier and more inviting. I was enchanted
-with the details, like the built-in bookcases in our cornflower-blue master
-(“The Elizabeth”), lovingly layered with bric-a-brac. A silver rocking horse. A
-teacup atop a stack of books. A glass candle snuffer. Two clocks. A pair of
-old-fashioned spectacles.
+The city’s heart and soul, Milledgeville’s 10-block historic district is the
+best place to stay, and there’s just one hotel downtown: [The Inn on North
+Jefferson](https://theinnonnorthjefferson.com/). Checking into the circa 1820
+home, with its columns, wrought iron fence, rocking chairs, and flickering
+lanterns, feels like stepping back in time.
 
 <img
   src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/the-elizabeth-room-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
@@ -70,12 +63,13 @@ old-fashioned spectacles.
   loading="lazy"
 />
 
-There’s a sense of coziness within. You might grab a drink from the bar in the
-lounge, crack open a puzzle in the gameroom, or just kick back on the sofa in
-the parlor as you gaze out the bay windows. Of course, you’ve still got all your
-modern conveniences at hand, such as remote-controlled AC, a keypad for ease of
-entry, and the obligatory Keurig. There are even complimentary snacks to fortify
-yourself for your adventures around town.
+
+The house is filled with vintage touches, which, if not entirely true to
+one specific period, are altogether homier and more inviting. I was enchanted
+with the details, like the built-in bookcases in our cornflower-blue master
+(“The Elizabeth”), lovingly layered with bric-a-brac. A silver rocking horse. A
+teacup atop a stack of books. A glass candle snuffer. Two clocks. A pair of
+old-fashioned spectacles.
 
 <img
   src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/snacks-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
@@ -89,10 +83,12 @@ yourself for your adventures around town.
   loading="lazy"
 />
 
-In the backyard, a pool welcomes guests when the weather’s fine. During the
-holidays, garlands and ornaments festoon the rooms. Of course, that’s only half
-of the bed and breakfast experience. We'll come to the most important meal of
-the day later on.
+There’s a sense of coziness within. You might grab a drink from the bar in the
+lounge, crack open a puzzle in the gameroom, or just kick back on the sofa in
+the parlor as you gaze out the bay windows. Of course, you’ve still got all your
+modern conveniences at hand, such as remote-controlled AC, a keypad for ease of
+entry, and the obligatory Keurig. There are even complimentary snacks to fortify
+yourself for your adventures around town.
 
 <img
   src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/the-pool-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
@@ -106,13 +102,12 @@ the day later on.
   loading="lazy"
 />
 
-## Discovering Downtown Milly
+In the backyard, a pool welcomes guests when the weather’s fine. During the
+holidays, garlands and ornaments festoon the rooms. Of course, that’s only half
+of the bed and breakfast experience. We'll come to the most important meal of
+the day later on.
 
-Once you roll out of bed, you have the walkable downtown at your fingertips — or
-footsteps, so to speak. Antique hunters will be delighted. Newer boutiques,
-meanwhile, like the aptly named
-[Eclectic](https://www.facebook.com/EclecticNWayne/), offer a curated selection
-of trendy and locally made gifts and souvenirs.
+## Discovering Downtown Milly
 
 <img
   src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-665.webp"
@@ -121,6 +116,24 @@ of trendy and locally made gifts and souvenirs.
           /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="A local shop in downtown Milledgeville, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
+Once you roll out of bed, you have the walkable downtown at your fingertips — or
+footsteps, so to speak. Antique hunters will be delighted. Newer boutiques,
+meanwhile, like the aptly named
+[Eclectic](https://www.facebook.com/EclecticNWayne/), offer a curated selection
+of trendy and locally made gifts and souvenirs.
+
+<img
+  src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp"
+  srcset="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-320.webp 320w,
+          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-480.webp 480w,
+          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Theatre turned bookstore in downtown Milledgeville, GA"
   width="665"
   height="499"
   loading="lazy"
@@ -136,12 +149,12 @@ for a self-guided walking tour at the visitor’s center, itself housed in a
 former 1911 post office.
 
 <img
-  src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp"
-  srcset="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-320.webp 320w,
-          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-480.webp 480w,
-          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp"
+  srcset="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-320.webp 320w,
+          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-480.webp 480w,
+          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Theatre turned bookstore in downtown Milledgeville, GA"
+  alt="Trolley in downtown Milledgeville, GA"
   width="665"
   height="499"
   loading="lazy"
@@ -157,18 +170,6 @@ and painted glass. Built in the 1840s, the church is the city’s oldest, restor
 since the Civil War when Sherman’s forces stabled their horses in the sanctuary
 and poured syrup down the organ.
 
-<img
-  src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp"
-  srcset="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-320.webp 320w,
-          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-480.webp 480w,
-          /assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Trolley in downtown Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
-
 The grand dame of historic sites in Milledgeville, worth a tour of its own, is
 Georgia's Old Governor’s Mansion. The beige-pink home of Georgia’s governors
 from 1839 to 1868 houses a museum exploring the political and social issues of
@@ -182,15 +183,6 @@ over downtown.
 
 ## Exploring the Outdoors
 
-For a quiet walk through the historic district, the scenic campuses of Georgia
-College and Georgia Military College provide plenty of greenery. For something a
-bit more… atmospheric, let’s say, the Central State Hospital, once the largest
-mental health institution in the world, beckons. Derelict brick buildings from
-the mid-1800s, where treatments once included lobotomies and shock therapy,
-front a large pecan grove that yields a plentiful harvest in fall. Take a
-trolley tour led by a former hospital employee to learn more and wander the
-cemetery where patients are laid to rest.
-
 <img
   src="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-665.webp"
   srcset="/assets/img/2025-04-08-everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-320.webp 320w,
@@ -202,6 +194,17 @@ cemetery where patients are laid to rest.
   height="499"
   loading="lazy"
 />
+
+
+For a quiet walk through the historic district, the scenic campuses of Georgia
+College and Georgia Military College provide plenty of greenery. For something a
+bit more… atmospheric, let’s say, the Central State Hospital, once the largest
+mental health institution in the world, beckons. Derelict brick buildings from
+the mid-1800s, where treatments once included lobotomies and shock therapy,
+front a large pecan grove that yields a plentiful harvest in fall. Take a
+trolley tour led by a former hospital employee to learn more and wander the
+cemetery where patients are laid to rest.
+
 
 If you’re feeling more active, you can kayak down the Oconee River (rentals in
 town) or hike in the shade of Bartram Forest just south of the city. A stroll or

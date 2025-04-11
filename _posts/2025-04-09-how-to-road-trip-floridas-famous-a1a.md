@@ -16,11 +16,6 @@ breadth — lighthouses and seaside towns as quaint as any in New England,
 frontiers as wild as the West, and a quirkiness that is unapologetically
 Floridian.
 
-The A1A hugs the Atlantic almost the entire length of the Sunshine State, from
-Fernandina Beach down to Key West. My favorite stretch is St. Augustine to
-Stuart, 230 miles through classic “Old Florida.” Think fishing villages and
-roadside attractions, palm hammocks and porch swings.
-
 <img
   src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-665.webp"
   srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-320.webp 320w,
@@ -33,10 +28,27 @@ roadside attractions, palm hammocks and porch swings.
   loading="lazy"
 />
 
+The A1A hugs the Atlantic almost the entire length of the Sunshine State, from
+Fernandina Beach down to Key West. My favorite stretch is St. Augustine to
+Stuart, 230 miles through classic “Old Florida.” Think fishing villages and
+roadside attractions, palm hammocks and porch swings.
+
 The drive takes around seven hours, but I recommend a couple days if you can.
 Detours are irresistible.
 
 ## Steeped in History
+
+<img
+  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp"
+  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-320.webp 320w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-480.webp 480w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Castillo de San Marcos in St. Augustine, FL"
+  width="665"
+  height="443"
+  loading="lazy"
+/>
 
 Founded in 1565, St. Augustine is chock full of national firsts: the oldest
 street, oldest alligator farm, the original [fountain of
@@ -51,12 +63,12 @@ drawbridge, dry moat, dungeons, and towers, the star-shaped fortress stands
 regal against a backdrop of palm trees and T-shirt-clad tourists.
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp 665w"
+  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp"
+  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-320.webp 320w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-480.webp 480w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Castillo de San Marcos in St. Augustine, FL"
+  alt="World's Oldest Wooden School House in St Augustine, FL"
   width="665"
   height="443"
   loading="lazy"
@@ -74,18 +86,6 @@ Leaving downtown, the road crosses the Bridge of Lions to Anastasia Island. A
 little farther and St. Augustine’s lighthouse comes into distant view, its black
 and white stripes dwarfing the trees.
 
-<img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="World's Oldest Wooden School House in St Augustine, FL"
-  width="665"
-  height="443"
-  loading="lazy"
-/>
-
 This northern part of the A1A is officially an All-American Road, fairly
 tripping over itself with parks and scenic pull-offs, none quite so lovely as
 [Washington Oaks Gardens State
@@ -97,11 +97,6 @@ the largest coquina rock formations on the Atlantic, their water-carved shapes
 as intricate as brushstrokes.
 
 ## Lagoon Life
-
-Just past Daytona Beach, the A1A veers right, but continue straight to the tip
-of [Ponce Inlet](https://www.ponceinlet.org/), where the state's tallest
-lighthouse towers in brick-red glory. The views from the top are more than worth
-the climb. From the balcony, I see the ocean, inlet, lagoon, river, and more.
 
 <img
   src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-665.webp"
@@ -115,19 +110,16 @@ the climb. From the balcony, I see the ocean, inlet, lagoon, river, and more.
   loading="lazy"
 />
 
+Just past Daytona Beach, the A1A veers right, but continue straight to the tip
+of [Ponce Inlet](https://www.ponceinlet.org/), where the state's tallest
+lighthouse towers in brick-red glory. The views from the top are more than worth
+the climb. From the balcony, I see the ocean, inlet, lagoon, river, and more.
+
 The road ends at the inlet, so there's nothing to do but turn around and hop on
 U.S. 1, the detour away from the coast a good excuse for exploring the
 backcountry wilds of Florida.
 
 ## Optional Detour: Cracker Creek
-
-I'm probably biased, but I recommend the detour. It's how we found [Cracker
-Creek](https://crackercreek.com/).
-
-Cracker — the term for early Florida pioneers, so-called for the crack of their
-whip while herding cattle — is a fitting name for this 20-acre homestead. It has
-several authentic cracker homes, and you can paddle the blackwater creek,
-fringed with tree canopy, almost as undisturbed today as it was a century ago.
 
 <img
   src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-665.webp"
@@ -141,6 +133,14 @@ fringed with tree canopy, almost as undisturbed today as it was a century ago.
   loading="lazy"
 />
 
+I'm probably biased, but I recommend the detour. It's how we found [Cracker
+Creek](https://crackercreek.com/).
+
+Cracker — the term for early Florida pioneers, so-called for the crack of their
+whip while herding cattle — is a fitting name for this 20-acre homestead. It has
+several authentic cracker homes, and you can paddle the blackwater creek,
+fringed with tree canopy, almost as undisturbed today as it was a century ago.
+
 Cultural oddities lurk nearby, too. Next door at Gamble Place, the 175-acre home
 of James Gamble, of Procter & Gamble fame. The site features several historic
 buildings, but the fairest and certainly strangest of them all is a replica of
@@ -153,14 +153,6 @@ wood.
 
 ## Cape Canaveral and Cocoa Beach
 
-If you drive through charming New Smyrna Beach (make a pit stop for the
-archaeological ruins at the free Old Fort Park downtown), you'll end back on the
-A1A. It dead-ends (briefly) into the vast [Canaveral National
-Seashore](https://www.nps.gov/cana), but you can pick it up again farther south
-as it rolls into Cocoa Beach. We stopped by the famous [Cocoa Beach
-Pier](https://www.cocoabeachpier.com), an essential photo op, and sauntered to
-the end, peering at sunbathers and swimmers below.
-
 <img
   src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-665.webp"
   srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-320.webp 320w,
@@ -172,6 +164,14 @@ the end, peering at sunbathers and swimmers below.
   height="499"
   loading="lazy"
 />
+
+If you drive through charming New Smyrna Beach (make a pit stop for the
+archaeological ruins at the free Old Fort Park downtown), you'll end back on the
+A1A. It dead-ends (briefly) into the vast [Canaveral National
+Seashore](https://www.nps.gov/cana), but you can pick it up again farther south
+as it rolls into Cocoa Beach. We stopped by the famous [Cocoa Beach
+Pier](https://www.cocoabeachpier.com), an essential photo op, and sauntered to
+the end, peering at sunbathers and swimmers below.
 
 It's not _all_ about the beach, though. On the other side of the barrier island
 flows the Indian River Lagoon, the most biodiverse estuary in the country. Here,
@@ -190,6 +190,18 @@ ocean. In spring, wildflowers bloom purple and yellow on the coastal plain.
 
 ## Treasure Coast
 
+<img
+  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp"
+  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-320.webp 320w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-480.webp 480w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Fish tacos at Little Jim Bait & Tackle in Fort Pierce, FL"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
 Part of the charm of the A1A is being surrounded by water, the Atlantic on one
 side, the Intracoastal Waterway on the other. Signs for beaches beckon from the
 road, deepening their siren call the farther south we go. When we can't resist
@@ -206,12 +218,12 @@ fresh and plentiful shrimp with the zest of a flawless cilantro-lime sauce. The
 views and good vibes didn't hurt either.
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp 665w"
+  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp"
+  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-320.webp 320w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-480.webp 480w,
+          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Fish tacos at Little Jim Bait & Tackle in Fort Pierce, FL"
+  alt="Ross Witham Beach in Stuart, FL"
   width="665"
   height="499"
   loading="lazy"
@@ -231,18 +243,6 @@ shipwreck, one of many that give this area its name, "Treasure Coast." I
 dart around one outcropping, soused by a spray in the attempt, to find myself on
 a soft crescent of sand, shaded by rocks. It's hardly what you'd expect just two
 hours north of Miami.
-
-<img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Ross Witham Beach in Stuart, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
 
 But that's what I love about Florida. It's constantly surprising me with
 unfamiliar vistas, unsought delights. I stumble upon something weird or
