@@ -173,6 +173,7 @@ section {
     max-height: 180px;
     align-items: center;
     padding-bottom: 0;
+    justify-content: flex-start;
   }
 
   .featured-grid .article.sidebar .image {
