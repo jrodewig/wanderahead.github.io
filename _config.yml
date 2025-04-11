@@ -6,6 +6,9 @@ collections:
   posts:
     output: true
     permalink: /article/:title/
+  destinations:
+    output: true
+    permalink: /:title/
 
 plugins:
   - jekyll-redirect-from

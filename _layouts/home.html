@@ -112,19 +112,18 @@
         | push: post.category | uniq %} {% endif %} {% endfor %}
 
         <div class="destinations">
-          {% for page in site.pages %} {% if page.layout == "category" %}
+          {% for destination in site.destinations %}
           <div class="destination">
-            {% assign slugified_title = page.title | slugify %} {% if page.image
-            %} {% assign dest_image = page.image | replace: '.webp',
-            '-278x379.webp' %}
+            {% if destination.image%}
+            {% assign dest_image = destination.image | replace: '.webp', '-278x379.webp' %}
             <div class="image">
               <a
-                href="{{ slugified_title | relative_url }}"
+                href="{{ destination.url | relative_url }}"
               >
                 <img
                   src="{{
                     dest_image }}"
-                  alt="{{ page.title }}"
+                  alt="{{ destination.title }}"
                   loading="lazy"
                   width="278"
                   height="379"
@@ -132,12 +131,12 @@
             </div>
             {% endif %}
             <a
-              href="{{ slugified_title | relative_url }}"
+              href="{{ destination.url | relative_url }}"
             >
-              <h3>{{ page.title }}</h3>
+              <h3>{{ destination.title }}</h3>
             </a>
           </div>
-          {% endif %} {% endfor %}
+          {% endfor %}
         </div>
         <script>
           document.addEventListener("DOMContentLoaded", () => {
