@@ -154,9 +154,10 @@
             let isHorizontal = false;
 
             // Prevent default image dragging
-            destinations.querySelectorAll("img").forEach((img) => {
-              img.setAttribute("draggable", "false");
-              img.style.userSelect = "none";
+            destinations.querySelectorAll("img, a").forEach((el) => {
+              el.setAttribute("draggable", "false");
+              el.style.userSelect = "none";
+              el.addEventListener("dragstart", (e) => e.preventDefault());
             });
 
             const startDragging = (x, y) => {

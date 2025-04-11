@@ -1,6 +1,6 @@
 ---
 title: Ohio
-image: /assets/img/category/ohio.jpg
+image: /assets/img/category/ohio.webp
 layout: category
 ---
 
