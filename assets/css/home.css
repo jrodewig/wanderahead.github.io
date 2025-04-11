@@ -195,6 +195,9 @@ section {
   touch-action: pan-y;
   -webkit-user-drag: none; /* Prevents vertical scrolling interference */
   padding: 0 10px; /* Prevents image dragging in Webkit */
+  overflow-y: hidden;
+  scrollbar-width: none;
+  gap: 16px;
 
   &::-webkit-scrollbar {
     display: none;

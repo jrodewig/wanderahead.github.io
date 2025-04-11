@@ -142,8 +142,10 @@
           document.addEventListener("DOMContentLoaded", () => {
             const destinations = document.querySelector(".destinations");
             let isDragging = false;
-            let startX;
+            let startX, startY;
             let scrollLeft;
+            let lastX, lastY;
+            let isHorizontal = false;
 
             // Prevent default image dragging
             destinations.querySelectorAll("img").forEach((img) => {
@@ -151,11 +153,15 @@
               img.style.userSelect = "none";
             });
 
-            const startDragging = (x) => {
+            const startDragging = (x, y) => {
               isDragging = true;
               startX = x - destinations.offsetLeft;
+              startY = y;
+              lastX = x;
+              lastY = y;
               scrollLeft = destinations.scrollLeft;
               destinations.style.cursor = "grabbing";
+              isHorizontal = false; // Reset direction detection
             };
 
             const stopDragging = () => {
@@ -165,8 +171,7 @@
 
             // Mouse events
             destinations.addEventListener("mousedown", (e) => {
-              e.preventDefault(); // Prevent default behavior
-              startDragging(e.pageX);
+              startDragging(e.pageX, e.pageY);
             });
 
             destinations.addEventListener("mouseleave", stopDragging);
@@ -174,19 +179,38 @@
 
             destinations.addEventListener("mousemove", (e) => {
               if (!isDragging) return;
-              e.preventDefault();
+
               const x = e.pageX - destinations.offsetLeft;
-              const walk = (x - startX) * 1.5;
-              destinations.scrollLeft = scrollLeft - walk;
+              const y = e.pageY;
+
+              // Determine direction only once at the start of the drag
+              if (!isHorizontal) {
+                const deltaX = Math.abs(x - lastX);
+                const deltaY = Math.abs(y - lastY);
+                // Use a threshold to decide if the movement is horizontal
+                if (deltaX > 5 || deltaY > 5) {
+                  isHorizontal = deltaX > deltaY;
+                }
+              }
+
+              // Only prevent default and scroll horizontally if the movement is horizontal
+              if (isHorizontal) {
+                e.preventDefault();
+                const walk = (x - startX) * 1.5;
+                destinations.scrollLeft = scrollLeft - walk;
+              }
+
+              lastX = x;
+              lastY = y;
             });
 
             // Touch events
             destinations.addEventListener(
               "touchstart",
               (e) => {
-                startDragging(e.touches[0].pageX);
+                startDragging(e.touches[0].pageX, e.touches[0].pageY);
               },
-              { passive: false },
+              { passive: false }
             );
 
             destinations.addEventListener("touchend", stopDragging);
@@ -196,12 +220,30 @@
               "touchmove",
               (e) => {
                 if (!isDragging) return;
-                e.preventDefault();
+
                 const x = e.touches[0].pageX - destinations.offsetLeft;
-                const walk = (x - startX) * 1.5;
-                destinations.scrollLeft = scrollLeft - walk;
+                const y = e.touches[0].pageY;
+
+                // Determine direction only once at the start of the drag
+                if (!isHorizontal) {
+                  const deltaX = Math.abs(x - lastX);
+                  const deltaY = Math.abs(y - lastY);
+                  if (deltaX > 5 || deltaY > 5) {
+                    isHorizontal = deltaX > deltaY;
+                  }
+                }
+
+                // Only prevent default and scroll horizontally if the movement is horizontal
+                if (isHorizontal) {
+                  e.preventDefault();
+                  const walk = (x - startX) * 1.5;
+                  destinations.scrollLeft = scrollLeft - walk;
+                }
+
+                lastX = x;
+                lastY = y;
               },
-              { passive: false },
+              { passive: false }
             );
           });
         </script>
