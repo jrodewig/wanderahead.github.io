@@ -186,29 +186,52 @@ section {
 /*----------------------------------------*/
 
 .destinations {
-  contain: layout;
-  cursor: grab;
   display: flex;
   flex-wrap: nowrap;
   overflow-x: auto;
-  user-select: none;
-  -webkit-overflow-scrolling: touch;
   scroll-behavior: smooth;
-  touch-action: pan-y;
-  -webkit-user-drag: none; /* Prevents vertical scrolling interference */
-  padding: 0 10px; /* Prevents image dragging in Webkit */
-  overflow-y: hidden;
-  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
   gap: 16px;
+  padding: 0 10px 10px;
+  user-select: none;
+  -webkit-user-drag: none;
+  cursor: grab;
+  scrollbar-width: none; /* Initially hide in Firefox */
+}
 
-  &::-webkit-scrollbar {
-    display: none;
-  }
+.destinations::-webkit-scrollbar {
+  height: 0; /* Initially hide in WebKit */
+}
+
+.destinations.has-scroll {
+  scrollbar-width: thin; /* Show in Firefox when scrollable */
+  scrollbar-color: #6c1d09 transparent;
+}
+
+.destinations.has-scroll::-webkit-scrollbar {
+  height: 8px; /* Show in WebKit when scrollable */
+}
+
+.destinations::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.destinations::-webkit-scrollbar-thumb {
+  background: #6c1d09;
+  border-radius: 4px;
+}
+
+.destinations::-webkit-scrollbar-thumb:hover {
+  background: #8b2a0d;
+}
+
+.destinations.dragging {
+  cursor: grabbing;
 }
 
 .destination {
-  margin-right: 10px;
   flex: 0 0 auto;
+  margin-right: 10px;
 }
 
 .destination .image {
@@ -219,6 +242,7 @@ section {
 .destination .image img {
   aspect-ratio: 278 / 379;
   transition: transform 0.3s ease;
+  -webkit-user-drag: none;
 }
 
 .destination .image img:hover {
@@ -227,4 +251,9 @@ section {
 
 .destination .image:hover + a h3 {
   color: #6c1d09;
+}
+
+.destination a {
+  -webkit-user-drag: none;
+  text-decoration: none;
 }
