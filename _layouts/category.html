@@ -53,9 +53,19 @@
         <div class="article tile">
           <div class="image">
             <a href="{{ post.url }}">
-              {% assign tile_image = post.image | replace: '.webp',
-              '-384x256.webp' %}
-              <img src="{{ tile_image }}" alt="{{ post.title }}" />
+              <picture>
+                <!-- Use -768x320.webp for viewports 768px or smaller -->
+                <source 
+                  media="(max-width: 768px)" 
+                  srcset="{{ post.image | replace: '.webp', '-768x320.webp' }}"
+                >
+                <!-- Default image for larger viewports -->
+                <img
+                  src="{{ post.image | replace: '.webp', '-384x256.webp' }}"
+                  alt="{{ post.title }}"
+                  loading="lazy"
+                />
+              </picture>
             </a>
           </div>
           <div class="info">
