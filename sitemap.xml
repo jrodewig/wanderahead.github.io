@@ -14,6 +14,13 @@ sitemap: false
     </url>
     {% endunless %}
   {% endfor %}
+  {% for destination in site.destinations %}
+    {% unless destination.sitemap == false %}
+    <url>
+      <loc>{{ site.url }}{{ destination.url }}</loc>
+    </url>
+    {% endunless %}
+  {% endfor %}
   {% for page in site.pages %}
     {% unless page.sitemap == false %}
     <url>
