@@ -1,6 +1,6 @@
 ---
 title: "New Bern: One of North Carolina's Best Small Towns"
-image: /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/garden-at-tyron-palace-new-bern-nc.webp
+image: /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/new-bern-coat-of-arms-new-bern-nc.webp
 featured: true
 category: North Carolina
 layout: post
@@ -15,12 +15,12 @@ Raleigh and the coastal town of Wilmington, making it an easy stop on any road
 trip through the region.
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/flag-featuring-the-new-bern-coat-of-arms-in-new-bern-north-carolina-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/flag-featuring-the-new-bern-coat-of-arms-in-new-bern-north-carolina-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/flag-featuring-the-new-bern-coat-of-arms-in-new-bern-north-carolina-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/flag-featuring-the-new-bern-coat-of-arms-in-new-bern-north-carolina-665.webp 665w"
+  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-665.webp"
+  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-320.webp 320w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-480.webp 480w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Flag featuring the New Bern coat of arms in New Bern, NC"
+  alt="Gardens at Tyron Palace in New Bern, NC"
   width="665"
   height="499"
   loading="lazy"
@@ -144,6 +144,18 @@ them.
 
 ## Stop in at the Palace
 
+<img
+  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-665.webp"
+  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-320.webp 320w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-480.webp 480w,
+          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Tyron Palace in New Bern, NC"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
+
 If a road trip can include a palace, you don’t skip it. Tryon Palace, with its
 16 acres of gardens, is a showstopper worth the detour.
 
@@ -158,18 +170,6 @@ Gov. William Tryon’s lavish "palace," funded by steep taxes, didn’t win him 
 fans back then, and its opulence still impresses. Tour the replica ballroom
 where George Washington danced or the surprisingly modern kitchen, where
 18th-century cooking demos still happen.
-
-<img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/guided-tour-at-tyron-palace-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/guided-tour-at-tyron-palace-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/guided-tour-at-tyron-palace-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/guided-tour-at-tyron-palace-new-bern-nc-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Guided tour of Tyron Palace in New Bern, NC"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
 
 **Don’t miss:**
 
