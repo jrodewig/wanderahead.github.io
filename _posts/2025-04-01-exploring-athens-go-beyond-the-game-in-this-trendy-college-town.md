@@ -10,8 +10,8 @@ excerpt: This college town boasts award-winning restaurants, expansive nature, a
 
 When people think of Athens, stadiums and football spring to mind, but this
 classic Southern city is growing as a tourist destination in its own right. On a
-casual trip through town, you’ll find award-winning restaurants, expansive
-nature and plenty of history. Wrap all three together, and it’s a getaway to
+casual trip through town, you'll find award-winning restaurants, expansive
+nature and plenty of history. Wrap all three together, and it's a getaway to
 remember.
 
 <img
@@ -41,8 +41,8 @@ remember.
 />
 
 
-Start off with some outdoor exercise. In a city that’s predominantly Georgia
-Bulldogs black and red, it’s pleasant to find so much green.
+Start off with some outdoor exercise. In a city that's predominantly Georgia
+Bulldogs black and red, it's pleasant to find so much green.
 Parks and nature paths are plentiful, like the [Firefly
 Trail](https://www.fireflytrail.com/), an ambitious rails-to-trails project
 beginning in Athens and planned to extend all the way to Union Point (about 35
@@ -63,12 +63,12 @@ another great place for a walk or bike ride.
 
 
 With more than 2,000 acres of public green space, the city prizes its natural
-resources, so perhaps it’s not surprising that it’s one of the only places in
-the world you’ll find a tree that owns itself. As the legend goes, a
+resources, so perhaps it's not surprising that it's one of the only places in
+the world you'll find a tree that owns itself. As the legend goes, a
 19th-century university professor who owned the tallest tree in town decided to
-deed the land it was on to the oak itself. Athens’ citizens went along with it.
+deed the land it was on to the oak itself. Athens' citizens went along with it.
 Over the years, it became such an icon that when the original tree died, they
-planted another from its acorns. Today, it's one of the Classic City’s top
+planted another from its acorns. Today, it's one of the Classic City's top
 attractions.
 
 <img
@@ -87,8 +87,8 @@ Another Athens claim to fame, the [State Botanical Garden of
 Georgia](https://botgarden.uga.edu/) covers more than 300 acres on the south
 side of town. The prettiest spots are conveniently near the visitor center. You
 can relax in the beauty of the Shade Garden, colorful and exotic, or admire the
-Italian Renaissance style of the Heritage Garden. Don’t skip the newly opened
-Alice H. Richards Children’s Garden, even if you’re not traveling with kids.
+Italian Renaissance style of the Heritage Garden. Don't skip the newly opened
+Alice H. Richards Children's Garden, even if you're not traveling with kids.
 Though geared toward younger ages, the interactive design makes it fun for all.
 
 <img
@@ -103,11 +103,11 @@ Though geared toward younger ages, the interactive design makes it fun for all.
   loading="lazy"
 />
 
-[Bear Hollow Zoo](https://www.accgov.com/bearhollow) isn’t just for kids,
-either. As a city park, it’s much less crowded than traditional zoos, with free
+[Bear Hollow Zoo](https://www.accgov.com/bearhollow) isn't just for kids,
+either. As a city park, it's much less crowded than traditional zoos, with free
 admission to boot. On a short trail, you can meet dozens of native species that
 can't survive in the wild anymore. Residents include raptors like bald eagles
-and owls, several reptiles, an otter, a bobcat and everyone’s favorite, a trio
+and owls, several reptiles, an otter, a bobcat and everyone's favorite, a trio
 of black bears.
 
 <img
@@ -131,7 +131,7 @@ warblers along the Claypit Pond wetlands.
 
 Wrap up your day in the sun at the free and inspiring [Georgia Museum of
 Art](https://www.visitathensga.com/listing/georgia-museum-of-art/290/). On a
-terraced lawn off the entrance lobby, the museum’s sculpture garden is a quiet
+terraced lawn off the entrance lobby, the museum's sculpture garden is a quiet
 retreat where art blends with nature.
 
 
@@ -149,19 +149,19 @@ retreat where art blends with nature.
   loading="lazy"
 />
 
-You don’t have to search far in Athens to find pieces of its past. Even its
+You don't have to search far in Athens to find pieces of its past. Even its
 parks have scraps of history. The Greenway, for example, features dozens of
 interpretive panels on Athens through the years. A detour off Firefly Trail into
-scenic Dudley Park, meanwhile, leads you to the ruins of the “R.E.M. Murmur”
+scenic Dudley Park, meanwhile, leads you to the ruins of the "R.E.M. Murmur"
 railroad trestle, chartered in 1833 and immortalized on the cover of the
-Athens-based rock band’s debut album. And the county’s oldest structure still
+Athens-based rock band's debut album. And the county's oldest structure still
 standing, an early 1800s log cabin, can be found along one of the trails at the
 Sandy Creek Nature Center.
 
 Downtown is just as littered with landmarks. One of the best is the [Morton
-Theatre](https://www.mortontheatre.com/). Open for shows, it’s one of the oldest
+Theatre](https://www.mortontheatre.com/). Open for shows, it's one of the oldest
 African-American owned and operated vaudeville theaters still around. You can
-see original seats and equipment from the theater’s heyday and learn about its
+see original seats and equipment from the theater's heyday and learn about its
 creator and stars on a guided tour.
 
 <img
@@ -182,10 +182,10 @@ double barrel cannon. Designed and made in Athens, this unusual invention was
 intended to be a deadly defensive weapon, loaded with two cannon balls connected
 by a chain. But it failed miserably during testing — the chain broke and the
 balls went spinning off in divergent directions, causing considerable property
-damage — so the cannon was never used. Today it’s fulfilling a different use as
+damage — so the cannon was never used. Today it's fulfilling a different use as
 a popular photo backdrop on the lawn of City Hall.
 
-From downtown, you can begin a self-guided tour of the city’s four historic home
+From downtown, you can begin a self-guided tour of the city's four historic home
 museums, located within a mile of each other and beautifully preserved. Start at
 the [Church-Waddel-Brumby House
 Museum](https://www.athenswelcomecenter.com/rooms), supposed to be the city's
@@ -194,7 +194,7 @@ and brochures before heading to the [Ware-Lyndon
 House](https://www.accgov.com/2779/Ware-Lyndon-Historic-House) just up the road.
 This building also pulls double duty: an Italianate Greek Revival mansion with
 lavish period decor on one side and a vibrant arts center on the other,
-showcasing paintings, sculpture and more. If you’re using Google Maps, plug in
+showcasing paintings, sculpture and more. If you're using Google Maps, plug in
 the Lyndon House Arts Center to get to the right destination.
 
 <img
@@ -213,11 +213,11 @@ Next up, the pink and white [T.R.R. Cobb House](https://www.trrcobbhouse.org/)
 was once the home of a successful lawyer, who showed off his wealth by upgrading
 his home to a mansion, adding its distinctive, symmetrical octogonal wings
 around 1852. It's the first attraction so far in this list that has a cost, a
-“whopping” $2 for adults; kids are free. The fee is worth it to gawk at the
+"whopping" $2 for adults; kids are free. The fee is worth it to gawk at the
 period furnishings like a turtle-top marble table and a cabinet filled with
 delicate burgundy and white china gifted by the Georgia Legislature.
 
-From here, you’re less than five minutes by foot from the [Taylor-Grady
+From here, you're less than five minutes by foot from the [Taylor-Grady
 House](https://www.taylorgrady.com/). Lit by chandeliers and surrounded by
 columns, this antebellum National Historic Landmark exudes elegance and, not
 surprisingly, is a popular venue for weddings.
@@ -258,10 +258,10 @@ featuring Southern cooking.
 />
 
 
-If you’re trying to fit in all the sights of Athens and need some healthy food
-fast, [Maepole](https://www.maepole.com/) is your best bet. You’ll recognize it
+If you're trying to fit in all the sights of Athens and need some healthy food
+fast, [Maepole](https://www.maepole.com/) is your best bet. You'll recognize it
 from the street by the bright produce-filled mural on the side and the herb
-garden out front. This tasty counter service eatery focuses on food that’s good
+garden out front. This tasty counter service eatery focuses on food that's good
 for you (no high-fructose corn syrup and no antibiotics in the meat) and good
 for the planet (compostable plates and cutlery).
 
@@ -269,12 +269,12 @@ You customize your meal by choosing a base, protein, sides and sauce. What makes
 this place memorable is the selection, which includes unusual options like
 grass-fed meatballs, black-eyed pea tempeh, sriracha honey and braised cabbage
 in coconut milk. Do yourself a favor and pick the whole wheat mac and cheese for
-at least one of your sides. Since you’re eating all those veggies, you deserve
+at least one of your sides. Since you're eating all those veggies, you deserve
 something a little decadent.
 
 Finish up with dessert at [Heirloom Athens](https://www.heirloomathens.com/), a
 farm-to-table restaurant down the road from Maepole with a seasonal menu.
-They’re a great option for dinner, serving everything from pork chops to paella,
+They're a great option for dinner, serving everything from pork chops to paella,
 but they really shine when it comes to the final course. The desserts sound
 complex — goat cheese panna cotta with fig walnut shortbread, tres leches cake
 with strawberry rhubarb coulis — but the flavors complement each other

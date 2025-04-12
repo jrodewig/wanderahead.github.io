@@ -31,7 +31,7 @@ sunglasses.
 />
 
 Meanwhile, the rows of rainbow-hued macarons and elaborate petits gâteaux
-(that's “little cakes” in French) are enough to make any sweet-lover swoon.
+(that's "little cakes" in French) are enough to make any sweet-lover swoon.
 
 You'll be drawn in by the odd decor, but it's the food and coffee that makes you
 come back. Fortunately, though they first opened in 2008 with one location, they

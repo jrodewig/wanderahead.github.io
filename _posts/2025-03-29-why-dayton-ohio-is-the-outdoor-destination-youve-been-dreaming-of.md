@@ -29,21 +29,21 @@ gardens, streams and meadows, all free and open to the public.
   loading="lazy"
 />
 
-Whether your idea of fun is horseback riding or fishing, there’s a place for it
+Whether your idea of fun is horseback riding or fishing, there's a place for it
 in one of the 19 parks spread over thousands of acres across the city. In
 summer, the gardens are looking their best, a backdrop for picnics and selfies.
 In winter, skating and holiday events take over. Check the Five Rivers
 MetroParks' [calendar of
-activities](https://www.metroparks.org/programs-events-finder/) to see what’s
+activities](https://www.metroparks.org/programs-events-finder/) to see what's
 happening during your visit. They offer everything from night hikes and kayak
 tours to photography classes and farming demonstrations.
 
-If you’re traveling as a family, the [Cox
+If you're traveling as a family, the [Cox
 Arboretum](https://www.metroparks.org/places-to-go/cox-arboretum/) is a
 must-see. It has an on-site center where kids can learn about conservation and
 biodiversity, plus a seasonal butterfly house opening in July. Outdoors, a
-children’s maze winds through 1,175 boxwoods. Further out, an impressive Douglas
-Fir tree tower leads to an observation deck 45 feet up. It’s worth the climb for
+children's maze winds through 1,175 boxwoods. Further out, an impressive Douglas
+Fir tree tower leads to an observation deck 45 feet up. It's worth the climb for
 sweeping views of the surrounding landscape.
 
 <img
@@ -60,7 +60,7 @@ sweeping views of the surrounding landscape.
 
 For a more grown-up greenspace, Aullwood Garden MetroPark has a pleasant
 mile-long path through woodland gardens listed on the National Register of
-Historic Places. Don’t expect topiaries or artificial grottoes. It’s a natural
+Historic Places. Don't expect topiaries or artificial grottoes. It's a natural
 setting with hills and a prairie, accented by wildflowers and the meandering
 Wiles Creek. Some of the sycamore trees on the former estate are more than 600
 years old. In season, the daffodils, lilies and roses add a splash of color.
@@ -106,7 +106,7 @@ fascinating.
 />
 
 Metered parking is free on the weekends and after 6 p.m. during the week, so
-stay awhile. If you’re lucky enough to visit in the summer, don't miss the Five
+stay awhile. If you're lucky enough to visit in the summer, don't miss the Five
 River Fountain of Lights show each hour. It's one of the largest fountains in
 the world — enhanced with colored lights at night — shooting streams of water
 400 feet across the Great Miami River.
@@ -129,7 +129,7 @@ End your day at [Wegerzyn
 Gardens](https://www.metroparks.org/places-to-go/wegerzyn-gardens/). The formal
 gardens include water features, a trellis and statuary, popular with brides and
 prom couples but often less crowded toward sunset. Take a stroll on the Swamp
-Forest Boardwalk, eerily tranquil just before dusk, though there’s plenty of
+Forest Boardwalk, eerily tranquil just before dusk, though there's plenty of
 life below the water.
 
 <img
@@ -145,7 +145,7 @@ life below the water.
 />
 
 This park has another gem that sets it apart from the others: the [Dayton
-Playhouse](http://wordpress.thedaytonplayhouse.com). There’s a reason the
+Playhouse](http://wordpress.thedaytonplayhouse.com). There's a reason the
 theater has been performing to packed audiences for 60 years. The actors are
 talented, and every seat in the house is a good one. Better still, you get to
 hobnob with the cast at the end of the show.

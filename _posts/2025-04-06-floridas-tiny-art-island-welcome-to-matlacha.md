@@ -1,5 +1,5 @@
 ---
-title: "Florida’s Tiny Art Island: Welcome to Matlacha"
+title: "Florida's Tiny Art Island: Welcome to Matlacha"
 image: /assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/sunset-at-matlacha-flordia.webp
 featured: true
 category: Florida
@@ -9,11 +9,11 @@ excerpt: A canal-lined island that's an eclectic blend of art, water and whimsy.
 ---
 
 An eclectic blend of art, water and whimsy, the canal-lined island of Matlacha
-makes the most of its 440 acres. It’s teeming with galleries, painted bright
+makes the most of its 440 acres. It's teeming with galleries, painted bright
 Caribbean hues and selling handcrafted treasures like seashell flowers and
 mermaid sculptures. Backyards open onto waterfront gardens where bottle trees
 flourish alongside polka dot buoys and boaters pull up for a chat to while away
-the afternoon. It's even fun to say — “matt-la-shay” — though no one knows
+the afternoon. It's even fun to say — "matt-la-shay" — though no one knows
 exactly where the name came from.
 
 <img
@@ -50,11 +50,11 @@ alive, popular for birdwatching, crabbing, shrimping and fishing or simply
 admiring a glorious Gulf Coast sunset.
 
 Leoma Lovegrove, a Matlacha artist who owns a gallery on the island, sums it up
-best: “When I cross over the Matlacha Island bridge, I fall in love with my
-little fishing village all over again. It’s home, the place that always inspires
-me to pick up my paintbrush.”
+best: "When I cross over the Matlacha Island bridge, I fall in love with my
+little fishing village all over again. It's home, the place that always inspires
+me to pick up my paintbrush."
 
-Here are the Matlacha experiences you can’t miss.
+Here are the Matlacha experiences you can't miss.
 
 <img
   src="/assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
@@ -71,15 +71,15 @@ Here are the Matlacha experiences you can’t miss.
 
 ## Soak in Galleries Galore
 
-Effusive and fanciful, Matlacha’s art covers everything from blown glass to
+Effusive and fanciful, Matlacha's art covers everything from blown glass to
 coconut postcards. Browse work by dozens of local artists at [Matlacha
 Menagerie](https://www.facebook.com/matlachamenagerie/) and Island Visions, just
-steps from each other. Funkiest of all, [Leoma Lovegrove’s
+steps from each other. Funkiest of all, [Leoma Lovegrove's
 gallery](www.leomalovegrove.com) includes a one-of-a-kind garden, featuring a
 Beatles stage, a 1960s glamper and several palm trees, all painted with her
 signature bold strokes.
 
-<blockquote class="pullquote">"When I cross over the Matlacha Island bridge, I fall in love with my little fishing village all over again. It’s home, the place that always inspires me to pick up my paintbrush."
+<blockquote class="pullquote">"When I cross over the Matlacha Island bridge, I fall in love with my little fishing village all over again. It's home, the place that always inspires me to pick up my paintbrush."
 <br/><br/>
 — Leoma Lovegrove, artist</blockquote>
 
@@ -100,7 +100,7 @@ signature bold strokes.
 
 Designed as the fudge shop of your childhood memories, [CW Fudge
 Factory](https://cwfudge.info/) is stocked with nostalgic candy, homemade
-popcorn, truffles and more. But most importantly, there’s fudge: around 30
+popcorn, truffles and more. But most importantly, there's fudge: around 30
 flavors on any given day that might include salted caramel, sangria, coconut
 cream pie, pistachio or creme brulee. You can even watch it being made on-site.
 
@@ -108,7 +108,7 @@ cream pie, pistachio or creme brulee. You can even watch it being made on-site.
 
 The protected estuary surrounding Matlacha is a haven for eagles, ospreys,
 dolphins, even manatees who winter in the warmer waters. Get a glimpse of these
-and more on one of [Captain Cathy’s Eagle boat tours](https://www.captaincathy.com/)
+and more on one of [Captain Cathy's Eagle boat tours](https://www.captaincathy.com/)
 through the protected estuary. She'll also tell you all about the Calusa tribe
 and their magnificent shell mounds, which you can still see today.
 
@@ -134,7 +134,7 @@ picnic table, dock and kayak launch.
 
 ## Paddle the Preserve
 
-Chart your own course through the Matlacha Pass Aquatic Preserve. It’s less than
+Chart your own course through the Matlacha Pass Aquatic Preserve. It's less than
 six feet at its deepest and welcoming for first-timers and families. You can
 rent a kayak or paddle board from [Gulf Coast
 Kayak](https://www.gulfcoastkayak.com/), but if you want to venture into the

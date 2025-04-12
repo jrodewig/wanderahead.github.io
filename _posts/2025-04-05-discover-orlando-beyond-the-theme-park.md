@@ -10,8 +10,8 @@ excerpt: This sunny Central Florida city offers more than roller coasters, water
 
 When you think of Orlando, roller coasters, water parks and a certain Mouse
 spring to mind. But if you want to see a different side of the city, hang out
-outside the theme parks. You’ll find a bustling arts and culture scene, creative
-restaurants and a walkable downtown. Here’s what you can’t miss in the real
+outside the theme parks. You'll find a bustling arts and culture scene, creative
+restaurants and a walkable downtown. Here's what you can't miss in the real
 Orlando.
 
 ## Culture on a Dime
@@ -34,7 +34,7 @@ of the price. For a visual smorgasbord, try the [Orlando Museum of
 Art](https://omart.org/) or the [Mennello Museum of American
 Art](https://www.mennellomuseum.org/Home). Not into art? Opt for education fun
 at the [Orlando Science Center](https://www.osc.org/) or a whirlwind tour of
-Central Florida’s past at the [Orange County Regional History
+Central Florida's past at the [Orange County Regional History
 Center](https://www.thehistorycenter.org/).
 
 <img
@@ -51,7 +51,7 @@ Center](https://www.thehistorycenter.org/).
 For more options, visit the surrounding cities. The [Albin Polasek Museum &
 Sculpture Gardens](https://polasek.org/), for example, which celebrates the
 works of this Czech sculptor, is an intriguing find just north of Orlando in
-Winter Park. You can tour the artist’s studio, see rotating exhibits indoors and
+Winter Park. You can tour the artist's studio, see rotating exhibits indoors and
 bliss out in the backyard sculpture garden on Lake Osceola.
 
 ## Best Entertainment
@@ -70,19 +70,19 @@ bliss out in the backyard sculpture garden on Lake Osceola.
 
 
 Wrap up your day a live show. Choose from drama, dance, music, magic and more,
-but if you’re looking for a true Orlando classic, get tickets to the [SAK Comedy
+but if you're looking for a true Orlando classic, get tickets to the [SAK Comedy
 Lab](https://www.sakcomedylab.com/). Famous for helping launch the career of
-Wayne Brady, this downtown improv troupe strikes the balance between “edgy and
-different” and reliable, won’t-fail-you fun. They’ve been doing this for 30
-years, winning awards and performing to packed audiences, so it’s a must while
-you’re in town.
+Wayne Brady, this downtown improv troupe strikes the balance between "edgy and
+different" and reliable, won't-fail-you fun. They've been doing this for 30
+years, winning awards and performing to packed audiences, so it's a must while
+you're in town.
 
-Luckily, there’s at least one show each night, from Duel of Fools, an epic
+Luckily, there's at least one show each night, from Duel of Fools, an epic
 throwdown between two improv teams, to bargain-priced student showcases. Be
 prepared for impromptu dance parties, flying Tootsie Rolls and top comedic
 talent. Most of their shows are family-friendly (not family-friendly as in
-geared toward children but as in you won’t have to cover your kids’ ears), which
-makes for richer comedy and wilder leaps of imagination. You’ll leave laughing
+geared toward children but as in you won't have to cover your kids' ears), which
+makes for richer comedy and wilder leaps of imagination. You'll leave laughing
 and quoting zany lines performers made up on the spot. And you can go right back
 the next night to see something new.
 
@@ -100,7 +100,7 @@ the next night to see something new.
 
 
 If all that audience participation leaves you craving more interactive
-entertainment, that’s where Escapology comes in. Headquartered in Orlando and
+entertainment, that's where Escapology comes in. Headquartered in Orlando and
 the largest escape room company in the U.S.,
 [Escapology](https://www.escapology.com/en/orlando-escape-rooms) has refined its
 game experience. That means detailed set design, professional game masters and
@@ -110,10 +110,10 @@ before, like escaping from a World War II submarine or trying to break a
 Halloween curse in a churchyard. In the Budapest Express room, you're a
 detective on a train where a murder has been committed and you must find
 whodunit. Want a tip to beating this highly immersive room? Think like a sleuth
-as you consider your suspects. It’s your only hope of cracking the case.
+as you consider your suspects. It's your only hope of cracking the case.
 
 Escapology is off International Drive near SeaWorld and Aquatica. If you venture
-a little further west, past Animal Kingdom, you’ll find a more laidback
+a little further west, past Animal Kingdom, you'll find a more laidback
 entertainment venue at the [Orlando Cat Cafe](https://www.orlandocatcafe.com/).
 For a nominal fee, you can enter the feline hangout, stocked with comfortable
 seats (for humans) and climbing trees and hidey holes (for cats). You can pet
@@ -157,16 +157,16 @@ have permission to order at least three.
 For lunch or dinner, if you're looking for something hyper local and affordable,
 [East End Market](https://eastendmkt.com/) has you covered. Think artisan food
 in a casual, hip setting. No place sums this up quite like Bird of Paradise. No
-more ordering “just a salad” when you want to eat healthy. Their bowls are
-stuffed with hearty, fresh ingredients, so you feel good eating but don’t leave
+more ordering "just a salad" when you want to eat healthy. Their bowls are
+stuffed with hearty, fresh ingredients, so you feel good eating but don't leave
 hungry. The shrimp, sourced right off the Florida coast, is plentiful, and the
 brown rice, from Jacksonville, is creamy. It plumps up wonderfully with the
 absorbed sauces — like cilantro lemongrass in their bestseller Florida Bowl or
 the pineapple-sweet meets Caribbean spice of the Island Jerk Bowl.
 
-As a bonus, they’re fully gluten-free and low sugar, too, so it’s OK to splurge
-on dessert at one of the other food stalls in the market. It’ll likely be one of
-the most unique places you’ll eat this year.
+As a bonus, they're fully gluten-free and low sugar, too, so it's OK to splurge
+on dessert at one of the other food stalls in the market. It'll likely be one of
+the most unique places you'll eat this year.
 
 If you can, make sure your visit to Orlando includes a Sunday for the year-round
 farmer's market at Lake Eola Park. Along with browsing dozens of vendors for

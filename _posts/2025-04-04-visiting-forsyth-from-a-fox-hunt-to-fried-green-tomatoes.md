@@ -8,8 +8,8 @@ author: Cheryl Rodewig
 excerpt: A postcard-perfect town packed with secret art, Victorian architecture, and cinematic cuisine.
 ---
 
-In Forsyth’s postcard-perfect downtown, a striking brick Victorian courthouse
-presides over the square. It’s surrounded by a broad lawn, mature trees and
+In Forsyth's postcard-perfect downtown, a striking brick Victorian courthouse
+presides over the square. It's surrounded by a broad lawn, mature trees and
 dozens of buildings on the National Register of Historic Places, many repurposed
 as boutiques or restaurants.
 
@@ -25,13 +25,13 @@ as boutiques or restaurants.
   />
 
 This scene alone makes the stop along I-75 between Atlanta and Macon worth it,
-but there’s much more to discover. Monroe County, which just celebrated its
+but there's much more to discover. Monroe County, which just celebrated its
 bicentennial anniversary, has taken pains to preserve its storied past, and I
 uncovered glimpses of yesteryear almost everywhere on my recent visit.
 
 Learn how it all started at the [Monroe County Historical Society Museum and
 Archives](https://www.mchsga.org), housed inside an 1899 train depot. Forsyth
-was home to Georgia’s first railroad, and you can spot a second depot in town,
+was home to Georgia's first railroad, and you can spot a second depot in town,
 this one dating to the 1850s, just down the street from the museum.
 
 <img
@@ -71,13 +71,13 @@ textile mill towers at one end of the street.
   loading="lazy"
 />
 
-If you want to see and do it all, you’ll need more than an afternoon. Staying in
-Forsyth, you’ll be central to the main attractions. There's a KOA campground as
+If you want to see and do it all, you'll need more than an afternoon. Staying in
+Forsyth, you'll be central to the main attractions. There's a KOA campground as
 well as several chain hotels. I can vouch for the La Quinta Inn & Suites, which
 offers free breakfast and quick access to downtown and the interstate.
 
 Depending on how long you have, you can cram everything into a long weekend or
-spend a few extra days taking things at a slower pace. Here’s a peek at what’s
+spend a few extra days taking things at a slower pace. Here's a peek at what's
 in store when you visit Monroe County.
 
 ## Downtown Forsyth
@@ -94,7 +94,7 @@ in store when you visit Monroe County.
   loading="lazy"
 />
 
-Start your journey in downtown Forsyth. If it’s a weekday, head inside the
+Start your journey in downtown Forsyth. If it's a weekday, head inside the
 courthouse to see the restored courtroom with its decorative pressed tin
 ceiling. Then hit the streets for a self-guided tour.
 
@@ -115,18 +115,18 @@ popular — and start exploring.
   width="665" height="499" loading="lazy" />
 
 There's a fox hunt with clues that leads you all over downtown in search of
-miniature bronze foxes. Why foxes? It’s a throwback to Forsyth's former
-nickname, “Fox City.” As the story goes, the town earned the moniker due to the
+miniature bronze foxes. Why foxes? It's a throwback to Forsyth's former
+nickname, "Fox City." As the story goes, the town earned the moniker due to the
 charms of the students of Tift College, the second oldest women's college in
-Georgia. It’s a fun but challenging scavenger hunt (I admit I was stumped on a
-few clues), and you’ll get to know some of the city’s landmarks along the way.
+Georgia. It's a fun but challenging scavenger hunt (I admit I was stumped on a
+few clues), and you'll get to know some of the city's landmarks along the way.
 
 Pick up an African American Heritage Guide & Tour booklet at the welcome center
 for more historic sites to visit as well as biographies and a timeline to give
-context to the people and places you’ll learn about.
+context to the people and places you'll learn about.
 
 Other must-see stops downtown include the City of Forsyth train mural, St.
-Luke’s African American Episcopal Church, the historic Rose Theater, where you
+Luke's African American Episcopal Church, the historic Rose Theater, where you
 can catch a live show, and the [1823 Artisan Guild &
 Gallery](https://www.facebook.com/artinforsythga), where you can shop handmade
 treasures and take art classes like basket weaving. (Fun fact: The guild's name
@@ -154,12 +154,12 @@ in season, beginning with strawberries in the spring through pecans and pumpkins
 in the fall.
 
 Take your pick from the produce at [Dickey Farms](https://gapeaches.com/). If
-it’s peach season, tour the packinghouse. Then stop by [Hamlin Hills
+it's peach season, tour the packinghouse. Then stop by [Hamlin Hills
 Farms](https://hamlinhills.com) to see the antique trucks and tractors on
 display, pet the farm animals, browse the country store, and perhaps dare the
 haunted corn maze if the season's right. Whenever you go, be sure to fill up
 your camera roll with old-timey Coca-Cola signs and unusual sights like the
-state’s cleanest outhouse (they say) and a 17-passenger helicopter you can climb
+state's cleanest outhouse (they say) and a 17-passenger helicopter you can climb
 inside.
 
 Of course, you don't have to leave town for farm-fresh flavors. On Fridays from
@@ -231,17 +231,17 @@ The [Whistle Stop Café](https://thewhistlestopcafe.com) at the end of the block
 is your destination, both for its role in the film and its delicious cuisine.
 The menu is thoroughly Southern: fried chicken livers, smoked ribs, catfish,
 country fried steak and sides that range from cornbread to collards. Order an
-appetizer of fried green tomatoes and you’ll understand why people rave about
+appetizer of fried green tomatoes and you'll understand why people rave about
 them. These magical circles are piping hot with soft yellow centers covered in a
 crispy, seasoned batter.
 
 Get there early to put your name on the list. This place is hopping. In the
-movie, “the secret’s in the sauce,” but at The Whistle Stop Café today, the
+movie, "the secret's in the sauce," but at The Whistle Stop Café today, the
 secret is the locally sourced ingredients, time-honored recipes and creative
 takes on classic dishes. Be sure to stay for dessert. The seasonal pecan-crusted
 apple crisp tastes like fall, and the moist, seven-layer lemon cake is a
 year-round treat worth savoring.
 
 Want to go all out? Visit Juliette in October for the annual Green Tomato
-Festival, featuring arts and crafts, live music, kids’ activities and plenty of
-down-home cooking so you won’t leave hungry.
+Festival, featuring arts and crafts, live music, kids' activities and plenty of
+down-home cooking so you won't leave hungry.

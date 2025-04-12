@@ -10,7 +10,7 @@ excerpt: Learn how Gwinnett County became Georgia's unofficial K-Town and home t
 
 When in-the-know Atlantans crave the best selection of Korean food, varied and
 satisfying, they head northeast to the suburbs and the unofficial home of
-Georgia’s K-Town: Gwinnett County.
+Georgia's K-Town: Gwinnett County.
 
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/tteokbokki-665.webp"
@@ -53,19 +53,19 @@ Gwinnett County, opened its first office in 1968 off Buford Highway in
 Doraville, then the hub for the many Korean Americans moving to Georgia. The
 real estate boom that hit the Gwinnett Place area in the '90s brought an influx
 of new businesses, in particular, mega-sized Korean supermarkets, to some of the
-county’s larger cities like Duluth and Suwanee. Those stores provided the
+county's larger cities like Duluth and Suwanee. Those stores provided the
 ingredients for early restaurateurs and the comfort food of home for the
 hundreds of families who eventually settled there.
 
 Andrew Choi, who moved from South Korea to Duluth in 1996, remembers seeing
-Gwinnett County’s rise as the epicenter of Korean food. The first meal he had on
+Gwinnett County's rise as the epicenter of Korean food. The first meal he had on
 arrival was at a Korean restaurant in Doraville. His family wanted to eat
 something familiar, he explains. Now, his parents own their own cafe in Duluth.
 
-Though sometimes informally referred to as Korea Town, there’s not one address
+Though sometimes informally referred to as Korea Town, there's not one address
 you can plug into your GPS to get there. Pockets of it flourish around Pleasant
 Hill Road, Duluth Highway and Lawrenceville-Suwanee Road. Look for a strip mall
-anchored by a Korean grocery store, and you’re there.
+anchored by a Korean grocery store, and you're there.
 
 But the Gwinnett Place area, at the junction of I-85 and Pleasant Hill Road, is
 a convenient place to begin your exploration. While the landmark Gwinnett Place
@@ -77,15 +77,15 @@ specifically. You can dine at a different spot each day for a month, plus
 breakfast, lunch and dinner on weekends, and still have more to sample.
 
 A native of Seoul who now calls Duluth home, Sarah Park describes the area as
-“vibrant,” full of conversation, commerce and, yes, loads of food.
+"vibrant," full of conversation, commerce and, yes, loads of food.
 
-“I love how the Korean culinary scene here has so much variety,” she says.
-“Fried chicken joints, comfort food restaurants, homestyle cooking, fusion
+"I love how the Korean culinary scene here has so much variety," she says.
+"Fried chicken joints, comfort food restaurants, homestyle cooking, fusion
 cuisine with other Asian cuisines, bakeries and cafes, snack places, buffets and
 small catering businesses — you name it, you can find it here. Everything is
 made from scratch. You can walk into a Korean restaurant and immediately smell
 food balanced with harmonious seasoning and lots of deep, rich broth that gives
-warmth.”
+warmth."
 
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-hotdogs-665.webp"
@@ -97,23 +97,23 @@ warmth.”
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Korean hot dogs" width="665" height="573"
   loading="lazy" />
 
-It’s the warmth that envelops you when you step inside one of the myriad
+It's the warmth that envelops you when you step inside one of the myriad
 eateries cooking up favorites like _sundubu-jjigae_, soft tofu stew, and
 _gamjatang_, spicy pork bone soup. Korean street food, meanwhile, is less about
 hearth and home and more about indulging on the go. Case in point is
 _myungrang_, a rice flour battered and fried hot dog on a stick, clustered with
 potatoes, rolled in sugar crystals or infused with squid ink, depending on your
 preference. You can pick up one, or more likely three, in the back corner of
-Duluth’s Super H Mart at the counter service restaurant appropriately named
+Duluth's Super H Mart at the counter service restaurant appropriately named
 Myungrang Hot Dog.
 
-Then there’s cafe culture, every bit as serious as any patisserie in France.
+Then there's cafe culture, every bit as serious as any patisserie in France.
 Koreans often retire to a cafe for sweets or coffee after dinner, explains Choi,
-who worked on Cafe Rothem’s menu development when it opened in 2016. He helped
-create their signature item, the “watteok,” a mix between a Belgian waffle and
+who worked on Cafe Rothem's menu development when it opened in 2016. He helped
+create their signature item, the "watteok," a mix between a Belgian waffle and
 the pancake-style Korean street snack, _hotteok_. When you cut into the center,
 cinnamon and sugar ooze out, to the delight of Instagrammers. But the watteok is
-rather the exception when it comes to sweetness. Most of the area’s Korean
+rather the exception when it comes to sweetness. Most of the area's Korean
 bakeries feature subtler flavors like green tea, sweet potato and egg custard.
 Even _patbingsu_, a popular after-supper treat constituting a mountain of shaved
 ice topped with fruit, syrups, candies and more, isn't overly decadent, the
@@ -157,12 +157,12 @@ wrap.
 
 Traditionally, the dishes would be shared among the family, says
 second-generation owner Stephen Cho. Most patrons today order their own entree,
-but if you’re eating with friends, it’s hard not to let your fork stray to
-someone else’s plate, drawn by the unusual flavors and scents, the color and
+but if you're eating with friends, it's hard not to let your fork stray to
+someone else's plate, drawn by the unusual flavors and scents, the color and
 quantity of dishes.
 
-“A lot of people think Korean food is just Korean barbecue nowadays,” says Cho.
-“Our family wants to keep this traditional style of Korean dishes.”
+"A lot of people think Korean food is just Korean barbecue nowadays," says Cho.
+"Our family wants to keep this traditional style of Korean dishes."
 
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-bbq-in-gwinnett-county-ga-665.webp"
@@ -176,20 +176,20 @@ quantity of dishes.
   loading="lazy"
 />
 
-That’s not to knock Korean barbecue, something of a gateway dish for aspiring
+That's not to knock Korean barbecue, something of a gateway dish for aspiring
 foodies into the world of Korean cuisine. And it's everywhere in K-Town: [K-BBQ
 Factory](https://kbbqstory.com/), Mapo Korean BBQ, [Honey Pig
 Atlanta](https://www.honeypigusa.com/), [9292 Korean
 BBQ](https://9292koreanbbq.com/). And those are just the ones right by the
 Gwinnett Place Mall. You might think that makes it easier to try a handful of
-them on a weekend trip. Don’t be fooled. Each could stand alone as a meal to
+them on a weekend trip. Don't be fooled. Each could stand alone as a meal to
 last a day.
 
-Wherever you go, it’s the typical Korean barbecue setup: thin slices of
+Wherever you go, it's the typical Korean barbecue setup: thin slices of
 marinated and raw beef and pork, which you cook in an open grill at the center
-of the table. Side dishes, called _banchan_, arrive in quick succession. You’re
-welcome to ask for free refills of those, but if you’ve opted for
-all-you-can-eat, you don’t want to fill up on sides.
+of the table. Side dishes, called _banchan_, arrive in quick succession. You're
+welcome to ask for free refills of those, but if you've opted for
+all-you-can-eat, you don't want to fill up on sides.
 
 <img
   src="/assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-fried-chicken-at-harue-atlanta-665.webp"
@@ -210,24 +210,24 @@ It's the house specialty at Gop Chang on Fire. The taste is hard to pinpoint:
 rich, umami. Even if you don't like it, you're guaranteed to make a memory ...
 "that time I ate intestines in Georgia."
 
-Korean fried chicken is another must when you’re here. Like barbecue, this
-classic dish has become almost ubiquitous across America. In some ways, it’s the
+Korean fried chicken is another must when you're here. Like barbecue, this
+classic dish has become almost ubiquitous across America. In some ways, it's the
 same everywhere, pleasantly predictable. In other ways, each restaurant takes a
 different spin on it. With a casual lunch counter vibe and chicken piled high on
 wooden plates,
 [Harue](https://www.order.store/store/harue-doraville/cbGe7thqSf6pstAofJKW7g)
-offers a no-fuss approach. It’s good food at fair prices. Or as their mantra
+offers a no-fuss approach. It's good food at fair prices. Or as their mantra
 emblazoned on the back wall calls it: "tasty and affordable food to enjoy with
 family and friends." Beyond fried chicken, they serve _odeng_, fish cakes;
 _gimbap_, bite-sized seaweed-wrapped rice rolls; and _tteok-bokki_, chewy,
-oblong rice cakes coated in a pepper paste. It’s the perfect spot for lunch and
-right next-door to [Cafe Rothem](https://www.caferothem.com/) when you’re ready
+oblong rice cakes coated in a pepper paste. It's the perfect spot for lunch and
+right next-door to [Cafe Rothem](https://www.caferothem.com/) when you're ready
 for dessert.
 
 ## Where To Eat the Best Korean Food in Gwinnett County
 
-“Best” is certainly a relative term, but there are a few places you definitely
-don’t want to miss while you’re in the area. Here’s a quick roundup of must-try
+"Best" is certainly a relative term, but there are a few places you definitely
+don't want to miss while you're in the area. Here's a quick roundup of must-try
 Korean spots in Gwinnett County.
 
 ### Myungrang Hot Dog
@@ -236,7 +236,7 @@ Shopping the fresh seafood, exotic snacks and vast selection of produce inside
 the Super H Mart can work up an appetite. Head to the back of the store near the
 home goods section for a _myungrang_, the Korean version of a corn dog. No corn
 here, but squid ink, sugar and deep-fried potatoes are optional add-ons for your
-dog. Or get a dog that’s simply filled with mozzarella cheese.
+dog. Or get a dog that's simply filled with mozzarella cheese.
 
 ### Cafe Rothem
 
@@ -261,7 +261,7 @@ walls).
   loading="lazy"
 />
 
-Part of the Park Village Shopping Center, where you’ll also find an H Mart and
+Part of the Park Village Shopping Center, where you'll also find an H Mart and
 several Korean restaurants, [Tree Story Bakery &
 Cafe](https://www.facebook.com/TreeStoryCafe/) is a wonderland for pastry
 lovers. Baskets of individually packaged sweet and savory breads fill the
@@ -276,17 +276,17 @@ traditional with red beans.
 This landmark Korean restaurant focuses on traditional dishes like tofu soup and
 dumplings, each with plenty of _banchan_ alongside to heighten the experience.
 The menu can be daunting with so many options. Order a family-style special,
-assuming you have someone you can split with or don’t mind the leftovers, and
+assuming you have someone you can split with or don't mind the leftovers, and
 you're guaranteed a delicious dinner.
 
 ### Gop Chang on Fire
 
 Suwanee is only 10 minutes farther up the road from Duluth, where Seoul of the
-South hosts its tour and most Korean restaurants are located. It’s worth the
+South hosts its tour and most Korean restaurants are located. It's worth the
 drive to try Gop Chang on Fire. If you can get past the shape of the specialty
 dish at this barbecue restaurant, you can revel in a truly authentic Korean
 experience: grilling offal, particularly intestines, or _gobchang_, on a tray
-over hot coals in the center of the table. As always, it’s surrounded by
+over hot coals in the center of the table. As always, it's surrounded by
 _banchan_ that keep on coming as long as you want.
 
 ### Harue
@@ -313,9 +313,9 @@ won't leave hungry.
 />
 
 With so much selection, it's easy to get caught up in the flavors alone, but
-K-Town engages all five senses. It’s the full experience: TVs streaming K-pop
+K-Town engages all five senses. It's the full experience: TVs streaming K-pop
 while you eat, piles of striped _chamwae_ melons in the markets, snatches of
-Korean conversation. This isn’t the kind of place you want to rush through. Take
+Korean conversation. This isn't the kind of place you want to rush through. Take
 your time. Browse the comics, _manhwa_, at World of Life Books. Party at a
 Korean karaoke bar. Relax at a 24/7 Korean sauna.
 
@@ -338,20 +338,20 @@ While no one quite masters Korean on the tour — though some fare better than
 others at using chopsticks — Park says it's important to her to share Korean
 culture and Korean food.
 
-“Nothing really bridges cultures better than sharing a meal and experiencing the
-foods that bring comfort to others,” she explains. “It is through this shared
-experience that we can truly find what binds us together.”
+"Nothing really bridges cultures better than sharing a meal and experiencing the
+foods that bring comfort to others," she explains. "It is through this shared
+experience that we can truly find what binds us together."
 
 Choi agrees. He calls it "the shared identity around Korean food." After all,
-it’s what generations have grown up with, passed down in recipes and used as the
-focal point for life’s celebrations and everyday family gatherings. There’s a
-part of all that when you’re dining at a Korean restaurant, whether in Duluth or
+it's what generations have grown up with, passed down in recipes and used as the
+focal point for life's celebrations and everyday family gatherings. There's a
+part of all that when you're dining at a Korean restaurant, whether in Duluth or
 Seoul.
 
-“Growing up, sharing food items for dinner with multiple neighbors was a common
+"Growing up, sharing food items for dinner with multiple neighbors was a common
 practice, and as children, we were the ones delivering food to the different
 households," Choi recalls. "Korean restaurants help me to relive some of that
 experience by bringing friends and family to enjoy all of the food together.
 When I take people who are not familiar with or crave Korean food because they
-do not usually try it, it’s like bringing them to my house or hometown to share
-in the experience.”
+do not usually try it, it's like bringing them to my house or hometown to share
+in the experience."

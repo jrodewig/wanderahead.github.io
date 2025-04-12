@@ -11,7 +11,7 @@ excerpt: An iconic highway hugs the Atlantic almost the entire length of the Sun
 No coastal drive sums up Florida quite so well as the A1A.
 
 Before moving here, I too summed up the state in theme parks and condos. But on
-various drives down this iconic highway, I’ve discovered its richness and
+various drives down this iconic highway, I've discovered its richness and
 breadth — lighthouses and seaside towns as quaint as any in New England,
 frontiers as wild as the West, and a quirkiness that is unapologetically
 Floridian.
@@ -30,7 +30,7 @@ Floridian.
 
 The A1A hugs the Atlantic almost the entire length of the Sunshine State, from
 Fernandina Beach down to Key West. My favorite stretch is St. Augustine to
-Stuart, 230 miles through classic “Old Florida.” Think fishing villages and
+Stuart, 230 miles through classic "Old Florida." Think fishing villages and
 roadside attractions, palm hammocks and porch swings.
 
 The drive takes around seven hours, but I recommend a couple days if you can.
@@ -56,7 +56,7 @@ youth](https://www.fountainofyouthflorida.com) supposedly found by Ponce de Leó
 in 1513 — an archeological park today marks the spot where you can sip from the
 cool, faintly sulfurous spring.
 
-It’s the perfect place to start a journey. Begin at the [Castillo de San
+It's the perfect place to start a journey. Begin at the [Castillo de San
 Marcos](http://www.nps.gov/casa), a sprawling 17th-century stone fort (the
 oldest in the country, of course), now a national monument. Decked out with
 drawbridge, dry moat, dungeons, and towers, the star-shaped fortress stands
@@ -83,7 +83,7 @@ another. We ducked inside the cathedral, and the bustling, sunlit street
 vanished, replaced by jewel-toned stained glass and low, resonant organ music.
 
 Leaving downtown, the road crosses the Bridge of Lions to Anastasia Island. A
-little farther and St. Augustine’s lighthouse comes into distant view, its black
+little farther and St. Augustine's lighthouse comes into distant view, its black
 and white stripes dwarfing the trees.
 
 This northern part of the A1A is officially an All-American Road, fairly
@@ -144,10 +144,10 @@ fringed with tree canopy, almost as undisturbed today as it was a century ago.
 Cultural oddities lurk nearby, too. Next door at Gamble Place, the 175-acre home
 of James Gamble, of Procter & Gamble fame. The site features several historic
 buildings, but the fairest and certainly strangest of them all is a replica of
-Snow White’s cottage.
+Snow White's cottage.
 
 Built in 1938 (the year following the release of the Disney film), it comes with
-a wishing well, mine shaft and tiny witch’s hut inhabited by a cutout crone. All
+a wishing well, mine shaft and tiny witch's hut inhabited by a cutout crone. All
 seem quite at home among the silent, moss-laden pines, as though in an enchanted
 wood.
 
@@ -213,7 +213,7 @@ white-crested waves, having the time of their lives.
 Across the bridge, the dockside eatery [Little Jim Bait &
 Tackle](https://www.littlejimbaitandtackle.com) hums with activity, a local
 favorite for over 70 years. The sign is faded, the scene a blend of seagulls,
-flip-flops, and license plate decor. It’s where I had the best taco of my life —
+flip-flops, and license plate decor. It's where I had the best taco of my life —
 fresh and plentiful shrimp with the zest of a flawless cilantro-lime sauce. The
 views and good vibes didn't hurt either.
 
@@ -232,7 +232,7 @@ views and good vibes didn't hurt either.
 Farther south, we swing by [Frederick Douglass Memorial
 Park](https://www.stlucieco.gov/things-to-do/recreation/beaches/frederick-douglass-memorial-park),
 the only beach in South Florida you can horseback ride on, arriving as a few
-happy riders return from their tour. It’s otherwise nearly deserted, despite it
+happy riders return from their tour. It's otherwise nearly deserted, despite it
 being a balmy Saturday afternoon.
 
 The last beach is even more unusual. In the small city of Stuart, Ross Witham
@@ -258,8 +258,8 @@ drive.
 Pierce and the Archie Carr National Wildlife Refuge in Melbourne, where you
 might even spot baby sea turtles during nesting season, are two great options.
 
-**Chill in Flagler Beach.** Stop here for a laidback lunch. Try the “Flagler
-Beach” fish wrap at [Beach Belly Bob's](https://www.beachbellybobs.com/). Then
+**Chill in Flagler Beach.** Stop here for a laidback lunch. Try the "Flagler
+Beach" fish wrap at [Beach Belly Bob's](https://www.beachbellybobs.com/). Then
 stroll a quarter mile north to see a beachside home with pirate dummies on the
 roof, scaling the side, and elsewhere about the premises — because why not?
 
