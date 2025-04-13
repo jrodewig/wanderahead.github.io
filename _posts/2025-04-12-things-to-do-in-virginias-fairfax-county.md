@@ -5,7 +5,7 @@ featured: true
 category: Virginia
 layout: post
 author: Cheryl Rodewig
-excerpt: Fairfax County, nestled in Virginia's lush countryside along the Potomac, offers historic landmarks, unique attractions like 19th-century mills and zoofaris, and vibrant arts and music scenes near the nation's capital.
+excerpt: Fairfax County, nestled in Virginia's lush countryside along the Potomac, offers historic landmarks, unique attractions, and vibrant art.
 ---
 
 When it comes to location, Fairfax County has it made. It sits in lush Virginia
