@@ -1,3 +1,5 @@
+@import url('./var.css');
+
 .featured-image-wrapper {
   width: 100%;
   max-width: 1200px;
@@ -41,6 +43,14 @@
   line-height: 32px;
 }
 
+.post p a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+.post p a:hover {
+  color: var(--hover);
+}
+
 .post .article ul li, 
 .post .article ol li {
   font-size: 20px;
@@ -71,7 +81,7 @@
   left: 50%;
   transform: translateX(-50%);
   font-size: 6rem;
-  color: #6c1d09;
+  color: var(--accent);
   line-height: 0;
 }
 

@@ -1,3 +1,5 @@
+@import url('./var.css');
+
 /*----------------------------------------*/
 /* Home page typography
 /*----------------------------------------*/
@@ -18,7 +20,7 @@ section {
 }
 
 .featured-grid .article {
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--meta);
   padding-bottom: 20px;
 }
 
@@ -70,7 +72,7 @@ section {
 .article.sidebar a h3:hover,
 .article.featured .image:hover + .info h3,
 .article.sidebar .image:hover + .info h3 {
-  color: #6c1d09;
+  color: var(--accent);
 }
 
 .featured-grid .article.sidebar .image {
@@ -205,7 +207,7 @@ section {
 
 .destinations.has-scroll {
   scrollbar-width: thin; /* Show in Firefox when scrollable */
-  scrollbar-color: #6c1d09 transparent;
+  scrollbar-color: var(--accent) transparent;
 }
 
 .destinations.has-scroll::-webkit-scrollbar {
@@ -217,12 +219,12 @@ section {
 }
 
 .destinations::-webkit-scrollbar-thumb {
-  background: #6c1d09;
+  background: var(--accent);
   border-radius: 4px;
 }
 
 .destinations::-webkit-scrollbar-thumb:hover {
-  background: #8b2a0d;
+  background: var(--accent);
 }
 
 .destinations.dragging {
@@ -250,7 +252,7 @@ section {
 }
 
 .destination .image:hover + a h3 {
-  color: #6c1d09;
+  color: var(--accent);
 }
 
 .destination a {

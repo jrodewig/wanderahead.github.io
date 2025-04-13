@@ -1,15 +1,4 @@
-/*----------------------------------------*/
-/* Variables
-/*----------------------------------------*/
-
-:root {
-  --bg: #fff;
-  --meta: #3b3b3b;
-  --accent: #6c1d09;
-  --border: #e6d9c3;
-  --black: #000;
-  --font-size: 16px;
-}
+@import url('./var.css');
 
 /*----------------------------------------*/
 /* Defaults + fallback
@@ -86,7 +75,7 @@ p {
 }
 
 a {
-  color: #000;
+  color: var(--black);
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -96,7 +85,7 @@ p a {
 }
 
 a:hover {
-  color: var(--accent);
+  color: var(--hover);
 }
 
 /*----------------------------------------*/
