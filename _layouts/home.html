@@ -88,7 +88,7 @@
         <h2>Recent articles</h2>
 
         <div class="tiles">
-          {% assign posts = site.posts | slice: 4, 10 %} {% for post in posts %}
+          {% assign posts = site.posts | slice: 4, 9 %} {% for post in posts %}
           <div class="article tile">
             <div class="image">
               <a href="{{ post.url  | relative_url }}">
