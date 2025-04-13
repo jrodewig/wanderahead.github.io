@@ -16,7 +16,7 @@ to meet the demand for entertainment. And that means it should be much more than
 a stop-off on your drive. Take a day to explore some of what this southern town
 has to offer.
 
-## Spend the morning at Wild Adventures
+## Spend the Morning at Wild Adventures
 
 <img
   src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp"
@@ -38,7 +38,7 @@ summer weekends. Get there when they open to beat the crowds and enjoy shorter
 wait times. Animal exhibits are scattered throughout the park: lions, capybara,
 monkeys.
 
-## Afternoon
+## Eat Empanadas in the Afternoon
 
 <img
   src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp"
@@ -112,7 +112,7 @@ window shopping or serious bargain hunting. While you're there, stop into the
 include everything from African masks, musical instruments and totems to
 European antiques and fine porcelain.
 
-## Evening
+## Escape in the Evening
 
 <img
   src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp"
