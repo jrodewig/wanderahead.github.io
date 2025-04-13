@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-standard"],
+  "ignoreFiles": ["_site/**/*"],
+  "rules": {
+    "no-descending-specificity": null
+  }
+}

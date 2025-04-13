@@ -47,6 +47,7 @@
   color: var(--accent);
   text-decoration: underline;
 }
+
 .post p a:hover {
   color: var(--hover);
 }
@@ -103,13 +104,13 @@
   margin: 0 auto;
 }
 
-@media (max-width: 1000px) {
+@media (width <= 1000px) {
   .tiles-wrapper {
     max-width: 705px;
   }
 }
 
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .tiles-wrapper h2 {
     margin-left: 20px;
   }

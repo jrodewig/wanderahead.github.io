@@ -1,8 +1,9 @@
 @import url("./var.css");
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Defaults + fallback
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 @view-transition {
   navigation: auto;
@@ -16,19 +17,19 @@ body {
   font-size: var(--font-size);
 }
 
-@media (min-width: 1280px) {
+@media (width >= 1280px) {
   .fixed-width {
     max-width: 1200px;
   }
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media (width >= 1024px) and (width <= 1279px) {
   .fixed-width {
     max-width: 960px;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (width >= 768px) and (width <= 1023px) {
   .fixed-width {
     max-width: 720px;
   }
@@ -39,9 +40,10 @@ body {
   padding: 0 20px;
 }
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Typography
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 span.cat {
   margin-bottom: 8px;
@@ -55,7 +57,7 @@ span.cat a {
   font-weight: 700;
   line-height: 11px;
   text-transform: uppercase;
-  font-family: "Lato", sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 h1,
@@ -65,7 +67,7 @@ h4,
 h5,
 h6,
 span {
-  font-family: "Lato", sans-serif;
+  font-family: Lato, sans-serif;
 }
 
 a,
@@ -88,9 +90,10 @@ a:hover {
   color: var(--hover);
 }
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Nav
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 .nav {
   display: flex;
@@ -120,9 +123,10 @@ a:hover {
   border-radius: var(--border-radius);
 }
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Footer
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 .footer {
   display: flex;
@@ -163,7 +167,7 @@ a:hover {
   color: var(--meta);
 }
 
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .footer .logo,
   .footer .col {
     flex: 0 0 50%;

@@ -1,16 +1,18 @@
 @import url("./var.css");
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Home page typography
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 section {
   margin-bottom: 60px;
 }
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Featured grid
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 .featured-grid {
   display: grid;
@@ -112,7 +114,7 @@ section {
   line-height: 20px;
 }
 
-@media (max-width: 1279px) {
+@media (width <= 1279px) {
   .featured-grid .article.sidebar .image {
     height: 140px;
     min-width: 140px;
@@ -124,7 +126,7 @@ section {
   }
 }
 
-@media (max-width: 1024px) {
+@media (width <= 1024px) {
   .featured-grid .article.sidebar .image {
     height: 112px;
     min-width: 112px;
@@ -136,7 +138,7 @@ section {
   }
 }
 
-@media (max-width: 769px) {
+@media (width <= 769px) {
   .featured-grid .article.sidebar .image {
     height: 180px;
     min-width: 180px;
@@ -148,7 +150,7 @@ section {
   }
 }
 
-@media (min-width: 768px) {
+@media (width >= 768px) {
   .featured-grid {
     display: grid;
     gap: 32px 24px;
@@ -183,9 +185,10 @@ section {
   }
 }
 
-/*----------------------------------------*/
+/* ---------------------------------------- */
+
 /* Destinations
-/*----------------------------------------*/
+/*---------------------------------------- */
 
 .destinations {
   display: flex;
