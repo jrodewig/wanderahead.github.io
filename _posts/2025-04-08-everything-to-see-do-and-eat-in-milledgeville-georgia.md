@@ -63,7 +63,6 @@ lanterns, feels like stepping back in time.
   loading="lazy"
 />
 
-
 The house is filled with vintage touches, which, if not entirely true to
 one specific period, are altogether homier and more inviting. I was enchanted
 with the details, like the built-in bookcases in our cornflower-blue master
@@ -195,7 +194,6 @@ over downtown.
   loading="lazy"
 />
 
-
 For a quiet walk through the historic district, the scenic campuses of Georgia
 College and Georgia Military College provide plenty of greenery. For something a
 bit more… atmospheric, let's say, the Central State Hospital, once the largest
@@ -204,7 +202,6 @@ the mid-1800s, where treatments once included lobotomies and shock therapy,
 front a large pecan grove that yields a plentiful harvest in fall. Take a
 trolley tour led by a former hospital employee to learn more and wander the
 cemetery where patients are laid to rest.
-
 
 If you're feeling more active, you can kayak down the Oconee River (rentals in
 town) or hike in the shade of Bartram Forest just south of the city. A stroll or

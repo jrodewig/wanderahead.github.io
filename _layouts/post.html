@@ -45,7 +45,11 @@
       </picture>
     </div>
     <main class="post fixed-width">
-      <span class="cat"><a href=" {{ page.category | slugify | relative_url }}">{{ page.category }}</a></span>
+      <span class="cat"
+        ><a href=" {{ page.category | slugify | relative_url }}"
+          >{{ page.category }}</a
+        ></span
+      >
       <h1>{{ page.title }}</h1>
       <div class="info">
         <p class="author">By {{ page.author }}</p>
@@ -56,55 +60,41 @@
       <article class="article">{{ content }}</article>
     </main>
 
-    {% assign current_category = page.category %}
-    {% assign related_posts = "" | split: "" %}
-    {% assign other_posts = "" | split: "" %}
-    
-    {% for post in site.posts %}
-      {% if post.url != page.url %}
-        {% if post.category == current_category %}
-          {% assign related_posts = related_posts | push: post %}
-        {% else %}
-          {% assign other_posts = other_posts | push: post %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    
-    {% assign all_posts = related_posts | concat: other_posts %}
-    {% assign display_posts = all_posts | slice: 0, 3 %}
-    
-    {% if display_posts.size >= 2 %}
-      <section class="tiles-wrapper">
-        <h2>Related articles</h2>
-        <div class="tiles">
-          {% for post in display_posts %}
-            <div class="article tile">
-              <div class="image">
-                <a href="{{ post.url | relative_url }}">
-                  {% if post.image %}
-                    {% assign tile_image = post.image | replace: '.webp', '-384x256.webp' %}
-                  {% else %}
-                    {% assign tile_image = '/assets/default-image-384x256.webp' %}
-                  {% endif %}
-                  <img
-                    src="{{ tile_image | relative_url }}"
-                    alt="{{ post.title }}"
-                    loading="lazy"
-                  />
-                </a>
-              </div>
-              <div class="info">
-                <span class="cat">{{ post.category }}</span>
-                <a href="{{ post.url | relative_url }}">
-                  <h3>{{ post.title }}</h3>
-                </a>
-              </div>
-            </div>
-          {% endfor %}
+    {% assign current_category = page.category %} {% assign related_posts = "" |
+    split: "" %} {% assign other_posts = "" | split: "" %} {% for post in
+    site.posts %} {% if post.url != page.url %} {% if post.category ==
+    current_category %} {% assign related_posts = related_posts | push: post %}
+    {% else %} {% assign other_posts = other_posts | push: post %} {% endif %}
+    {% endif %} {% endfor %} {% assign all_posts = related_posts | concat:
+    other_posts %} {% assign display_posts = all_posts | slice: 0, 3 %} {% if
+    display_posts.size >= 2 %}
+    <section class="tiles-wrapper">
+      <h2>Related articles</h2>
+      <div class="tiles">
+        {% for post in display_posts %}
+        <div class="article tile">
+          <div class="image">
+            <a href="{{ post.url | relative_url }}">
+              {% if post.image %} {% assign tile_image = post.image | replace:
+              '.webp', '-384x256.webp' %} {% else %} {% assign tile_image =
+              '/assets/default-image-384x256.webp' %} {% endif %}
+              <img
+                src="{{ tile_image | relative_url }}"
+                alt="{{ post.title }}"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <div class="info">
+            <span class="cat">{{ post.category }}</span>
+            <a href="{{ post.url | relative_url }}">
+              <h3>{{ post.title }}</h3>
+            </a>
+          </div>
         </div>
-      </section>
-    {% endif %}
-
-    {% include footer.html %}
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %} {% include footer.html %}
   </body>
 </html>

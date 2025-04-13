@@ -55,10 +55,10 @@
             <a href="{{ post.url }}">
               <picture>
                 <!-- Use -768x320.webp for viewports 768px or smaller -->
-                <source 
-                  media="(max-width: 768px)" 
+                <source
+                  media="(max-width: 768px)"
                   srcset="{{ post.image | replace: '.webp', '-768x320.webp' }}"
-                >
+                />
                 <!-- Default image for larger viewports -->
                 <img
                   src="{{ post.image | replace: '.webp', '-384x256.webp' }}"

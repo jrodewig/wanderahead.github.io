@@ -68,7 +68,6 @@ Here are the Matlacha experiences you can't miss.
   loading="lazy"
 />
 
-
 ## Soak in Galleries Galore
 
 Effusive and fanciful, Matlacha's art covers everything from blown glass to
@@ -82,7 +81,6 @@ signature bold strokes.
 <blockquote class="pullquote">"When I cross over the Matlacha Island bridge, I fall in love with my little fishing village all over again. It's home, the place that always inspires me to pick up my paintbrush."
 <br/><br/>
 — Leoma Lovegrove, artist</blockquote>
-
 
 ## Indulge in Old-Fashioned Fudge
 

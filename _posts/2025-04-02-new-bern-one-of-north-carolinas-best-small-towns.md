@@ -51,7 +51,7 @@ experiences to prioritize when you visit New Bern.
 
 You can't visit New Bern without getting out on the water. Positioned at the
 meeting point of two rivers, the city is defined by its aquatic surroundings.
-Paddleboarding, kayaking, boating, fishing  —  the options are endless, but a guided
+Paddleboarding, kayaking, boating, fishing — the options are endless, but a guided
 cruise stands out as an accessible and engaging way to take it all in. It's
 straightforward and informative: just show up, and let the captain handle the
 rest.
@@ -89,7 +89,6 @@ kingfishers, and cardinals are common sights. Or just to zoom in on the scenery.
   height="499"
   loading="lazy"
 />
-
 
 Here's a key fact about New Bern: bears. Not the living kind, but the symbolic
 ones. Named after Bern, Switzerland, where the bear is a heraldic icon, New Bern
@@ -176,9 +175,9 @@ where George Washington danced or the surprisingly modern kitchen, where
 - The guided Dixon House tour, showcasing an early 1830s merchant's home
 - The stables, the last remnant of the original palace
 - The palace gardens, with
-clipped hedges, statues, and scenic pathways
+  clipped hedges, statues, and scenic pathways
 - Backyard gardens at historic homes like the Stanly House, featuring heirloom camellias and a fountain with water
-lilies
+  lilies
 
 Plan for at least three hours, or two, if you move quickly through the gardens
 and museum.

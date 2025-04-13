@@ -40,7 +40,6 @@ remember.
   loading="lazy"
 />
 
-
 Start off with some outdoor exercise. In a city that's predominantly Georgia
 Bulldogs black and red, it's pleasant to find so much green.
 Parks and nature paths are plentiful, like the [Firefly
@@ -60,7 +59,6 @@ another great place for a walk or bike ride.
   height="442"
   loading="lazy"
 />
-
 
 With more than 2,000 acres of public green space, the city prizes its natural
 resources, so perhaps it's not surprising that it's one of the only places in
@@ -134,7 +132,6 @@ Art](https://www.visitathensga.com/listing/georgia-museum-of-art/290/). On a
 terraced lawn off the entrance lobby, the museum's sculpture garden is a quiet
 retreat where art blends with nature.
 
-
 ## Stroll Through Historic Athens
 
 <img
@@ -175,7 +172,6 @@ creator and stars on a guided tour.
   height="442"
   loading="lazy"
 />
-
 
 Two blocks from the theater is yet another artifact: an authentic Civil War
 double barrel cannon. Designed and made in Athens, this unusual invention was
@@ -256,7 +252,6 @@ featuring Southern cooking.
   height="442"
   loading="lazy"
 />
-
 
 If you're trying to fit in all the sights of Athens and need some healthy food
 fast, [Maepole](https://www.maepole.com/) is your best bet. You'll recognize it

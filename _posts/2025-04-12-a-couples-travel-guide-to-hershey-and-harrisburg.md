@@ -18,14 +18,6 @@ Here's how to make the most of a couple's getaway in these neighboring cities.
 
 ## Discovering Harrisburg
 
-Start your trip at the capitol. It might sound like something for history buffs,
-but the elegant beaux arts building feels like a palace. In fact, that was the
-vision of the Renaissance architect who designed it: a "palace of art" with real
-gold leaf, a grand marble staircase, stained glass windows and a magnificent
-272-foot dome. Sign up for a tour so you don't miss the chambers of the Senate,
-House and Supreme Court, lavishly gilded and accented with murals and
-chandeliers. With everything free, it's the best deal in town.
-
 <img
   src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp"
   srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-320.webp 320w,
@@ -35,6 +27,26 @@ chandeliers. With everything free, it's the best deal in town.
   alt="Capitol building in Harrisburg, Pennsylvania"
   width="665"
   height="450"
+  loading="lazy"
+/>
+
+Start your trip at the capitol. It might sound like something for history buffs,
+but the elegant beaux arts building feels like a palace. In fact, that was the
+vision of the Renaissance architect who designed it: a "palace of art" with real
+gold leaf, a grand marble staircase, stained glass windows and a magnificent
+272-foot dome. Sign up for a tour so you don't miss the chambers of the Senate,
+House and Supreme Court, lavishly gilded and accented with murals and
+chandeliers. With everything free, it's the best deal in town.
+
+<img
+  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp"
+  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-320.webp 320w,
+          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-480.webp 480w,
+          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Natural Bridge State Park in Harrisburg, PA"
+  width="665"
+  height="442"
   loading="lazy"
 />
 
@@ -54,26 +66,8 @@ Finish up the evening with a walk along the river. The trail passes several
 bridges, gardens and public art, so bring your camera. If a stroll is too
 low-key, tackle more of the 20-mile Capital Area Greenbelt on bike.
 
-<img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Natural Bridge State Park in Harrisburg, PA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
-
 ## A Taste of Hershey
 
-What's more romantic than chocolate? Flowers, maybe? Hershey has both. Opened in
-1937 as a rose garden, [Hershey Gardens](https://www.hersheygardens.org) has
-grown into a 23-acre wonderland with an arboretum and a range of blooms,
-beginning with spring tulips through fall chrysanthemums. Go in the morning
-before the crowds arrive and when the weather is still cool. For year-round
-color, the Butterfly Atrium recreates a tropical paradise. 
 <img
   src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp"
   srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-320.webp 320w,
@@ -81,6 +75,25 @@ color, the Butterfly Atrium recreates a tropical paradise.
           /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Butterflies in the Butterfly Atrium in Hershey Gardens at Hershey, PA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
+
+What's more romantic than chocolate? Flowers, maybe? Hershey has both. Opened in
+1937 as a rose garden, [Hershey Gardens](https://www.hersheygardens.org) has
+grown into a 23-acre wonderland with an arboretum and a range of blooms,
+beginning with spring tulips through fall chrysanthemums. Go in the morning
+before the crowds arrive and when the weather is still cool. For year-round
+color, the Butterfly Atrium recreates a tropical paradise.
+
+<img
+  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp"
+  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-320.webp 320w,
+          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-480.webp 480w,
+          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Bears playing at ZooAmerica in Hershey, PA"
   width="665"
   height="442"
   loading="lazy"
@@ -112,6 +125,7 @@ on the way home.
   loading="lazy"
 />
 
+
 If you're not ready to let the chocolate and childlike wonder go quite yet, a
 visit to the [The Hershey Story museum](https://hersheystory.org) is in order.
 It explores the history of the company and the man behind it all, Milton
@@ -119,15 +133,6 @@ Hershey. To get more hands-on, you can opt for a chocolate-making class or an
 around-the-world sampling of drinking chocolates.
 
 ## Lodging and Dining
-
-Lodging options abound whether you want a homey inn or a full-scale resort. For
-something unique to the area, stay at the [Hotel Indigo Harrisburg
-Hershey](https://www.ihg.com/hotelindigo/hotels/us/en/harrisburg/mdteb/hoteldetail).
-You'll recognize touches of Harrisburg and Hershey all around the hotel. Some
-are obvious, like framed artwork, while others are less apparent: the blinds in
-the room show a topographical map of the Susquehanna River, the pattern in the
-lobby carpet echoes the capitol rotunda, and intersecting lines in the decor
-mimic the Walnut Street Bridge.
 
 <img
   src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp"
@@ -140,6 +145,15 @@ mimic the Walnut Street Bridge.
   height="499"
   loading="lazy"
 />
+
+Lodging options abound whether you want a homey inn or a full-scale resort. For
+something unique to the area, stay at the [Hotel Indigo Harrisburg
+Hershey](https://www.ihg.com/hotelindigo/hotels/us/en/harrisburg/mdteb/hoteldetail).
+You'll recognize touches of Harrisburg and Hershey all around the hotel. Some
+are obvious, like framed artwork, while others are less apparent: the blinds in
+the room show a topographical map of the Susquehanna River, the pattern in the
+lobby carpet echoes the capitol rotunda, and intersecting lines in the decor
+mimic the Walnut Street Bridge.
 
 It's beautiful, but looks aren't what matter most in a hotel. Luckily, this one
 has comfort front and center, too. It just opened this year, so rooms are fresh

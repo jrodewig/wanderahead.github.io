@@ -77,13 +77,11 @@ as valuable as cashmere. It's easy to believe when you pet the downy coats of
   loading="lazy"
 />
 
-
 The farm store has the usual souvenirs (felted soap, dryer balls) and unusual
 ones: nesting balls that look like giant furry heads, which you hang in your
 yard so birds can make tiny, intricate nests from the hair. In winter, Cain can
 barely keep alpaca socks in stock. "Alpaca fiber wicks the moisture away from
 your skin, but it's really warm and lightweight," she says.
-
 
 If you want to take it one step further and be part of the behind-the-scenes
 process of making alpaca fiber, you can. Every April, Cain and a crew of
@@ -139,8 +137,6 @@ The stars of the show come out in summer, though, when a field of golden
 sunflowers erupts into bloom. Their beauty is fleeting, here for only a few
 weeks, but it's impressive while it lasts. As you wander among the stalks,
 sunflower bulbs bending above your head, you'll feel like you're in a storybook.
-
-
 
 ## Learn Cherokee History at the New Echota Historic Site
 

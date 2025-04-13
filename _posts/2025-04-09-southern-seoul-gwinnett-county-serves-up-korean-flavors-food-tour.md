@@ -33,7 +33,6 @@ foodie destination, less fusion, more authentic. If you love Korean food — or
 have always wanted to try the real deal — this place belongs on your bucket
 list.
 
-
 ## How Gwinnett County Became a Hot Spot for Korean Cuisine
 
 <img

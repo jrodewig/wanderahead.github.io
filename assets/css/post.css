@@ -1,4 +1,4 @@
-@import url('./var.css');
+@import url("./var.css");
 
 .featured-image-wrapper {
   width: 100%;
@@ -51,7 +51,7 @@
   color: var(--hover);
 }
 
-.post .article ul li, 
+.post .article ul li,
 .post .article ol li {
   font-size: 20px;
   line-height: 32px;

@@ -68,7 +68,6 @@ bliss out in the backyard sculpture garden on Lake Osceola.
   loading="lazy"
 />
 
-
 Wrap up your day a live show. Choose from drama, dance, music, magic and more,
 but if you're looking for a true Orlando classic, get tickets to the [SAK Comedy
 Lab](https://www.sakcomedylab.com/). Famous for helping launch the career of
@@ -97,7 +96,6 @@ the next night to see something new.
   height="499"
   loading="lazy"
 />
-
 
 If all that audience participation leaves you craving more interactive
 entertainment, that's where Escapology comes in. Headquartered in Orlando and
@@ -132,7 +130,6 @@ and play with them or just admire the way they lounge with absolute abandon.
   height="499"
   loading="lazy"
 />
-
 
 Wake up with coffee. And pastries. The fast-moving line at [Buttermilk
 Bakery](https://www.buttermilk-bakery.com/) lets you know you've come to the

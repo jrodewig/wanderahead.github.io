@@ -153,8 +153,6 @@ range lights stand sentinel at opposite ends of a long path. The lighthouses,
 which once helped sailors avoid the harbor's dangerous shallows, are picturesque
 today, the boardwalk to reach them uncluttered by footprints in the snow.
 
-
-
 ## Holiday Cheer in Door County
 
 <img

@@ -45,7 +45,11 @@
               </a>
             </div>
             <div class="info">
-              <span class="cat"><a href=" {{ post.category | slugify | relative_url }}">{{ post.category }}</a></span>
+              <span class="cat"
+                ><a href=" {{ post.category | slugify | relative_url }}"
+                  >{{ post.category }}</a
+                ></span
+              >
               <a href="{{ post.url }}">
                 <h3>{{ post.title }}</h3>
               </a>
@@ -66,7 +70,11 @@
               </a>
             </div>
             <div class="info">
-              <span class="cat"><a href=" {{ post.category | slugify | relative_url }}">{{ post.category }}</a></span>
+              <span class="cat"
+                ><a href=" {{ post.category | slugify | relative_url }}"
+                  >{{ post.category }}</a
+                ></span
+              >
               <a href="{{ post.url }}">
                 <h3>{{ post.title }}</h3>
               </a>
@@ -86,10 +94,10 @@
               <a href="{{ post.url  | relative_url }}">
                 <picture>
                   <!-- Use -768x320.webp for viewports 768px or smaller -->
-                  <source 
-                    media="(max-width: 768px)" 
+                  <source
+                    media="(max-width: 768px)"
                     srcset="{{ post.image | replace: '.webp', '-768x320.webp' }}"
-                  >
+                  />
                   <!-- Default image for larger viewports -->
                   <img
                     src="{{ post.image | replace: '.webp', '-384x256.webp' }}"
@@ -100,7 +108,11 @@
               </a>
             </div>
             <div class="info">
-              <span class="cat"><a href=" {{ post.category | slugify | relative_url }}">{{ post.category }}</a></span>
+              <span class="cat"
+                ><a href=" {{ post.category | slugify | relative_url }}"
+                  >{{ post.category }}</a
+                ></span
+              >
               <a href="{{ post.url | relative_url  }}">
                 <h3>{{ post.title }}</h3>
               </a>
@@ -112,36 +124,33 @@
 
       <section>
         <h2>Top destinations</h2>
-      
-        {% assign categories_array = "" | split:"|" %}
-        {% for post in site.posts %}
-          {% if post.category %}
-            {% assign categories_array = categories_array | push: post.category | uniq %}
-          {% endif %}
-        {% endfor %}
-      
+
+        {% assign categories_array = "" | split:"|" %} {% for post in site.posts
+        %} {% if post.category %} {% assign categories_array = categories_array
+        | push: post.category | uniq %} {% endif %} {% endfor %}
+
         <div class="destinations">
           {% for destination in site.destinations %}
-            <div class="destination">
-              {% if destination.image %}
-                {% assign dest_image = destination.image | replace: '.webp', '-278x379.webp' %}
-                <div class="image">
-                  <a href="{{ destination.url | relative_url }}">
-                    <img
-                      src="{{ dest_image }}"
-                      alt="{{ destination.title }}"
-                      loading="lazy"
-                      width="278"
-                      height="379"
-                      draggable="false"
-                    />
-                  </a>
-                </div>
-              {% endif %}
+          <div class="destination">
+            {% if destination.image %} {% assign dest_image = destination.image
+            | replace: '.webp', '-278x379.webp' %}
+            <div class="image">
               <a href="{{ destination.url | relative_url }}">
-                <h3>{{ destination.title }}</h3>
+                <img
+                  src="{{ dest_image }}"
+                  alt="{{ destination.title }}"
+                  loading="lazy"
+                  width="278"
+                  height="379"
+                  draggable="false"
+                />
               </a>
             </div>
+            {% endif %}
+            <a href="{{ destination.url | relative_url }}">
+              <h3>{{ destination.title }}</h3>
+            </a>
+          </div>
           {% endfor %}
         </div>
       </section>
@@ -213,7 +222,7 @@
               dragDistance = 0;
               destinations.classList.add("dragging");
             },
-            { passive: false }
+            { passive: false },
           );
 
           destinations.addEventListener(
@@ -224,7 +233,7 @@
               const walk = e.touches[0].pageX - startX;
               destinations.scrollLeft = scrollLeft - walk;
             },
-            { passive: false }
+            { passive: false },
           );
 
           destinations.addEventListener("touchend", () => {

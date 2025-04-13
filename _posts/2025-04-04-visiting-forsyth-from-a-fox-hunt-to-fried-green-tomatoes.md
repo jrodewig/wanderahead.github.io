@@ -226,7 +226,6 @@ petite and weathered, is undeniably Instagrammable.
   loading="lazy"
 />
 
-
 The [Whistle Stop Café](https://thewhistlestopcafe.com) at the end of the block
 is your destination, both for its role in the film and its delicious cuisine.
 The menu is thoroughly Southern: fried chicken livers, smoked ribs, catfish,
