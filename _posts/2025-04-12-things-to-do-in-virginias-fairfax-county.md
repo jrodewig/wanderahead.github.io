@@ -144,7 +144,6 @@ makes the challenge that much better. Room Escape DC has six themes to choose
 from. If you're feeling patriotic, Save the White House is an absolute blast and
 can be completed with anywhere from two to 10 people.
 
-
 ## Discover DC
 
 <img

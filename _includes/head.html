@@ -30,10 +30,13 @@
   <link rel="stylesheet" href="/assets/css/style.css" />
 </noscript>
 
+<!-- Favicon -->
+<link href="/assets/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
 {% if page.name == "index.html" %}
-<title>{{page.title}} | {{site.title}}</title>
-<meta property="og:title" content="{{page.title}}" />
-<meta property="twitter:title" content="{{page.title}}" />
+<title>{{site.title}}</title>
+<meta property="og:title" content="{{site.title}}" />
+<meta property="twitter:title" content="{{site.title}}" />
 {% else %}
 <title>{{page.title}} | {{site.title}}</title>
 <meta property="og:title" content="{{page.title}} | {{site.title}}" />
@@ -54,3 +57,11 @@
   content="{{ page.content | strip_html | truncatewords: 25 }}"
 />
 {% endif %}
+
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="{{site.url}}{{page.url}}" />
+<meta property="og:url" content="{{site.url}}{{page.url}}" />
+<meta property="og:site_name" content="{{site.title}}" />
+<meta property="og:image" content="{{site.url}}{{page.image}}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="{{site.url}}{{page.image}}" />

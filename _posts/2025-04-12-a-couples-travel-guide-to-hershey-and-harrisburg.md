@@ -125,7 +125,6 @@ on the way home.
   loading="lazy"
 />
 
-
 If you're not ready to let the chocolate and childlike wonder go quite yet, a
 visit to the [The Hershey Story museum](https://hersheystory.org) is in order.
 It explores the history of the company and the man behind it all, Milton
