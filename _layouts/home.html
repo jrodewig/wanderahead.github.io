@@ -162,19 +162,6 @@
           let scrollLeft;
           let dragDistance = 0;
 
-          // Function to toggle scrollbar visibility
-          const toggleScrollbar = () => {
-            if (destinations.scrollWidth > destinations.clientWidth) {
-              destinations.classList.add("has-scroll");
-            } else {
-              destinations.classList.remove("has-scroll");
-            }
-          };
-
-          // Run on load and resize
-          toggleScrollbar();
-          window.addEventListener("resize", toggleScrollbar);
-
           // Prevent image and link dragging
           destinations.querySelectorAll("img, a").forEach((el) => {
             el.addEventListener("dragstart", (e) => e.preventDefault());

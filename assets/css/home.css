@@ -201,20 +201,12 @@ section {
   user-select: none;
   -webkit-user-drag: none;
   cursor: grab;
-  scrollbar-width: none; /* Initially hide in Firefox */
-}
-
-.destinations::-webkit-scrollbar {
-  height: 0; /* Initially hide in WebKit */
-}
-
-.destinations.has-scroll {
-  scrollbar-width: thin; /* Show in Firefox when scrollable */
+  scrollbar-width: thin;
   scrollbar-color: var(--accent) transparent;
 }
 
-.destinations.has-scroll::-webkit-scrollbar {
-  height: 8px; /* Show in WebKit when scrollable */
+.destinations::-webkit-scrollbar {
+  height: 8px;
 }
 
 .destinations::-webkit-scrollbar-track {
