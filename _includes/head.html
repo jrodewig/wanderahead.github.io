@@ -1,6 +1,15 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<!-- Favicon -->
-<link href="/assets/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<!-- Favicons -->
+<link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png" />
+<link rel="android-chrome-192x192" type="image/png" href="/assets/img/android-chrome-192x192.png" />
+<link rel="android-chrome-512x512" type="image/png" href="/assets/img/android-chrome-512x512.png" />
+<link rel="manifest" href="/site.webmanifest" />
+<meta name="theme-color" content="#a2404b" />
+<meta name="msapplication-TileColor" content="#a2404b" />
 
 <!-- Preload the font files -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -30,9 +39,6 @@
   <link rel="stylesheet" href="/assets/css/style.css" />
 </noscript>
 
-<!-- Favicon -->
-<link href="/assets/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-
 {% if page.name == "index.html" %}
 <title>{{site.title}}</title>
 <meta property="og:title" content="{{site.title}}" />
@@ -41,7 +47,9 @@
 <title>{{page.title}} | {{site.title}}</title>
 <meta property="og:title" content="{{page.title}} | {{site.title}}" />
 <meta property="twitter:title" content="{{page.title}} | {{site.title}}" />
-{% endif %} {% if page.description %}
+{% endif %}
+
+{% if page.description %}
 <meta name="description" content="{{page.description}}" />
 <meta property="og:description" content="{{page.description}}" />
 {% else if page.excerpt %}
@@ -58,10 +66,12 @@
 />
 {% endif %}
 
-<meta property="og:locale" content="en_US" />
 <link rel="canonical" href="{{site.url}}{{page.url}}" />
+
+<meta property="og:locale" content="en_US" />
 <meta property="og:url" content="{{site.url}}{{page.url}}" />
 <meta property="og:site_name" content="{{site.title}}" />
 <meta property="og:image" content="{{site.url}}{{page.image}}" />
+
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="twitter:image" content="{{site.url}}{{page.image}}" />
