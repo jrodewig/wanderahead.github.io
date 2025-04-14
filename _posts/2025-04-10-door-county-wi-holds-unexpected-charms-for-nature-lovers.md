@@ -81,8 +81,11 @@ only briefly. Once inside the park, I'm surrounded by the postcard panoramas I
 was hoping for: towering hardwoods like oak, beech, and maples intermixed with
 evergreens, all comfortably blanketed in white.
 
-<img                                                                                                                                               src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp"                                                                                                                                srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-320.webp 320w,                                                                                                                                /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-480.webp 480w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp 665w"
+<img
+  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp"
+  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-320.webp 320w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-480.webp 480w,
+          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Boynton Chapel, a stavkirke in the Björklunden, in Door County, WI"
   width="665"
