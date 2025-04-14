@@ -30,4 +30,4 @@ defaults:
     values:
       layout: default
       title: Wander Ahead
-      image: /assets/img/logo.svg
+      image: /assets/img/default/wander-ahead.webp
