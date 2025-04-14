@@ -31,7 +31,7 @@
 </noscript>
 
 {% if page.name == "index.html" %}
-<title>{{page.title}}</title>
+<title>{{page.title}} | {{site.title}}</title>
 <meta property="og:title" content="{{page.title}}" />
 <meta property="twitter:title" content="{{page.title}}" />
 {% else %}
@@ -54,5 +54,3 @@
   content="{{ page.content | strip_html | truncatewords: 25 }}"
 />
 {% endif %}
-
-<meta name="robots" content="noindex, nofollow" />
