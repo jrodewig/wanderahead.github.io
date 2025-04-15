@@ -124,7 +124,6 @@ a:hover {
 }
 
 /* ---------------------------------------- */
-
 /* Footer
 /*---------------------------------------- */
 
@@ -164,7 +163,6 @@ a:hover {
 .footer .copyright p {
   margin: 0;
   font-size: 14px;
-  color: var(--meta);
 }
 
 @media (width <= 768px) {
