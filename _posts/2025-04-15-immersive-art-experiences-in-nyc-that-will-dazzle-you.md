@@ -1,5 +1,5 @@
 ---
-title: 8 Immersive Art Experiences in NYC That Will Dazzle You
+title: 8 Immersive NYC Art Experiences That Will Dazzle You
 image: /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/immersize-art-nyc.webp
 featured: true
 category: Ohio
