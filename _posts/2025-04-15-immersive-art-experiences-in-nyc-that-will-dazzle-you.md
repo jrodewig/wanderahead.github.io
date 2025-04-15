@@ -140,7 +140,7 @@ sandcastles with magnetic sand. Every experience is different.
 "Interactive" can mean different things to different people. It can mean
 anything from pressing a button to immersive performance to just being able to
 touch the art. It's rare for "interactive" to mean climbing *inside* the art,
-but that's exactly what you'll do at Vessel."
+but that's exactly what you'll do at Vessel.
 
 A 150-foot sculpture outside Manhattan's Hudson Yards, Vessel is climbable art,
 consisting of 154 flights of interlocking stairs. With 500 steps and 80 landings
@@ -186,18 +186,6 @@ Floating outside Pier 55 in the Hudson River, this 2.5-acre gem rests on funky,
 funnel-shaped white columns. It's free, open to all ages, and steps from spots
 like the High Line and Chelsea Market, so it slides right into your NYC
 adventure.
-
-<img
-  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/nighttime-show-little-island-nyc-665.webp"
-  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/nighttime-show-little-island-nyc-320.webp 320w,
-          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/nighttime-show-little-island-nyc-480.webp 480w,
-          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/nighttime-show-little-island-nyc-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="A nighttime show at Little Island in NYC"
-  width="665"
-  height="443"
-  loading="lazy"
-/>
 
 Whimsy's the name of the game here: think lush gardens, scampering wildlife, and
 playful vibes that spark imagination. Depending on the season, you might grab a
