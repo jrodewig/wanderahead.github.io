@@ -11,7 +11,7 @@ excerpt: From experiental theatre to climbable sculpture, NYC has unique immersi
 NYC is known for its lively and vibrant art scene. Stunning work fills museums,
 galleries, and stages throughout the city. But NYC is also home to the type of
 immersive, experiential art you're not going to find anywhere else. For
-something unforgettable, explore these eight experiences.
+something unforgettable, check out these unique experiences.
 
 ## 1. Life and Trust
 
@@ -26,6 +26,7 @@ something unforgettable, explore these eight experiences.
   height="443"
   loading="lazy"
 />
+<sub>Credit: Jane Kratochvil</sub>
 
 A lot of experiences claim to be unique and immersive. I've tried dozens. None
 come close to Life and Trust.
@@ -51,6 +52,7 @@ his youth the night before the 1929 stock market crash.
   height="443"
   loading="lazy"
 />
+<sub>Photo credit: Stephanie Crousillat</sub>
 
 But the story isn't all about Conwell. The narrative is non-linear and sprawls
 across a cast of nearly 30 characters, including swindlers, mad scientists, and
@@ -358,12 +360,12 @@ to steal tastes of the creamy filling as kids.
 ### Market 57
 
 <img
-  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/mediterranean-beef-bowl-with-hummus-at-market-57-665.webp"
-  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/mediterranean-beef-bowl-with-hummus-at-market-57-320.webp 320w,
-          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/mediterranean-beef-bowl-with-hummus-at-market-57-480.webp 480w,
-          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/mediterranean-beef-bowl-with-hummus-at-market-57-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
-  alt="Mediterranean beef bowl with Hummus at Market 57 in NYC"
+  alt="Interior of Market 57 in NYC"
   width="665"
   height="499"
   loading="lazy"
