@@ -2,7 +2,7 @@
 title: 8 Immersive NYC Art Experiences That Will Dazzle You
 image: /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/immersize-art-nyc.webp
 featured: true
-category: Ohio
+category: New York
 layout: post
 author: Cheryl Rodewig
 excerpt: From experiental theatre to climbable sculpture, NYC has unique immersive art you can't find anywhere else.
