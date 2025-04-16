@@ -1,10 +1,89 @@
----
-title: 404
-sitemap: false
-permalink: /404.html
----
+<!doctype html>
+<html lang="en-US">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-<div style="text-align: center">
+<!-- Favicons -->
+<link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
+<link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png" />
+<link rel="android-chrome-192x192" type="image/png" href="/assets/img/android-chrome-192x192.png" />
+<link rel="android-chrome-512x512" type="image/png" href="/assets/img/android-chrome-512x512.png" />
+<link rel="manifest" href="/site.webmanifest" />
+<meta name="theme-color" content="#a2404b" />
+<meta name="msapplication-TileColor" content="#a2404b" />
+<meta name="apple-mobile-web-app-title" content="Wander Ahead" />
+<meta name="application-name" content="Wander Ahead" />
+
+<!-- Preload the font files -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="preload"
+  as="style"
+  href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+/>
+
+<!-- Load the font stylesheet -->
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+/>
+
+<!-- Preload CSS with non-blocking technique -->
+<link
+  rel="preload"
+  href="/assets/css/style.css"
+  as="style"
+  onload="this.rel='stylesheet'"
+/>
+
+<!-- Fallback for browsers that don't support the onload technique -->
+<noscript>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</noscript>
+
+
+<title>404 | Wander Ahead</title>
+<meta property="og:title" content="404 | Wander Ahead" />
+<meta property="twitter:title" content="404 | Wander Ahead" />
+
+
+
+<meta name="description" content="" />
+<meta property="og:description" content="" />
+
+
+<link rel="canonical" href="http://localhost:4000/404.html" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="http://localhost:4000/404.html" />
+<meta property="og:site_name" content="Wander Ahead" />
+<meta property="og:image" content="http://localhost:4000/assets/img/default/wander-ahead.webp" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/assets/img/default/wander-ahead.webp" />
+
+
+  <body>
+    <nav class="nav fixed-width">
+  <a href="/" title="Wander Ahead"
+    ><img
+      src="/assets/img/logo.svg"
+      width="124"
+      height="32"
+      alt="Wander Ahead Logo"
+  /></a>
+  <!-- <a href="#" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+      <path fill-rule="evenodd"
+        d="M2 4.75A.75.75 0 0 1 2.75 4h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 4.75ZM2 10a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 10Zm0 5.25a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z"
+        clip-rule="evenodd"></path>
+    </svg></a> -->
+</nav>
+
+    <main class="post fixed-width"><div style="text-align: center">
   <h1>Nope. 404 Error.</h1>
   <div style="font-size: 18px">
     <p>
@@ -14,3 +93,32 @@ permalink: /404.html
     <p>Maybe check the <a href="/">home page</a>?</p>
   </div>
 </div>
+</main>
+    <footer class="footer fixed-width">
+  
+  <div class="copyright">
+    <p>&copy; 2025 Wander Ahead. All rights reserved.</p>
+  </div>
+</footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const links = document.getElementsByTagName("a");
+
+    for (let link of links) {
+      if (link.hostname && link.hostname !== window.location.hostname) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    }
+  });
+</script>
+<!-- Cloudflare Web Analytics -->
+<script
+  defer
+  src="https://static.cloudflareinsights.com/beacon.min.js"
+  data-cf-beacon='{"token": "b8a7a772610b47d8ae782abd78fde74b"}'
+></script>
+<!-- End Cloudflare Web Analytics -->
+
+  </body>
+</html>
