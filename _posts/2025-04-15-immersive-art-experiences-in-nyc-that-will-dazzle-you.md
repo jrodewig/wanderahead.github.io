@@ -1,5 +1,5 @@
 ---
-title: 8 Immersive NYC Art Experiences That Will Dazzle You
+title: 8 Immersive Art in NYC Experiences That Will Dazzle You
 image: /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/immersize-art-nyc.webp
 featured: true
 category: New York
@@ -29,7 +29,7 @@ something unforgettable, check out these unique experiences.
 <sub>Credit: Jane Kratochvil</sub>
 
 A lot of experiences claim to be unique and immersive. I've tried dozens. None
-come close to Life and Trust.
+come close to [Life and Trust](https://lifeandtrustnyc.com/).
 
 Life and Trust is a theatrical experience. But if you're thinking of
 uncomfortable seats and sleepy audiences, think again. This immersive play
@@ -142,7 +142,7 @@ sandcastles with magnetic sand. Every experience is different.
 "Interactive" can mean different things to different people. It can mean
 anything from pressing a button to immersive performance to just being able to
 touch the art. It's rare for "interactive" to mean climbing *inside* the art,
-but that's exactly what you'll do at Vessel.
+but that's exactly what you'll do at [Vessel](https://www.hudsonyardsnewyork.com/discover/vessel).
 
 A 150-foot sculpture outside Manhattan's Hudson Yards, Vessel is climbable art,
 consisting of 154 flights of interlocking stairs. With 500 steps and 80 landings
@@ -182,7 +182,7 @@ serve as a frame for your photos.
   loading="lazy"
 />
 
-Every city has a playground. But only New York has Little Island.
+Every city has a playground. But only New York has [Little Island](https://littleisland.org/).
 
 Floating outside Pier 55 in the Hudson River, this 2.5-acre gem rests on funky,
 funnel-shaped white columns. It's free, open to all ages, and steps from spots
@@ -214,10 +214,11 @@ what's going on during your visit.
   loading="lazy"
 />
 
-Despite the Museum moniker, you won't find stuffy galleries at New York's Museum
-of Ice Cream. How does "Unlimited ice cream" sound? Or "NYC's tallest indoor
-slide?" If that doesn't grab you, maybe diving into a sprinkle-filled pool or
-slurping stretchy booza ice cream will seal the deal.
+Despite the Museum moniker, you won't find stuffy galleries at New York's
+[Museum of Ice Cream](https://www.museumoficecream.com/). How does "Unlimited
+ice cream" sound? Or "NYC's tallest indoor slide?" If that doesn't grab you,
+maybe diving into a sprinkle-filled pool or slurping stretchy booza ice cream
+will seal the deal.
 
 The Museum of Ice Cream isn't just another museum in a city stacked with them.
 It's three floors of pure, unfiltered fun, with 12 interactive stations all
@@ -260,10 +261,11 @@ it over a world built with ice cream. Grown-ups will have a blast too.
   loading="lazy"
 />
 
-Located in the lights and bustle of Times Square, RiseNY is an attraction
-designed like a love letter to New York. Opened in March 2022, it's the city
-distilled into one wild ride. No time for the Statue of Liberty or Broadway?
-You'll get a juicy taste of the whole Big Apple here.
+Located in the lights and bustle of Times Square,
+[RiseNY](https://www.riseny.co/?srsltid=AfmBOorNpHlx4eYZNHzFVJytNWZ3jDhw6b_ZTw6L0wx8L1eJa_dsaDsY)
+is an attraction designed like a love letter to New York. Opened in March 2022,
+it's the city distilled into one wild ride. No time for the Statue of Liberty or
+Broadway? You'll get a juicy taste of the whole Big Apple here.
 
 It kicks off with a film narrated by Jeff Goldblum, who spins the tale of NYC's
 electric history with Times Square as its beating heart. Next, you hop on a
@@ -346,9 +348,10 @@ adventure.
   loading="lazy"
 />
 
-Want to take a step outside New York? Mercado Little Spain is a slice of Iberia
-right in the city. Created by Chef José Andrés, the market is three restaurants
-and a sprawl of kiosks dishing up Spain's best bites all day long.
+Want to take a step outside New York? [Mercado Little
+Spain](https://www.littlespain.com/) is a slice of Iberia right in the city.
+Created by Chef José Andrés, the market is three restaurants and a sprawl of
+kiosks dishing up Spain's best bites all day long.
 
 La Barra, one of its full-service spots, teleports you to Barcelona. There's a
 dish to please everyone. The Jamón Ibérico de Bellota — you know, the giant ham
@@ -371,11 +374,12 @@ to steal tastes of the creamy filling as kids.
   loading="lazy"
 />
 
-Just a short walk from Little Island, Market 57 is an international foodie hall
-on Pier 57's ground floor in Chelsea. Opened in 2023 with the James Beard
-Foundation's culinary cred, the market's various stalls dish up everything from
-Indian dosas and Thai curries, to Mexican tacos and Caribbean wings. Coffee,
-craft beer, boba tea? You can get it at Market 57.
+Just a short walk from Little Island, [Market
+57](https://pier57nyc.com/market-57/) is an international foodie hall on Pier
+57's ground floor in Chelsea. Opened in 2023 with the James Beard Foundation's
+culinary cred, the market's various stalls dish up everything from Indian dosas
+and Thai curries, to Mexican tacos and Caribbean wings. Coffee, craft beer, boba
+tea? You can get it at Market 57.
 
 If you want to enjoy your food with a view, take your meal up to Pier 57's
 rooftop. It's a two-acre park with Hudson River views that'll make your visit
@@ -395,10 +399,11 @@ memorable.
   loading="lazy"
 />
 
-If you want a casual vibe and tasty food, Moynihan Food Hall delivers. With 22
-vendors, it's a feast: ramen, sushi, Southern comfort, burgers, bakeries, and
-craft brews. A chic central bar keeps things lively, and there's tons of
-seating, even when it's buzzing at weekend lunch.
+If you want a casual vibe and tasty food, [Moynihan Food
+Hall](https://www.moynihanfoodhall.com/) delivers. With 22 vendors, it's a
+feast: ramen, sushi, Southern comfort, burgers, bakeries, and craft brews. A
+chic central bar keeps things lively, and there's tons of seating, even when
+it's buzzing at weekend lunch.
 
 If you want a classic NYC slice, stop by Sauce Pizzeria. I opted for a vodka
 slice with a crisp, thin crust and sauce that slaps. If you want lighter fare,
