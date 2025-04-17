@@ -5,9 +5,11 @@
 
 :root {
   --bg: #fff;
-  --black: ##1c1c1c;
+  --black: #1c1c1c;
   --meta: #8c756a;
   --accent: #a2404b;
   --hover: #82333c;
+  --border: #ccc;
+  --border-hover: #f0f0f0;
   --font-size: 16px;
 }
