@@ -7,7 +7,7 @@ collections:
     output: true
     permalink: /article/:title/
   destinations:
-    output: true
+    output: false
     permalink: /:name/
 
 plugins:

@@ -47,7 +47,7 @@
         </picture>
       </div>
       <h1>{{ page.title }}</h1>
-      <p class="excerpt">{{ page.content | strip_html }}</p>
+      <p class="excerpt">{{ page.excerpt | strip_html }}</p>
       <div class="tiles">
         {% assign category_posts = '' | split: '' %}
         {% for post in site.posts %}
@@ -56,7 +56,7 @@
           {% endif %}
         {% endfor %}
 
-        {% assign posts_per_page = 1 %}
+        {% assign posts_per_page = 24 %}
         {% assign total_posts = category_posts.size %}
         {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
         {% assign current_page = page.current_page | default: 1 %}
@@ -96,7 +96,7 @@
           {% if current_page == 2 %}
             <a href="/{{ page.title | downcase }}/" class="prev">Previous</a>
           {% else %}
-            <a href="/{{ page.title | downcase }}/page{{ current_page | minus: 1 }}" class="prev">Previous</a>
+            <a href="/{{ page.title | downcase }}/{{ current_page | minus: 1 }}" class="prev">Previous</a>
           {% endif %}
         {% endif %}
         
@@ -107,13 +107,13 @@
             {% if page_num == 1 %}
               <a href="/{{ page.title | downcase }}/">{{ page_num }}</a>
             {% else %}
-              <a href="/{{ page.title | downcase }}/page/{{ page_num }}">{{ page_num }}</a>
+              <a href="/{{ page.title | downcase }}/{{ page_num }}">{{ page_num }}</a>
             {% endif %}
           {% endif %}
         {% endfor %}
         
         {% if current_page < total_pages %}
-          <a href="/{{ page.title | downcase }}/page{{ current_page | plus: 1 }}" class="next">Next</a>
+          <a href="/{{ page.title | downcase }}/{{ current_page | plus: 1 }}" class="next">Next</a>
         {% endif %}
       </div>
       {% endif %}

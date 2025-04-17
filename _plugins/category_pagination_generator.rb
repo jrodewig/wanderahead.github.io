@@ -35,7 +35,7 @@ module Jekyll
       if page_num == 1
         @dir = destination_path
       else
-        @dir = "#{destination_path}/page/#{page_num}"
+        @dir = "#{destination_path}/#{page_num}"
       end
       
       @name = 'index.html'
@@ -48,6 +48,12 @@ module Jekyll
       self.data['current_page'] = page_num
       self.data['total_pages'] = total_pages
       self.data['posts'] = posts
+      
+      # Only show content on first page
+      if page_num > 1
+        self.data['is_paginated'] = true
+        self.content = ''
+      end
     end
   end
 end
