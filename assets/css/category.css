@@ -1,3 +1,5 @@
+@import url("./var.css");
+
 .category-page h1 {
   font-size: 46px;
   line-height: 52px;
@@ -31,20 +33,18 @@
   margin: 2rem 0;
 }
 
+.pagination span,
 .pagination a {
-  padding: 0.5rem 1rem;
-  border: 1px solid #ccc;
-  text-decoration: none;
-  border-radius: 4px;
+  padding: 0 0.5rem;
+  transition: transform 0.3s ease;
 }
 
 .pagination .current {
-  padding: 0.5rem 1rem;
-  background-color: #f0f0f0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  color: var(--hover);
+  text-decoration: underline;
 }
 
 .pagination a:hover {
-  background-color: #f0f0f0;
+  color: var(--hover);
+  text-decoration: underline;
 }
