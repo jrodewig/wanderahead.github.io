@@ -49,7 +49,20 @@
       <h1>{{ page.title }}</h1>
       <p class="excerpt">{{ page.content | strip_html }}</p>
       <div class="tiles">
-        {% for post in site.posts %} {% if post.category == page.title %}
+        {% assign category_posts = '' | split: '' %}
+        {% for post in site.posts %}
+          {% if post.category == page.title %}
+            {% assign category_posts = category_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign posts_per_page = 1 %}
+        {% assign total_posts = category_posts.size %}
+        {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
+        {% assign current_page = page.current_page | default: 1 %}
+        {% assign offset = current_page | minus: 1 | times: posts_per_page %}
+
+        {% for post in category_posts limit: posts_per_page offset: offset %}
         <div class="article tile">
           <div class="image">
             <a href="{{ post.url }}">
@@ -74,8 +87,36 @@
             </a>
           </div>
         </div>
-        {% endif %} {% endfor %}
+        {% endfor %}
       </div>
+
+      {% if total_pages > 1 %}
+      <div class="pagination">
+        {% if current_page > 1 %}
+          {% if current_page == 2 %}
+            <a href="/{{ page.title | downcase }}/" class="prev">Previous</a>
+          {% else %}
+            <a href="/{{ page.title | downcase }}/page{{ current_page | minus: 1 }}" class="prev">Previous</a>
+          {% endif %}
+        {% endif %}
+        
+        {% for page_num in (1..total_pages) %}
+          {% if page_num == current_page %}
+            <span class="current">{{ page_num }}</span>
+          {% else %}
+            {% if page_num == 1 %}
+              <a href="/{{ page.title | downcase }}/">{{ page_num }}</a>
+            {% else %}
+              <a href="/{{ page.title | downcase }}/page/{{ page_num }}">{{ page_num }}</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        
+        {% if current_page < total_pages %}
+          <a href="/{{ page.title | downcase }}/page{{ current_page | plus: 1 }}" class="next">Next</a>
+        {% endif %}
+      </div>
+      {% endif %}
     </main>
     {% include footer.html %}
   </body>
