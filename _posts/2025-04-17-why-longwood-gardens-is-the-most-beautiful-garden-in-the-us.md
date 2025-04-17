@@ -120,7 +120,7 @@ In the summertime, the Main Fountain Garden uses 1,719 hydraulic jets to spray
 thousands of gallons of water into the air daily for the Festival of Fountains. Go at
 night when they up the ante with synchronized lights, music, and even fire.
 
-## Check out the Longwood Estate
+## Check Out the Peirce-du Pont House
 
 <img
   src="/assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp"
