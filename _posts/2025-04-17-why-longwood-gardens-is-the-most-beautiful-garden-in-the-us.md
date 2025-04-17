@@ -75,8 +75,7 @@ site.
 
 Expecting rainy weather? Don't worry. Longwood has a maze of indoor gardens and
 conservatories. Inside, you'll find an array of dogwoods, poppies, hydrangeas,
-and jasmine. There's even a Mediterranean-inspired garden interlaced with
-canals.
+and jasmine. There's even a new 32,000-square-foot Mediterranean-inspired garden.
 
 And, of course, the orchids: They have around 6,200 in total with only a few
 hundred of the best on display. That changes each March during Orchid
