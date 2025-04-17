@@ -1,5 +1,5 @@
 ---
-title: Why Longwood Gardens is America's Most Beautiful Garden
+title: Why Longwood Gardens Is America's Most Beautiful Garden
 image: /assets/img/2025-04-17-longing-for-longwood/longwood-gardens.webp
 featured: true
 category: Pennsylvania
@@ -135,10 +135,10 @@ night when they up the ante with synchronized lights, music, and even fire.
   loading="lazy"
 />
 
-Just past the conservatories, you'll find the Peirce-du Pont House, the oldest
+Just past the conservatories, you'll find the Peirce-du Pont house, the oldest
 building on the property. It's not a grand château but a Quaker-built farmhouse
 from 1730, now wrapped in ivy and wisteria. Inside, you won't find chandeliers
-or velvet settees—just a bright conservatory brimming with tropical plants.
+or velvet settees — just a bright conservatory brimming with tropical plants.
 
 
 Not all of the history is gone, though. Step further in and you'll find small
