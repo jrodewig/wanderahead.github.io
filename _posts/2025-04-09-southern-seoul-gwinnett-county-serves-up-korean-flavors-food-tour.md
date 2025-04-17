@@ -1,5 +1,5 @@
 ---
-title: "Southern Seoul: Gwinnett County Serves Up Korean Flavors, Food Tour"
+title: "Southern Seoul: Gwinnett County Serves Up Korean Flavors"
 image: /assets/img/2025-04-09-southern-seoul-gwinnett-county-serves-up-korean-flavors-food-tour/korean-food-in-gwinnett-county.webp
 featured: true
 category: Georgia

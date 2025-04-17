@@ -1,5 +1,5 @@
 ---
-title: In Door County, Wisconsin, Winter Holds Unexpected Charms for Nature Lovers
+title: In Door County, Wisconsin, Winter Holds Unexpected Charms
 image: /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-trees-in-door-county-wi.webp
 featured: true
 category: Wisconsin
