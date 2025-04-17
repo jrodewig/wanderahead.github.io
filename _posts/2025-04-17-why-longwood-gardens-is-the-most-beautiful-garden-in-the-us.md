@@ -1,5 +1,5 @@
 ---
-title: Longing for Longwood
+title: Why Longwood Gardens is America's Most Beautiful Garden
 image: /assets/img/2025-04-17-longing-for-longwood/longwood-gardens.webp
 featured: true
 category: Pennsylvania
@@ -14,8 +14,6 @@ Gardens](https://longwoodgardens.org/). Once a wealthy industrialist's summer
 estate and before that, a Quaker farm, this Pennsylvania retreat has grown over
 centuries into the showplace we see today: more than 1,000 acres of trees,
 topiaries, fountains, and flowers.
-
-## Eden in Pennsylvania
 
 <img
   src="/assets/img/2025-04-17-longing-for-longwood/display-at-longwood-gardens-665.webp"
@@ -75,9 +73,10 @@ yourself at least three hours to see it all.
 Most of the plants used in the displays are grown in production greenhouses on
 site.
 
-Even rainy days are resplendent inside Longwood's maze of indoor gardens where
-hydrangeas, jasmine, and poppies bloom eternal. There's even a
-Mediterranean-inspired garden interlaced with canals.
+Expecting rainy weather? Don't worry. Longwood has a maze of indoor gardens and
+conservatories. Inside, you'll find an array of dogwoods, poppies, hydrangeas,
+and jasmine. There's even a Mediterranean-inspired garden interlaced with
+canals.
 
 And, of course, the orchids: They have around 6,200 in total with only a few
 hundred of the best on display. That changes each March during Orchid
@@ -98,7 +97,7 @@ Extravaganza when Longwood imports thousands of orchids from around the world.
 There are hanging baskets dripping with orchids. There are towers with orchids.
 They fill two ponds in the East Conservatory like orchid meadows.
 
-## Walk the Grounds
+## See the Fountains and Outdoor Gardens
 
 <img
   src="/assets/img/2025-04-17-longing-for-longwood/main-fountain-garden-longwood-665.webp"
@@ -122,7 +121,32 @@ In the summertime, the Main Fountain Garden uses 1,719 hydraulic jets to spray
 thousands of gallons of water into the air daily for the Festival of Fountains. Go at
 night when they up the ante with synchronized lights, music, and even fire.
 
-## Holidays at the Gardens
+## Check out the Longwood Estate
+
+<img
+  src="/assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp"
+  srcset="/assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-320.webp 320w,
+          /assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-480.webp 480w,
+          /assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt=""
+  width="665"
+  height="445"
+  loading="lazy"
+/>
+
+Just past the conservatories, you'll find the Peirce-du Pont House, the oldest
+building on the property. It's not a grand château but a Quaker-built farmhouse
+from 1730, now wrapped in ivy and wisteria. Inside, you won't find chandeliers
+or velvet settees—just a bright conservatory brimming with tropical plants.
+
+
+Not all of the history is gone, though. Step further in and you'll find small
+exhibits with photographs, videos, and early plans that trace Longwood's
+beginnings. If you're feeling warm or just need a quiet spot to pause, the House
+makes a perfect place to rest a spell.
+
+## Enjoy the Holidays at Longwood Gardens
 
 <img
   src="/assets/img/2025-04-17-longing-for-longwood/pool-at-longwood-gardens-665.webp"
