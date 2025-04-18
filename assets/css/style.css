@@ -5,10 +5,6 @@
 /* Defaults + fallback
 /*---------------------------------------- */
 
-@view-transition {
-  navigation: auto;
-}
-
 body {
   background-color: var(--bg);
   font-family: "Noto Serif", serif;
