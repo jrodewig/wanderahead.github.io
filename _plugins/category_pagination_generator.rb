@@ -30,7 +30,10 @@ module Jekyll
       @site = site
       @base = site.source
       
-      destination_path = destination_doc.data['title'].downcase
+      destination_path = destination_doc.data['title']
+        .downcase
+        .gsub(/[^a-z0-9\s-]/, '')
+        .gsub(/\s+/, '-')
       
       if page_num == 1
         @dir = destination_path
