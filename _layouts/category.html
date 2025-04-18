@@ -56,7 +56,7 @@
           {% endif %}
         {% endfor %}
 
-        {% assign posts_per_page = 24 %}
+        {% assign posts_per_page = 1 %}
         {% assign total_posts = category_posts.size %}
         {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
         {% assign current_page = page.current_page | default: 1 %}
@@ -90,15 +90,16 @@
 
       {% if total_pages > 1 %}
       <div class="pagination">
+        {% assign url_safe_title = page.title | downcase | replace: ' ', '-' | replace: "'", '' %}
         {% if current_page > 1 %}
           {% if current_page == 2 %}
-            <a href="/{{ page.title | downcase }}/" class="prev">
+            <a href="/{{ url_safe_title }}/" class="prev">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                 <path d="M15 4L7 12L15 20" fill="currentColor"/>
               </svg>
             </a>
           {% else %}
-            <a href="/{{ page.title | downcase }}/{{ current_page | minus: 1 }}" class="prev">
+            <a href="/{{ url_safe_title }}/{{ current_page | minus: 1 }}" class="prev">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                 <path d="M15 4L7 12L15 20" fill="currentColor"/>
               </svg>
@@ -111,15 +112,15 @@
             <span class="current">{{ page_num }}</span>
           {% else %}
             {% if page_num == 1 %}
-              <a href="/{{ page.title | downcase }}/">{{ page_num }}</a>
+              <a href="/{{ url_safe_title }}/">{{ page_num }}</a>
             {% else %}
-              <a href="/{{ page.title | downcase }}/{{ page_num }}">{{ page_num }}</a>
+              <a href="/{{ url_safe_title }}/{{ page_num }}">{{ page_num }}</a>
             {% endif %}
           {% endif %}
         {% endfor %}
         
         {% if current_page < total_pages %}
-          <a href="/{{ page.title | downcase }}/{{ current_page | plus: 1 }}" class="next">
+          <a href="/{{ url_safe_title }}/{{ current_page | plus: 1 }}" class="next">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
               <path d="M9 4L17 12L9 20" fill="currentColor"/>
             </svg>
