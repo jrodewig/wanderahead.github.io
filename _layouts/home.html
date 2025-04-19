@@ -95,6 +95,10 @@
               <a href="{{ post.url  | relative_url }}">
                 <picture>
                   <source
+                    media="(max-width: 384px)"
+                    srcset="{{ post.image | replace: '.webp', '-384x256.webp' }}"
+                  />
+                  <source
                     media="(max-width: 768px)"
                     srcset="{{ post.image | replace: '.webp', '-768x512.webp' }}"
                   />
