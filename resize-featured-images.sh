@@ -24,7 +24,7 @@ echo "Converting original to WebP..."
 magick "$input" -quality 75 -define webp:method=6 "$base.webp"
 
 # Array of sizes
-sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x320" "1440x600")
+sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x512" "1440x600")
 
 # Loop through sizes
 for size in "${sizes[@]}"; do
