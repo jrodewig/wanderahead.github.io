@@ -63,7 +63,7 @@
   }
 
   .article.tile .image {
-    aspect-ratio: 768 / 320;
+    aspect-ratio: 768 / 512;
   }
 
   .article.tile .image a img {
