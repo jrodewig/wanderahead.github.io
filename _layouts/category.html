@@ -71,17 +71,23 @@
             <a href="{{ post.url }}">
               <picture>
                 <source
-                  media="(max-width: 384px)"
+                  media="(max-width: 450px)"
                   srcset="{{ post.image | replace: '.webp', '-384x256.webp' }}"
+                  sizes="calc(100vw - 32px)"
                 />
                 <source
                   media="(max-width: 768px)"
                   srcset="{{ post.image | replace: '.webp', '-768x512.webp' }}"
+                  sizes="calc(100vw - 32px)"
+                />
+                <source
+                  srcset="{{ post.image | replace: '.webp', '-384x256.webp' }}"
+                  sizes="384px"
                 />
                 <img
                   src="{{ post.image | replace: '.webp', '-384x256.webp' }}"
                   alt="{{ post.title }}"
-                  width="384" 
+                  width="384"
                   height="256"
                   loading="lazy"
                 />
