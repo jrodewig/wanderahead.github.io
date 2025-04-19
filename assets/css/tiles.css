@@ -62,8 +62,13 @@
     margin-bottom: 40px;
   }
 
+  .article.tile .image {
+    aspect-ratio: 768 / 320;
+  }
+
   .article.tile .image a img {
     width: 100%;
     object-fit: cover;
+    height: auto;
   }
 }
