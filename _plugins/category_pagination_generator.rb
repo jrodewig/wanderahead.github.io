@@ -14,7 +14,7 @@ module Jekyll
         
         next unless destination_doc
         
-        posts_per_page = 1
+        posts_per_page = 24
         total_pages = (posts.length.to_f / posts_per_page).ceil
 
         (1..total_pages).each do |page_num|
