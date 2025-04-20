@@ -89,7 +89,7 @@
                   alt="{{ post.title }}"
                   width="384"
                   height="256"
-                  loading="lazy"
+                  {% unless forloop.first %}loading="lazy"{% endunless %}
                 />
               </picture>
             </a>
