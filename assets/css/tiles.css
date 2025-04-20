@@ -40,23 +40,11 @@
   margin-bottom: 10px;
   aspect-ratio: 384 / 256;
   overflow: hidden;
-  position: relative;
-  width: 100%;
-}
-
-.article.tile .image a {
-  display: block;
-  width: 100%;
-  height: 100%;
 }
 
 .article.tile .image a img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  max-width: 100%;
+  aspect-ratio: 384 / 256;
   transition: transform 0.3s ease;
 }
 
@@ -75,11 +63,12 @@
   }
 
   .article.tile .image {
-    aspect-ratio: 384 / 256;
+    aspect-ratio: 768 / 512;
   }
 
   .article.tile .image a img {
     width: 100%;
-    height: 100%;
+    object-fit: cover;
+    height: auto;
   }
 }
