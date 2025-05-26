@@ -21,7 +21,7 @@ base="${input%.*}"
 
 # Convert original image to WebP
 echo "Converting original to WebP..."
-magick "$input" -quality 75 -define webp:method=6 "$base.webp"
+magick "$input" -auto-orient -strip -quality 75 -define webp:method=6 "$base.webp"
 
 # Array of sizes
 sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x512" "1440x600")
