@@ -19,9 +19,14 @@ input="$1"
 # Derive base name by removing the extension
 base="${input%.*}"
 
+# Strip EXIF data in-place
+echo "Stripping EXIF data from original image..."
+magick "$input" -strip "$input"
+
+
 # Convert original image to WebP
 echo "Converting original to WebP..."
-magick "$input" -auto-orient -strip -quality 75 -define webp:method=6 "$base.webp"
+magick "$input" -strip -quality 75 -define webp:method=6 "$base.webp"
 
 # Array of sizes
 sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x512" "1440x600")
@@ -29,7 +34,7 @@ sizes=("180x180" "270x270" "384x256" "588x396" "414x173" "768x512" "1440x600")
 # Loop through sizes
 for size in "${sizes[@]}"; do
   echo "Converting to $size..."
-  magick "$input" -resize "$size^" -gravity center -crop "$size+0+0" -quality 75 -define webp:method=6 "$base-$size.webp"
+  magick "$input"  -strip -resize "$size^" -gravity center -crop "$size+0+0" -quality 75 -define webp:method=6 "$base-$size.webp"
 done
 
 echo "Conversion complete!"
