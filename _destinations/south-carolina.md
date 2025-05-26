@@ -1,6 +1,6 @@
 ---
-title: North Carolina
-image: /assets/img/category/north-carolina.webp
+title: South Carolina
+image: /assets/img/category/south-carolina.webp
 layout: category
 ---
 
