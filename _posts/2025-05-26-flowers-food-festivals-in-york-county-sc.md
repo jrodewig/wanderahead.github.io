@@ -78,8 +78,8 @@ Admission is free!
 />
 
 When the azaleas at Glencairn Garden have faded, another flower takes center
-stage in York County. This bloom is much rarer. Have you heard of the rocky
-shoals spider lily?
+stage in neighboring Chester County. This bloom is much rarer. Have you heard of
+the rocky shoals spider lily?
 
 From mid-May to mid-June, the Catawba River at [Landsford Canal State
 Park](https://southcarolinaparks.com/landsford-canal) sprouts with islets of
