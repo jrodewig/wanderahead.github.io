@@ -102,6 +102,63 @@ a:hover {
   border-radius: var(--border-radius);
 }
 
+#hamburger-menu {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+#hamburger-menu svg rect {
+  fill: #000; /* Adjust color as needed */
+}
+
+.nav-overlay {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #fff;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* subtle shadow for desktop */
+  border: 1px solid rgba(0,0,0,0.1); /* subtle border for desktop */
+}
+
+.nav-overlay.hidden {
+  display: none;
+}
+
+.nav-overlay ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-overlay ul li {
+  padding: 10px;
+}
+
+.nav-overlay ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-overlay ul li a:hover {
+  color: var(--hover);
+}
+
+@media (max-width: 768px) {
+  .nav-overlay {
+    width: 100%;
+    right: 0;
+    left: 0;
+  }
+
+  .nav-overlay ul li {
+    text-align: center;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+  }
+}
+
+
 /* ---------------------------------------- */
 /* Footer
 /*---------------------------------------- */

@@ -5,4 +5,26 @@
       height="32"
       alt="Wander Ahead Logo"
   /></a>
+
+  <button id="hamburger-menu" aria-label="Toggle navigation">
+    <svg width="24" height="24" viewBox="0 0 24 24">
+      <rect width="24" height="3"></rect>
+      <rect y="8" width="24" height="3"></rect>
+      <rect y="16" width="24" height="3"></rect>
+    </svg>
+  </button>
+
+  <nav id="nav-overlay" class="nav-overlay hidden">
+    <ul>
+      {% for destination in site.destinations %}
+        <li><a href="{{ destination.url | relative_url }}">{{ destination.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
 </nav>
+
+<script>
+document.getElementById('hamburger-menu').addEventListener('click', function() {
+  document.getElementById('nav-overlay').classList.toggle('hidden');
+});
+</script>
