@@ -102,6 +102,10 @@ a:hover {
   border-radius: var(--border-radius);
 }
 
+nav span.hidden {
+  display: none;
+}
+
 #hamburger-menu {
   background: none;
   border: none;
