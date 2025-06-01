@@ -1,6 +1,6 @@
 ---
 title: Flowers, Food, and Festivals in York County, SC
-image: /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fresh-picked-strawberry-at-bush-n-vine-in-york-county.webp
+image: /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/york-county.webp
 featured: true
 category: South Carolina
 layout: post
