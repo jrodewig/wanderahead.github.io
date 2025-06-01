@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ page.layout == 'post' | default: false | jsonify | replace: 'true', 'BlogPosting' | replace: 'false', 'WebPage' }}",
+  "headline": "{{ page.title | escape }}",
+  "url": "{{ page.url | absolute_url }}",
+  {% if page.date %}
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% endif %}
+  {% if page.description %}
+  "description": "{{ page.description | escape }}",
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author | escape }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title | escape }}",
+    "url": "{{ site.url | absolute_url }}"
+  },
+  "name": "{{ site.title | escape }}"
+}
+</script>

@@ -1,5 +1,6 @@
 url: https://wanderahead.com
 title: Wander Ahead
+author: Cheryl Rodewig
 
 permalink: /:title/
 collections:
