@@ -2,6 +2,7 @@
 title: Wisconsin
 image: /assets/img/category/wisconsin.webp
 layout: category
+continent: North America
 ---
 
 From the rolling dairy farms of the Driftless Area to the sparkling shores of

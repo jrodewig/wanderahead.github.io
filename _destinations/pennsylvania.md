@@ -2,6 +2,7 @@
 title: Pennsylvania
 image: /assets/img/category/pennsylvania.webp
 layout: category
+continent: North America
 ---
 
 From the rugged peaks of the Poconos to the historic cobblestone streets of

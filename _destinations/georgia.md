@@ -2,6 +2,7 @@
 title: Georgia
 image: /assets/img/category/georgia.webp
 layout: category
+continent: North America
 ---
 
 From the gentle hills of the Blue Ridge to the quiet shores of Tybee Island,

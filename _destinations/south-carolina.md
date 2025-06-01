@@ -2,6 +2,7 @@
 title: South Carolina
 image: /assets/img/category/south-carolina.webp
 layout: category
+continent: North America
 ---
 
 From the misty peaks of the Blue Ridge to the breezy shores of the Lowcountry,

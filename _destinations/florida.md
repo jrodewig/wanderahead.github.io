@@ -2,6 +2,7 @@
 title: Florida
 image: /assets/img/category/florida.webp
 layout: category
+continent: North America
 ---
 
 From the sun-soaked beaches of Miami to the mysterious depths of the Everglades,

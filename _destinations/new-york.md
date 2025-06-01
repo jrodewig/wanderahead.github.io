@@ -2,6 +2,7 @@
 title: New York
 image: /assets/img/category/new-york.webp
 layout: category
+continent: North America
 ---
 
 From the soaring heights of Manhattan's skyline to the artistic enclaves of

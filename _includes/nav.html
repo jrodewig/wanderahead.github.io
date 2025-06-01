@@ -15,11 +15,17 @@
   </button>
 
   <nav id="nav-overlay" class="nav-overlay hidden">
-    <ul>
-      {% for destination in site.destinations %}
-        <li><a href="{{ destination.url | relative_url }}">{{ destination.title }}</a></li>
-      {% endfor %}
-    </ul>
+    {% assign destinations_by_continent = site.destinations | group_by: 'continent' %}
+    {% for group in destinations_by_continent %}
+      <div class="continent-group">
+        <h3 class="continent">{{ group.name }}</h3>
+        <ul>
+          {% for destination in group.items %}
+            <li><a href="{{ destination.url | relative_url }}">{{ destination.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
   </nav>
 </nav>
 

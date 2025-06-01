@@ -2,6 +2,7 @@
 title: Ohio
 image: /assets/img/category/ohio.webp
 layout: category
+continent: North America
 ---
 
 From the serene shores of Lake Erie to the rolling hills of Amish Country, Ohio

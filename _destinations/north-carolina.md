@@ -2,6 +2,7 @@
 title: North Carolina
 image: /assets/img/category/north-carolina.webp
 layout: category
+continent: North America
 ---
 
 Mountains, trails, gardens, and beaches — North Carolina weaves together the

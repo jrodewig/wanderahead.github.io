@@ -2,6 +2,7 @@
 title: Virginia
 image: /assets/img/category/virginia.webp
 layout: category
+continent: North America
 ---
 
 From the misty peaks of the Blue Ridge Mountains to the sun-kissed shores of
