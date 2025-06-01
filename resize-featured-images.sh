@@ -19,11 +19,6 @@ input="$1"
 # Derive base name by removing the extension
 base="${input%.*}"
 
-# Strip EXIF data in-place
-echo "Stripping EXIF data from original image..."
-magick "$input" -strip "$input"
-
-
 # Convert original image to WebP
 echo "Converting original to WebP..."
 magick "$input" -strip -quality 75 -define webp:method=6 "$base.webp"
