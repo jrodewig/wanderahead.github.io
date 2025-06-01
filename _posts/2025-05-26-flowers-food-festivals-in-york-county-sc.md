@@ -1,6 +1,6 @@
 ---
 title: Flowers, Food, and Festivals in York County, SC
-image: /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/york-county.webp
+image: /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/york-county.webp
 featured: true
 category: South Carolina
 layout: post
@@ -24,10 +24,10 @@ Here's everything to see and do on a trip to York County.
 ## Azaleas at Glencairn Garden
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/azaleas-at-glencairn-garden-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/azaleas-at-glencairn-garden-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/azaleas-at-glencairn-garden-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/azaleas-at-glencairn-garden-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/azaleas-at-glencairn-garden-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/azaleas-at-glencairn-garden-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/azaleas-at-glencairn-garden-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/azaleas-at-glencairn-garden-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Azaleas at Glencairn Garden in York County, SC"
   width="665"
@@ -44,10 +44,10 @@ shines brightest in late March and April when thousands of azaleas bloom in
 clusters of white, mauve, magenta, pale rose, and hot pink.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-azaleas-at-glencairn-garden-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-azaleas-at-glencairn-garden-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-azaleas-at-glencairn-garden-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-azaleas-at-glencairn-garden-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-azaleas-at-glencairn-garden-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-azaleas-at-glencairn-garden-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-azaleas-at-glencairn-garden-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-azaleas-at-glencairn-garden-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Azaleas at Glencairn Garden in York County, SC"
   width="665"
@@ -66,10 +66,10 @@ Admission is free!
 ## Spider Lilies at Landsford Canal
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/spider-lilies-at-landsford-canal-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/spider-lilies-at-landsford-canal-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/spider-lilies-at-landsford-canal-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/spider-lilies-at-landsford-canal-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/spider-lilies-at-landsford-canal-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/spider-lilies-at-landsford-canal-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/spider-lilies-at-landsford-canal-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/spider-lilies-at-landsford-canal-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Spider Lilies at Landsford Canal in York County, SC"
   width="665"
@@ -87,10 +87,10 @@ star-like white blossoms, the largest concentration of this kind of flower in
 the world.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/abandoned-ship-channel-at-landsford-canal-state-park-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Abandoned Ship Channel at Landsford Canal State Park in York County, SC"
   width="665"
@@ -111,10 +111,10 @@ so you wind your way among them, trying to avoid the rocks, though, never fear,
 the guide bringing up the rear will dislodge you if you get stuck.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-spider-lilies-at-landsford-canal-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-spider-lilies-at-landsford-canal-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-spider-lilies-at-landsford-canal-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/more-spider-lilies-at-landsford-canal-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-spider-lilies-at-landsford-canal-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-spider-lilies-at-landsford-canal-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-spider-lilies-at-landsford-canal-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/more-spider-lilies-at-landsford-canal-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Spider Lilies at Landsford Canal in York County, SC"
   width="665"
@@ -132,10 +132,10 @@ when the lilies are blooming before you go.
 ## U-Pick and Strawberry Ice Cream at Bush-N-Vine
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fresh-picked-strawberries-at-bush-n-vine-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Fresh picked straweberries at Bush-N-Vine in York County, SC"
   width="665"
@@ -156,9 +156,9 @@ But whatever you do, don't skip a swirl of their extraordinary strawberry ice
 cream. It merits a trip to York County all on its own.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-320.webp 320w,                                                         /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-320.webp 320w,                                                         /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/homemade-strawberry-ice-cream-at-bush-n-vine-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Homemade strawberry ice cream at Bush-N-Vine in York County, SC"
   width="665"
@@ -184,10 +184,10 @@ upcycled birdhouses.
 ## Historic Brattonsville and Nearby Sunflowers
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/sunflowers-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/sunflowers-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/sunflowers-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/sunflowers-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/sunflowers-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/sunflowers-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/sunflowers-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/sunflowers-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Sunflowers"
   width="665"
@@ -215,10 +215,10 @@ day if you show your receipt.
 ## Anne Springs Close Greenway
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/goats-at-anne-springs-close-greenway-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/goats-at-anne-springs-close-greenway-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/goats-at-anne-springs-close-greenway-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/goats-at-anne-springs-close-greenway-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/goats-at-anne-springs-close-greenway-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/goats-at-anne-springs-close-greenway-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/goats-at-anne-springs-close-greenway-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/goats-at-anne-springs-close-greenway-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Goats at Anne Springs Close Greenway in York County, SC"
   width="665"
@@ -235,10 +235,10 @@ varying degrees of interest. The rabbits, pigs, and chickens do their thing as
 you view from a distance.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/bridge-at-anne-springs-close-greenway-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/bridge-at-anne-springs-close-greenway-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/bridge-at-anne-springs-close-greenway-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/bridge-at-anne-springs-close-greenway-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/bridge-at-anne-springs-close-greenway-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/bridge-at-anne-springs-close-greenway-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/bridge-at-anne-springs-close-greenway-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/bridge-at-anne-springs-close-greenway-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Bridge at Anne Springs Close Greenway in York County, SC"
   width="665"
@@ -258,10 +258,10 @@ year, from concerts to campouts, so be sure to check out their
 ## ChristmasVille in Rock Hill
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/christmasville-in-rock-hill-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/christmasville-in-rock-hill-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/christmasville-in-rock-hill-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/christmasville-in-rock-hill-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/christmasville-in-rock-hill-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/christmasville-in-rock-hill-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/christmasville-in-rock-hill-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/christmasville-in-rock-hill-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="ChristmasVille in Rock Hill in York County, SC"
   width="665"
@@ -283,10 +283,10 @@ candles to artisan cutting boards, so you're sure to find something for that
 hard-to-buy-for friend.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/performer-at-christmasville-in-rock-hill-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/performer-at-christmasville-in-rock-hill-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/performer-at-christmasville-in-rock-hill-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/performer-at-christmasville-in-rock-hill-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/performer-at-christmasville-in-rock-hill-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/performer-at-christmasville-in-rock-hill-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/performer-at-christmasville-in-rock-hill-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/performer-at-christmasville-in-rock-hill-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Performer at ChristmasVille in Rock Hill in York County, SC"
   width="665"
@@ -303,10 +303,10 @@ It's worth mentioning why gnomes crop up so much at ChristmasVille because the
 casual visitor may be unaware. 
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/mural-on-side-of-library-at-rock-hill-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Mural on side of Library at Rock Hill in York County, SC"
   width="665"
@@ -323,10 +323,10 @@ stop in to make free ornaments.
 ## Come-See-Me Festival
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/comeseeme-festival-at-rock-hill-in-york-county-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/comeseeme-festival-at-rock-hill-in-york-county-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/comeseeme-festival-at-rock-hill-in-york-county-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/comeseeme-festival-at-rock-hill-in-york-county-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/comeseeme-festival-at-rock-hill-in-york-county-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/comeseeme-festival-at-rock-hill-in-york-county-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/comeseeme-festival-at-rock-hill-in-york-county-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/comeseeme-festival-at-rock-hill-in-york-county-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Come-See-Me Festival at Rock Hill in York County, SC"
   width="665"
@@ -347,10 +347,10 @@ year](https://www.comeseeme.org/events/).
 ## Old Town Rock Hill
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/old-town-rock-hill-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/old-town-rock-hill-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/old-town-rock-hill-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/old-town-rock-hill-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/old-town-rock-hill-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/old-town-rock-hill-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/old-town-rock-hill-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/old-town-rock-hill-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Old Town Rock Hill in York County, SC"
   width="665"
@@ -368,10 +368,10 @@ the farmers market. Visit on the first Friday of the month to find  pop-up
 markets in little alleyways with eye-catching art of all styles.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/jail-no-bail-exhibit-in-rock-hill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/jail-no-bail-exhibit-in-rock-hill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/jail-no-bail-exhibit-in-rock-hill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/jail-no-bail-exhibit-in-rock-hill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/jail-no-bail-exhibit-in-rock-hill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/jail-no-bail-exhibit-in-rock-hill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/jail-no-bail-exhibit-in-rock-hill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/jail-no-bail-exhibit-in-rock-hill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Jail, No Bail Exhibit in Rock Hill, SC"
   width="665"
@@ -389,10 +389,10 @@ on a moment in Civil Rights history that most of us don't know about.
 ## More York County Downtowns
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-york-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-york-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-york-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-york-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-york-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-york-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-york-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-york-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Downtown York, SC"                                                                                                                             width="665"
   height="499"
@@ -407,9 +407,9 @@ Stop into the 12,000-square-foot Yorkville Marketplace for vintage finds or
 visit one of the several boutiques nearby.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-fort-mill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-fort-mill-sc-320.webp 320w,                               /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-fort-mill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/downtown-fort-mill-sc-665.webp 665w"                       sizes="(max-width: 665px) 100vw, 665px"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-fort-mill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-fort-mill-sc-320.webp 320w,                               /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-fort-mill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/downtown-fort-mill-sc-665.webp 665w"                       sizes="(max-width: 665px) 100vw, 665px"
   alt="Downtown Fort Mill, SC"                                                                                                                             width="665"
   height="499"
   loading="lazy"
@@ -423,10 +423,10 @@ from clay.
 ## Replay Brewing
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/replay-brewing-in-fort-mill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/replay-brewing-in-fort-mill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/replay-brewing-in-fort-mill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/replay-brewing-in-fort-mill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/replay-brewing-in-fort-mill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/replay-brewing-in-fort-mill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/replay-brewing-in-fort-mill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/replay-brewing-in-fort-mill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Replay Brewing in Fort Mill, SC"
   width="665"
@@ -455,10 +455,10 @@ the York County restaurants you need to try.
 ### The Improper Pig
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/the-improper-pig-fort-mill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/the-improper-pig-fort-mill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/the-improper-pig-fort-mill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/the-improper-pig-fort-mill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/the-improper-pig-fort-mill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/the-improper-pig-fort-mill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/the-improper-pig-fort-mill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/the-improper-pig-fort-mill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Dinner at the Improper Pig in Fort Mill, SC"
   width="665"
@@ -479,10 +479,10 @@ Sides are typical Southern comfort fare. You can't go wrong with the hush
 puppies or the creamy macaroni and cheese.
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/strawberry-cobbler-at-the-improper-pig-fort-mill-sc.jpg-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Straberry cobbler at the Improper Pig in Fort Mill, SC"
   width="665"
@@ -498,10 +498,10 @@ crust and ice cream, all served warm in a cast iron skillet.
 ### Poppyseed Kitchen
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/poppyseed-kitchen-in-fort-mill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/poppyseed-kitchen-in-fort-mill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/poppyseed-kitchen-in-fort-mill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/poppyseed-kitchen-in-fort-mill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/poppyseed-kitchen-in-fort-mill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/poppyseed-kitchen-in-fort-mill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/poppyseed-kitchen-in-fort-mill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/poppyseed-kitchen-in-fort-mill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Poppyseed Kitchen in Fort Mill, SC"
   width="665"
@@ -525,10 +525,10 @@ can't go wrong with anything in the pastry case.
 ### FM Eatery
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fm-eatery-in-fort-mill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fm-eatery-in-fort-mill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fm-eatery-in-fort-mill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/fm-eatery-in-fort-mill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fm-eatery-in-fort-mill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fm-eatery-in-fort-mill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fm-eatery-in-fort-mill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/fm-eatery-in-fort-mill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="FM Eatery in Fort Mill, SC"
   width="665"
@@ -553,10 +553,10 @@ worth the splurge.
 ### Amélie's French Bakery & Cafe
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/amélies-french-bakery-and-cafe-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/amélies-french-bakery-and-cafe-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/amélies-french-bakery-and-cafe-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/amélies-french-bakery-and-cafe-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/amélies-french-bakery-and-cafe-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/amélies-french-bakery-and-cafe-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/amélies-french-bakery-and-cafe-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/amélies-french-bakery-and-cafe-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Amélie's French Bakery & Cafe in Rock Hill, SC"
   width="665"
@@ -581,10 +581,10 @@ aristocrat, probably named Louis.
 ### Flipside Restaurant
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/flipside-restaurant-in-rock-hill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/flipside-restaurant-in-rock-hill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/flipside-restaurant-in-rock-hill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/flipside-restaurant-in-rock-hill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/flipside-restaurant-in-rock-hill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/flipside-restaurant-in-rock-hill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/flipside-restaurant-in-rock-hill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/flipside-restaurant-in-rock-hill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Flipside Restaurant in Rock Hill, SC"
   width="665"
@@ -605,10 +605,10 @@ elegance to the warm and homey space. They do lunch and dinner too.
 ### Kounter Dining
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/kounter-dining-in-rock-hill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/kounter-dining-in-rock-hill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/kounter-dining-in-rock-hill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/kounter-dining-in-rock-hill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/kounter-dining-in-rock-hill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/kounter-dining-in-rock-hill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/kounter-dining-in-rock-hill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/kounter-dining-in-rock-hill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Kounter Dining in Rock Hill, SC"
   width="665"
@@ -630,10 +630,10 @@ If you haven't tried it, order a Cheerwine float, made in the Carolinas.
 ### Blend Riverwalk
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/blend-riverwalk-in-rock-hill-sc-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/blend-riverwalk-in-rock-hill-sc-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/blend-riverwalk-in-rock-hill-sc-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/blend-riverwalk-in-rock-hill-sc-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/blend-riverwalk-in-rock-hill-sc-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/blend-riverwalk-in-rock-hill-sc-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/blend-riverwalk-in-rock-hill-sc-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/blend-riverwalk-in-rock-hill-sc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Blend Riverwalk in Rock Hill, SC"
   width="665"
@@ -658,10 +658,10 @@ Right outside, the Riverwalk beckons if want to explore along the Catawba River.
 ## Hotels in York County
 
 <img
-  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/cambria-hotel-fort-mill-665.webp"
-  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/cambria-hotel-fort-mill-320.webp 320w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/cambria-hotel-fort-mill-480.webp 480w,
-          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-nc/cambria-hotel-fort-mill-665.webp 665w"
+  src="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/cambria-hotel-fort-mill-665.webp"
+  srcset="/assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/cambria-hotel-fort-mill-320.webp 320w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/cambria-hotel-fort-mill-480.webp 480w,
+          /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/cambria-hotel-fort-mill-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Cambria Hotel Fort Mill"
   width="665"
