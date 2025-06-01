@@ -127,11 +127,19 @@ delis stand alongside Michelin-starred restaurants.
   /></a>
 
   <button id="hamburger-menu" aria-label="Toggle navigation">
-    <svg width="24" height="24" viewBox="0 0 24 24">
-      <rect width="24" height="3"></rect>
-      <rect y="8" width="24" height="3"></rect>
-      <rect y="16" width="24" height="3"></rect>
-    </svg>
+    <span id="hamburger-icon">
+      <svg width="24" height="24" viewBox="0 0 24 24">
+        <rect width="24" height="3"></rect>
+        <rect y="8" width="24" height="3"></rect>
+        <rect y="16" width="24" height="3"></rect>
+      </svg>
+    </span>
+    <span id="close-icon" class="hidden">
+      <svg width="24" height="24" viewBox="0 0 24 24">
+        <line x1="4" y1="4" x2="20" y2="20" stroke="black" stroke-width="3"/>
+        <line x1="20" y1="4" x2="4" y2="20" stroke="black" stroke-width="3"/>
+      </svg>
+    </span>
   </button>
 
   <nav id="nav-overlay" class="nav-overlay hidden">
@@ -167,7 +175,12 @@ delis stand alongside Michelin-starred restaurants.
 
 <script>
 document.getElementById('hamburger-menu').addEventListener('click', function() {
-  document.getElementById('nav-overlay').classList.toggle('hidden');
+  var overlay = document.getElementById('nav-overlay');
+  var hamburgerIcon = document.getElementById('hamburger-icon');
+  var closeIcon = document.getElementById('close-icon');
+  overlay.classList.toggle('hidden');
+  hamburgerIcon.classList.toggle('hidden');
+  closeIcon.classList.toggle('hidden');
 });
 </script>
 
