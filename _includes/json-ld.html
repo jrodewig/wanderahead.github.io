@@ -2,9 +2,9 @@
 {
   "@context": "https://schema.org",
   {% if page.layout == 'post' %}
-  "@type": "BlogPosting"
+  "@type": "BlogPosting",
   {% else %}
-  "@type": "WebPage"
+  "@type": "WebPage",
   {% endif %}
   "headline": "{{ page.title | escape }}",
   "url": "{{ page.url | absolute_url }}",
