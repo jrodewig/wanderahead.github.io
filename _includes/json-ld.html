@@ -1,7 +1,11 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{ page.layout == 'post' | default: false | jsonify | replace: 'true', 'BlogPosting' | replace: 'false', 'WebPage' }}",
+  {% if page.layout == 'post' %}
+  "@type": "BlogPosting"
+  {% else %}
+  "@type": "WebPage"
+  {% endif %}
   "headline": "{{ page.title | escape }}",
   "url": "{{ page.url | absolute_url }}",
   {% if page.date %}
