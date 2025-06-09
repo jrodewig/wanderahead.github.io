@@ -46,7 +46,7 @@ Detours are irresistible.
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Castillo de San Marcos in St. Augustine, FL"
   width="665"
-  height="443"
+  height="338"
   loading="lazy"
 />
 
