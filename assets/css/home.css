@@ -190,9 +190,34 @@ section {
 }
 
 /* ---------------------------------------- */
-
 /* Destinations
 /*---------------------------------------- */
+
+.destinations-arrows {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 0.5em;
+  gap: 0.5em;
+}
+
+.destinations-arrows button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 0.5em;
+  color: var(--black);
+  transition: color 0.2s;
+}
+
+.destinations-arrows button:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.destinations-arrows svg {
+  display: block;
+}
 
 .destinations {
   display: flex;
@@ -207,6 +232,7 @@ section {
   cursor: grab;
   scrollbar-width: thin;
   scrollbar-color: var(--accent) transparent;
+  white-space: nowrap;
 }
 
 .destinations::-webkit-scrollbar {
@@ -232,7 +258,13 @@ section {
 
 .destination {
   flex: 0 0 auto;
-  margin-right: 10px;
+  margin-right: 16px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.destination:last-child {
+  margin-right: 0;
 }
 
 .destination .image {
@@ -244,6 +276,8 @@ section {
   aspect-ratio: 278 / 379;
   transition: transform 0.3s ease;
   -webkit-user-drag: none;
+  width: 278px;
+  height: 379px;
 }
 
 .destination .image img:hover {
@@ -257,4 +291,31 @@ section {
 .destination a {
   -webkit-user-drag: none;
   text-decoration: none;
+}
+
+/* Responsive adjustments for destinations */
+@media (width <= 1024px) {
+  .destination {
+    margin-right: 10px;
+  }
+  .destination .image img {
+    width: 180px !important;
+    height: 246px !important;
+  }
+}
+
+@media (width <= 768px) {
+  .destinations {
+    padding-bottom: 4px;
+  }
+  .destination {
+    margin-right: 6px;
+  }
+  .destination .image img {
+    width: 120px !important;
+    height: 164px !important;
+  }
+  .destinations-arrows {
+    display:none;
+  }
 }

@@ -140,7 +140,15 @@
         %} {% if post.category %} {% assign categories_array = categories_array
         | push: post.category | uniq %} {% endif %} {% endfor %}
 
-        <div class="destinations">
+        <div class="destinations-arrows">
+          <button id="dest-left" aria-label="Scroll left">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button id="dest-right" aria-label="Scroll right">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+        <div class="destinations" id="destinations-scroll">
           {% for destination in site.destinations %}
           <div class="destination">
             {% if destination.image %} {% assign dest_image = destination.image
@@ -164,6 +172,15 @@
           </div>
           {% endfor %}
         </div>
+        <script>
+          const scrollContainer = document.getElementById('destinations-scroll');
+          document.getElementById('dest-left').onclick = function() {
+            scrollContainer.scrollBy({ left: -300, behavior: 'smooth' });
+          };
+          document.getElementById('dest-right').onclick = function() {
+            scrollContainer.scrollBy({ left: 300, behavior: 'smooth' });
+          };
+        </script>
       </section>
     </main>
     {% include footer.html %}
