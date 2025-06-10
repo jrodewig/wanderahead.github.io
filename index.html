@@ -663,9 +663,17 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
 
          
 
-        <div class="destinations">
+        <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 0.5em;">
+          <button id="dest-left" aria-label="Scroll left" style="background:none;border:none;cursor:pointer;padding:0 0.5em;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button id="dest-right" aria-label="Scroll right" style="background:none;border:none;cursor:pointer;padding:0 0.5em;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+        <div class="destinations" id="destinations-scroll" style="overflow-x: auto; white-space: nowrap; scroll-behavior: smooth;">
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/florida/">
@@ -685,7 +693,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/georgia/">
@@ -705,7 +713,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/new-york/">
@@ -725,7 +733,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/north-carolina/">
@@ -745,7 +753,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/ohio/">
@@ -765,7 +773,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/pennsylvania/">
@@ -785,7 +793,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/south-carolina/">
@@ -805,7 +813,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/virginia/">
@@ -825,7 +833,7 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
             </a>
           </div>
           
-          <div class="destination">
+          <div class="destination" style="display: inline-block; vertical-align: top;">
              
             <div class="image">
               <a href="/wisconsin/">
@@ -846,6 +854,15 @@ document.getElementById('hamburger-menu').addEventListener('click', function() {
           </div>
           
         </div>
+        <script>
+          const scrollContainer = document.getElementById('destinations-scroll');
+          document.getElementById('dest-left').onclick = function() {
+            scrollContainer.scrollBy({ left: -300, behavior: 'smooth' });
+          };
+          document.getElementById('dest-right').onclick = function() {
+            scrollContainer.scrollBy({ left: 300, behavior: 'smooth' });
+          };
+        </script>
       </section>
     </main>
     <footer class="footer fixed-width">

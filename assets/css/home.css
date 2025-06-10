@@ -258,3 +258,78 @@ section {
   -webkit-user-drag: none;
   text-decoration: none;
 }
+
+/* ---------------------------------------- */
+/* Destinations Horizontal Scroll + Arrows
+/*---------------------------------------- */
+
+.destinations {
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  padding-bottom: 8px;
+}
+
+.destinations .destination {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 16px;
+}
+
+.destinations .destination:last-child {
+  margin-right: 0;
+}
+
+.dest-arrows {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 0.5em;
+  gap: 0.5em;
+}
+
+.dest-arrows button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 0.5em;
+  color: var(--accent, #222);
+  transition: color 0.2s;
+}
+
+.dest-arrows button:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.dest-arrows svg {
+  display: block;
+}
+
+/* Responsive adjustments for destinations */
+@media (max-width: 1024px) {
+  .destinations .destination {
+    margin-right: 10px;
+  }
+  .destinations .destination .image img {
+    width: 180px !important;
+    height: 246px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .destinations {
+    padding-bottom: 4px;
+  }
+  .destinations .destination {
+    margin-right: 6px;
+  }
+  .destinations .destination .image img {
+    width: 120px !important;
+    height: 164px !important;
+  }
+  .dest-arrows {
+    gap: 0.2em;
+    margin-bottom: 0.2em;
+  }
+}
