@@ -293,28 +293,8 @@ section {
   text-decoration: none;
 }
 
-/* Responsive adjustments for destinations */
-@media (width <= 1024px) {
-  .destination {
-    margin-right: 10px;
-  }
-  .destination .image img {
-    width: 180px !important;
-    height: 246px !important;
-  }
-}
-
 @media (width <= 768px) {
-  .destinations {
-    padding-bottom: 4px;
-  }
-  .destination {
-    margin-right: 6px;
-  }
-  .destination .image img {
-    width: 120px !important;
-    height: 164px !important;
-  }
+
   .destinations-arrows {
     display:none;
   }
