@@ -43,7 +43,18 @@
   <link rel="stylesheet" href="/assets/css/style.css" />
 </noscript>
 
-{% if page.name == "index.html" %}
+{% if page.layout == "category" %}
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+  <meta property="twitter:title" content="{{ page.title }} | {{ site.title }}" />
+  {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_html }}" />
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+  {% else %}
+    <meta name="description" content="Posts about {{ page.title }} on {{ site.title }}." />
+    <meta property="og:description" content="Posts about {{ page.title }} on {{ site.title }}." />
+  {% endif %}
+{% elsif page.name == "index.html" %}
 <title>{{site.title}}</title>
 <meta property="og:title" content="{{site.title}}" />
 <meta property="twitter:title" content="{{site.title}}" />
