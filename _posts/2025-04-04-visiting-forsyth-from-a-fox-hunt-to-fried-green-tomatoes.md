@@ -1,5 +1,6 @@
 ---
 title: "Visiting Forsyth: From a Fox 'Hunt' to Fried Green Tomatoes"
+date: 2026-04-04
 image: /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/victorian-brick-courthouse-in-forsyth-ga.webp
 featured: true
 category: Georgia

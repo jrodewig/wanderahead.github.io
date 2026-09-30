@@ -1,5 +1,6 @@
 ---
 title: Why Dayton, Ohio, Is the Outdoor Destination You've Been Dreaming Of
+date: 2026-03-29
 image: /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/dayton-ohio.webp
 featured: true
 category: Ohio

@@ -1,5 +1,6 @@
 ---
 title: 8 Immersive Art Experiences in NYC That Will Dazzle You
+date: 2026-04-15
 image: /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/immersize-art-nyc.webp
 featured: true
 category: New York

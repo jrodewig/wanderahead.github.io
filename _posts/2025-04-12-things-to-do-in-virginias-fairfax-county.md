@@ -1,5 +1,6 @@
 ---
 title: Things To Do in Virginia's Fairfax County
+date: 2026-04-12
 image: /assets/img/2025-04-12-things-to-do-in-virginias-fairfax-county/fairfax-va.webp
 featured: true
 category: Virginia

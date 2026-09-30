@@ -1,5 +1,6 @@
 ---
 title: "7 Unexpected Things To Do in Calhoun, Georgia"
+date: 2026-04-03
 image: /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/flower-garden-calhoun-ga.webp
 featured: true
 category: Georgia

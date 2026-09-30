@@ -1,5 +1,6 @@
 ---
 title: "New Bern: One of North Carolina's Best Small Towns"
+date: 2026-04-02
 image: /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/new-bern-coat-of-arms-new-bern-nc.webp
 featured: true
 category: North Carolina

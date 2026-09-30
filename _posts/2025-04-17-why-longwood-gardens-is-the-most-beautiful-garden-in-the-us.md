@@ -1,5 +1,6 @@
 ---
 title: Why Longwood Gardens Is America's Most Beautiful Garden
+date: 2026-04-17
 image: /assets/img/2025-04-17-longing-for-longwood/longwood-gardens.webp
 featured: true
 category: Pennsylvania

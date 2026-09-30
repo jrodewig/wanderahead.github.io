@@ -1,5 +1,6 @@
 ---
 title: Discover Orlando Beyond the Theme Parks
+date: 2026-04-05
 image: /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/lake-eola-in-downtown-orlando-fl.webp
 featured: true
 category: Florida

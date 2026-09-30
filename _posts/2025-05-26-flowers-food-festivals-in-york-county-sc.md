@@ -1,5 +1,6 @@
 ---
 title: Flowers, Food, and Festivals in York County, SC
+date: 2026-05-26
 image: /assets/img/2025-05-26-flowers-food-festivals-in-york-county-sc/york-county.webp
 featured: true
 category: South Carolina

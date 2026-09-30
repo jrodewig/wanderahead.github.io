@@ -1,5 +1,6 @@
 ---
 title: How To Make the Most of a Romantic Weekend in Asheville
+date: 2026-03-31
 image: /assets/img/2025-04-07-how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-romantic.webp
 featured: true
 category: North Carolina

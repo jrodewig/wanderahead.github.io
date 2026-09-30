@@ -1,5 +1,6 @@
 ---
 title: "Exploring Athens: Go Beyond the Game in this Trendy College Town"
+date: 2026-04-01
 image: /assets/img/2025-04-08-exploring-athens-go-beyond-the-game-in-this-trendy-college-town/bird-mural-in-downtown-athens-ga.webp
 featured: true
 category: Georgia

@@ -1,5 +1,6 @@
 ---
 title: "How To Road Trip Florida's Famous A1A"
+date: 2026-04-07
 image: /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/a1a-sign-fort-lauderdale-fl.webp
 featured: true
 category: Florida

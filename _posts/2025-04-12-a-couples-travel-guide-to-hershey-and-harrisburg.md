@@ -1,5 +1,6 @@
 ---
 title: A Couple's Travel Guide to Hershey and Harrisburg
+date: 2026-04-12
 image: /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/garden-hershey-pa.webp
 featured: true
 category: Pennsylvania

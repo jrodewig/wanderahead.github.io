@@ -1,5 +1,6 @@
 ---
 title: "Amélie's French Bakery: The Cutest Cafe in the South"
+date: 2026-03-30
 image: /assets/img/2025-04-06-amelies-french-bakery-the-cutest-cafe-in-the-south/assorted-pastries-amelies-in-rock-hill.webp
 featured: true
 category: North Carolina

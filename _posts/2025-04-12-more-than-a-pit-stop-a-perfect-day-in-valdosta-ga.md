@@ -1,5 +1,6 @@
 ---
 title: "More Than a Pit Stop: A Perfect Day in Valdosta, GA"
+date: 2026-04-12
 image: /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/valdosta-ga.webp
 featured: true
 category: Georgia

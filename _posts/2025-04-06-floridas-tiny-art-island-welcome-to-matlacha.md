@@ -1,5 +1,6 @@
 ---
 title: "Florida's Tiny Art Island: Welcome to Matlacha"
+date: 2026-04-06
 image: /assets/img/2025-04-09-floridas-tiny-art-island-welcome-to-matlacha/sunset-at-matlacha-flordia.webp
 featured: true
 category: Florida
