@@ -1,0 +1,124 @@
+{
+  "version": "1.2",
+  "media": {
+    "default_library": "repo_media",
+    "libraries": [
+      {
+        "key": "repo_media",
+        "label": "Repository media",
+        "references": {
+          "write": {
+            "mode": "root_relative",
+            "base_path": "/"
+          },
+          "allow_default_library_fallback": true
+        },
+        "limits": {
+          "max_file_size_mb": 10
+        },
+        "driver": "git",
+        "storage": {
+          "root_path": "public"
+        }
+      }
+    ]
+  },
+  "ssg_framework": "jekyll",
+  "default_branch": "main",
+  "frontmatter_format": "yaml",
+  "sitemap_url": "https://wanderahead.com/sitemap.xml",
+  "publishing_mode": "editorial_workflow",
+  "collections": [
+    {
+      "name": "_posts",
+      "git_path": "/_posts/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat",
+      "frontmatter_schema": [
+        {
+          "name": "title",
+          "type": "title",
+          "label": "Title",
+          "required": false
+        },
+        {
+          "name": "date",
+          "type": "datetime",
+          "label": "Date",
+          "required": false
+        },
+        {
+          "name": "image",
+          "type": "image",
+          "label": "Image",
+          "required": false
+        },
+        {
+          "name": "featured",
+          "type": "boolean",
+          "label": "Featured",
+          "required": false,
+          "default": true
+        },
+        {
+          "name": "category",
+          "type": "text",
+          "label": "Category",
+          "required": false
+        },
+        {
+          "name": "layout",
+          "type": "text",
+          "label": "Layout",
+          "required": false
+        },
+        {
+          "name": "author",
+          "type": "text",
+          "label": "Author",
+          "required": false
+        },
+        {
+          "name": "excerpt",
+          "type": "richtext",
+          "label": "Excerpt",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "_destinations",
+      "git_path": "/_destinations/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat",
+      "frontmatter_schema": [
+        {
+          "name": "title",
+          "type": "title",
+          "label": "Title",
+          "required": false
+        },
+        {
+          "name": "image",
+          "type": "image",
+          "label": "Image",
+          "required": false
+        },
+        {
+          "name": "layout",
+          "type": "text",
+          "label": "Layout",
+          "required": false
+        },
+        {
+          "name": "continent",
+          "type": "text",
+          "label": "Continent",
+          "required": false
+        }
+      ]
+    }
+  ]
+}
