@@ -1,7 +1,7 @@
 ---
 title: In Door County, Wisconsin, Winter Holds Unexpected Charms
 date: 2026-04-10
-image: /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-trees-in-door-county-wi.webp
+image: /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-trees-in-door-county-wi.webp
 featured: true
 category: Wisconsin
 layout: post
@@ -15,12 +15,12 @@ pleasant mid-70s. It's sometimes called the Cape Cod of the Midwest, with the
 beaches, lighthouses, and seafood shacks to prove it.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/snow-covered-wood-and-river-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Snow-covered wood and river
   at Whitefish Dunes State Park in Door County, WI" width="665" height="499"
   loading="lazy" />
@@ -33,12 +33,12 @@ holiday treats to enjoy during your winter visit.
 ## Hiking in a Winter Wonderland
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/boynton-chapel-norwegian-stavkirke-at-björklunden-in-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Boynton Chapel, a stavkirke
   in the Björklunden, in Door County, WI" width="665" height="499"
   loading="lazy" />
@@ -59,12 +59,12 @@ possible at Clark Lake. The park even has a program to loan out fishing poles
 and tackle, free of charge.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/scandinavian-engraved-pews-at-boynton-chapel-in-björklunden-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Scandinavian engraved pews
   at Boynton Chapel in Björklunden, Door County, WI" width="665" height="499"
   loading="lazy" />
@@ -84,12 +84,12 @@ stavkirkes in the county. The second, on Washington Island in the far north, is
 another reproduction, built to honor the area's early Scandinavian immigrants.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/frozen-shallows-harbor-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Frozen shallows in the
   harbor at Door County, WI" width="665" height="499" loading="lazy" />
 
@@ -100,12 +100,12 @@ latitude. White spruce and balsam fir flourish, even irises and orchids in
 warmer months.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/waves-from-lake-michigan-batter-the-shore-at-cave-point-county-park-in-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Waves from Lake Michigan
   batter the shore at Cave Point County Park in Door County, WI" width="665"
   height="499" loading="lazy" />
@@ -119,12 +119,12 @@ through blowholes, erupting in the air like a geyser.
 ## Holiday Cheer in Door County
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/merry-time-festival-of-trees-at-the-door-county-maritime-museum-in-sturgeon-bay-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Merry-Time Festival of
   Trees at the Door County Maritime Museum in Sturgeon Bay, WI" width="665"
   height="499" loading="lazy" />
@@ -142,12 +142,12 @@ from Saint Nick. The village's Norwegian heritage shines through old-fashioned
 games and Moravian holiday displays.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/christmas-tree-in-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Christmas Tree in Door
   County, WI" width="665" height="499" loading="lazy" />
 
@@ -161,12 +161,12 @@ highlight ornaments. It's a treasure trove of design inspiration.
 ## Where To Eat in Door County
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/swedish-julbord-at-al-johnsons-swedish-restaurant-butik-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Swedish Julbord at Al
   Johnson's Swedish Restaurant & Butik in Door County, WI" width="665"
   height="499" loading="lazy" />
@@ -182,12 +182,12 @@ roof may be replaced with lighted reindeer in winter, but the food steals the
 show.
 
 <img
-  src="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-665.webp"
-  srcset="/assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-320.webp
+  src="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-665.webp"
+  srcset="/assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-320.webp
           320w,
-          /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-480.webp
+          /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-480.webp
   480w,
-  /assets/img/2025-04-10-door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-665.webp
+  /assets/img/door-county-wi-holds-unexpected-charms-for-nature-lovers/assorted-cakes-in-door-county-wi-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Assorted cakes in Door
   County, WI" width="665" height="499" loading="lazy" />
 
