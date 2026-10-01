@@ -19,17 +19,7 @@ Here's how to make the most of a couple's getaway in these neighboring cities.
 
 ## Discovering Harrisburg
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Capitol building in Harrisburg, Pennsylvania"
-  width="665"
-  height="450"
-  loading="lazy"
-/>
+![Capitol building in Harrisburg, Pennsylvania](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp)
 
 Start your trip at the capitol. It might sound like something for history buffs,
 but the elegant beaux arts building feels like a palace. In fact, that was the
@@ -39,17 +29,7 @@ gold leaf, a grand marble staircase, stained glass windows and a magnificent
 House and Supreme Court, lavishly gilded and accented with murals and
 chandeliers. With everything free, it's the best deal in town.
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Natural Bridge State Park in Harrisburg, PA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Natural Bridge State Park in Harrisburg, PA](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp)
 
 The rest of downtown is pleasantly walkable. Brick sidewalks lead to quaint
 cafes and centuries-old churches and mansions. Browse a range of creative works
@@ -69,17 +49,7 @@ low-key, tackle more of the 20-mile Capital Area Greenbelt on bike.
 
 ## A Taste of Hershey
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Butterflies in the Butterfly Atrium in Hershey Gardens at Hershey, PA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Butterflies in the Butterfly Atrium in Hershey Gardens at Hershey, PA](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp)
 
 What's more romantic than chocolate? Flowers, maybe? Hershey has both. Opened in
 1937 as a rose garden, [Hershey Gardens](https://www.hersheygardens.org) has
@@ -88,17 +58,7 @@ beginning with spring tulips through fall chrysanthemums. Go in the morning
 before the crowds arrive and when the weather is still cool. For year-round
 color, the Butterfly Atrium recreates a tropical paradise.
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Bears playing at ZooAmerica in Hershey, PA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Bears playing at ZooAmerica in Hershey, PA](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp)
 
 From there, head to [ZooAmerica](http://www.zooamerica.com), less than 5 minutes
 away. It focuses on animals native to North America, so don't expect tigers or
@@ -114,17 +74,7 @@ ways you wouldn't expect. And of course, the free chocolate ride is a must. You
 learn about the chocolate creation process and get a little something to savor
 on the way home.
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Hershey Chocolate World in Hershey, PA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Hershey Chocolate World in Hershey, PA](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp)
 
 If you're not ready to let the chocolate and childlike wonder go quite yet, a
 visit to the [The Hershey Story museum](https://hersheystory.org) is in order.
@@ -134,17 +84,7 @@ around-the-world sampling of drinking chocolates.
 
 ## Lodging and Dining
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Hotel Indigo Harrisburg Hershey in Hershey, PA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Hotel Indigo Harrisburg Hershey in Hershey, PA](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp)
 
 Lodging options abound whether you want a homey inn or a full-scale resort. For
 something unique to the area, stay at the [Hotel Indigo Harrisburg
@@ -160,17 +100,7 @@ has comfort front and center, too. It just opened this year, so rooms are fresh
 with up-the-minute conveniences like a remote-controlled thermostat and plenty
 of nightstand outlets to charge your devices.
 
-<img
-  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp"
-  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-320.webp 320w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-480.webp 480w,
-          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Tomato Pie at Tomato Pie Café in Hershey, PA"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Tomato Pie at Tomato Pie Café in Hershey, PA](/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp)
 
 The Hotel Indigo has an on-site restaurant, Riverrun, serving breakfast and
 dinner, but local chefs dish out fabulous food all over the region. For an

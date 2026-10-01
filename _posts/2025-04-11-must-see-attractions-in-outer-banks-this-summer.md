@@ -21,15 +21,8 @@ some solid dining options. Mix and match to craft your ideal OBX escape.
 
 ## The Lost Colony
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="The Lost Colony play in the
-  Outer Banks, NC" width="665" height="374" loading="lazy" />
+![The Lost Colony play in the
+  Outer Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp)
 
 How do you sum up ["The Lost Colony"](https://www.thelostcolony.org/) for
 newcomers? It's the nation's longest-running outdoor symphonic drama. Not a
@@ -44,16 +37,8 @@ million viewers since 1937. Worth the trip alone.
 
 ## Jockey's Ridge State Park
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Ruined folly at Jockey's
-  Ridge State Park in the Outer Banks, NC" width="665" height="499"
-  loading="lazy" />
+![Ruined folly at Jockey's
+  Ridge State Park in the Outer Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp)
 
 Beaches might come to mind when you think of the Outer Banks, but how about the
 East Coast's tallest sand dunes? [Jockey's Ridge State
@@ -66,15 +51,8 @@ the soundside too. Sunrises and sunsets here are unbeatable. Admission is free.
 
 ## Jennette's Pier
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Jennette's Pier in the
-  Outer Banks, NC" width="665" height="499" loading="lazy" />
+![Jennette's Pier in the
+  Outer Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp)
 
 [Jennette's Pier](https://www.ncaquariums.com/jennettes-pier) isn't just for
 fishing, though it's prime for that. Managed by the North Carolina Aquarium, it
@@ -85,16 +63,8 @@ underneath where the wooden pilings frame the waves.
 
 ## Roanoke Island Festival Park
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="1500s-style woodworker at
-  Roanoke Island Festival Park in the Outer Banks, NC" width="665" height="374"
-  loading="lazy" />
+![1500s-style woodworker at
+  Roanoke Island Festival Park in the Outer Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp)
 
 The living history interpreters at [Roanoke Island Festival
 Park](https://www.roanokeisland.com/) make the past feel real. Step onto the
@@ -107,16 +77,8 @@ history lesson.
 
 ## The Elizabethan Gardens
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Statue of Queen Elizabeth
-  at the Elizabethan Gardens in the Outer Banks, NC" width="665" height="374"
-  loading="lazy" />
+![Statue of Queen Elizabeth
+  at the Elizabethan Gardens in the Outer Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp)
 
 Love blooms or fairy tales? [The Elizabethan
 Gardens](https://www.elizabethangardens.org/) has both. Grab a map to hunt for
@@ -129,15 +91,8 @@ opening in summer for cooler temps.
 
 ## Outer Banks Beaches
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="OBX Beaches in the Outer
-  Banks, NC" width="665" height="374" loading="lazy" />
+![OBX Beaches in the Outer
+  Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp)
 
 The OBX beaches are a must. Whether you want space to sprawl, shells to collect,
 or waves to ride, places like Nags Head and Kitty Hawk deliver easy access.
@@ -149,15 +104,7 @@ and a bowl, but both hit the spot.
 
 ## Duck Boardwalk
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Duck Boardwalk in Duck, NC"
-  width="665" height="374" loading="lazy" />
+![Duck Boardwalk in Duck, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp)
 
 A quick drive north to Duck lands you at this free boardwalk along Currituck
 Sound. Enjoy the scenery, then hit the Waterfront Shops for unique gifts and
@@ -171,15 +118,8 @@ laid-back vibe.
 
 ## Outer Banks National Scenic Byway
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Bodie Island Light Station
-  in Cape Hatteras, NC" width="665" height="374" loading="lazy" />
+![Bodie Island Light Station
+  in Cape Hatteras, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp)
 
 Love a good road trip? The [Outer Banks National Scenic
 Byway](https://www.visitnc.com/listing/Nfii/outer-banks-national-scenic-byway)
@@ -192,15 +132,8 @@ Pamlico Sound sunset.
 
 ## Bonus: Where To Stay in the Outer Banks
 
-<img
-  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp"
-  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-320.webp
-          320w,
-          /assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-480.webp
-  480w,
-  /assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp
-  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Guest room at The Pearl in
-  the Outer Banks, NC" width="665" height="374" loading="lazy" />
+![Guest room at The Pearl in
+  the Outer Banks, NC](/assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp)
 
 In downtown Manteo, [The Pearl](https://www.pearlguest.com/) blends boutique
 elegance with comfort. Its 16 unique rooms feature Italian-inspired decor, luxe

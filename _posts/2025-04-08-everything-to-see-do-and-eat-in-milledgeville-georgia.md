@@ -15,17 +15,7 @@ and charming, indeed, it is — but you'll fall for its outdoor beauty,
 19th-century architecture, farm-fresh treats, and indie shops, art and antiques.
 Try a visit and you'll see.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/veterans-memorial-in-downtown-milledgeville-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/veterans-memorial-in-downtown-milledgeville-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/veterans-memorial-in-downtown-milledgeville-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/veterans-memorial-in-downtown-milledgeville-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Veterans Memorial in Downtown Milledgeville"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Veterans Memorial in Downtown Milledgeville](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/veterans-memorial-in-downtown-milledgeville-665.webp)
 
 While a weekend will give you enough time for the highlights, a few days or even
 a week lets you explore at a gentler pace. I recommend the latter. Milledgeville
@@ -34,17 +24,7 @@ how.
 
 ## A Unique B&B in Milledgeville
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="The Inn on North Jefferson at Christmas in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![The Inn on North Jefferson at Christmas in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-inn-on-north-jefferson-in-milledgeville-ga-665.webp)
 
 The city's heart and soul, Milledgeville's 10-block historic district is the
 best place to stay, and there's just one hotel downtown: [The Inn on North
@@ -52,17 +32,7 @@ Jefferson](https://theinnonnorthjefferson.com/). Checking into the circa 1820
 home, with its columns, wrought iron fence, rocking chairs, and flickering
 lanterns, feels like stepping back in time.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-elizabeth-room-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-elizabeth-room-at-the-inn-on-north-jefferson-in-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-elizabeth-room-at-the-inn-on-north-jefferson-in-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-elizabeth-room-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="The Elizabeth Room at The Inn on North Jefferson in Milledgeville, GA"
-  width="665"
-  height="349"
-  loading="lazy"
-/>
+![The Elizabeth Room at The Inn on North Jefferson in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-elizabeth-room-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp)
 
 The house is filled with vintage touches, which, if not entirely true to
 one specific period, are altogether homier and more inviting. I was enchanted
@@ -71,17 +41,7 @@ with the details, like the built-in bookcases in our cornflower-blue master
 teacup atop a stack of books. A glass candle snuffer. Two clocks. A pair of
 old-fashioned spectacles.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/snacks-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/snacks-at-the-inn-on-north-jefferson-in-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/snacks-at-the-inn-on-north-jefferson-in-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/snacks-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Snacks at the Inn on North Jefferson in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Snacks at the Inn on North Jefferson in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/snacks-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp)
 
 There's a sense of coziness within. You might grab a drink from the bar in the
 lounge, crack open a puzzle in the gameroom, or just kick back on the sofa in
@@ -90,17 +50,7 @@ modern conveniences at hand, such as remote-controlled AC, a keypad for ease of
 entry, and the obligatory Keurig. There are even complimentary snacks to fortify
 yourself for your adventures around town.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-pool-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-pool-at-the-inn-on-north-jefferson-in-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-pool-at-the-inn-on-north-jefferson-in-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-pool-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="The Pool at the Inn on North Jefferson in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![The Pool at the Inn on North Jefferson in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/the-pool-at-the-inn-on-north-jefferson-in-milledgeville-ga-665.webp)
 
 In the backyard, a pool welcomes guests when the weather's fine. During the
 holidays, garlands and ornaments festoon the rooms. Of course, that's only half
@@ -109,17 +59,7 @@ the day later on.
 
 ## Discovering Downtown Milly
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="A local shop in downtown Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![A local shop in downtown Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/local-shop-in-downtown-milledgeville-ga-665.webp)
 
 Once you roll out of bed, you have the walkable downtown at your fingertips — or
 footsteps, so to speak. Antique hunters will be delighted. Newer boutiques,
@@ -127,17 +67,7 @@ meanwhile, like the aptly named
 [Eclectic](https://www.facebook.com/EclecticNWayne/), offer a curated selection
 of trendy and locally made gifts and souvenirs.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Theatre turned bookstore in downtown Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Theatre turned bookstore in downtown Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/theatre-turned-bookstore-in-downtown-milledgeville-ga-665.webp)
 
 After shopping, see the sights. Founded in 1803 and designed as the state's
 capital, a role it held for over 60 years, Milledgeville shows off a mix of
@@ -148,17 +78,7 @@ one of more than 45 historic sites you can walk to. Pick up a brochure and map
 for a self-guided walking tour at the visitor's center, itself housed in a
 former 1911 post office.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Trolley in downtown Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Trolley in downtown Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/trolley-in-downtown-milledgeville-ga-665.webp)
 
 For an easier way to see it all, board the trolley tour departing from the
 center every Saturday morning. You'll cruise by the city's landmarks as your
@@ -183,17 +103,7 @@ over downtown.
 
 ## Exploring the Outdoors
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Oconee River Greenway Park in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Oconee River Greenway Park in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/oconee-river-greenway-park-milledgeville-ga-665.webp)
 
 For a quiet walk through the historic district, the scenic campuses of Georgia
 College and Georgia Military College provide plenty of greenery. For something a
@@ -220,17 +130,7 @@ there's even a resident peacock strutting the grounds.
 
 ## Best Places To Eat in Milledgeville
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/stuffed-french-toast-at-the-local-yolkal-cafe-in-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/stuffed-french-toast-at-the-local-yolkal-cafe-in-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/stuffed-french-toast-at-the-local-yolkal-cafe-in-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/stuffed-french-toast-at-the-local-yolkal-cafe-in-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Stuffed French Toast at the Local Yolkal Cafe in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Stuffed French Toast at the Local Yolkal Cafe in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/stuffed-french-toast-at-the-local-yolkal-cafe-in-milledgeville-ga-665.webp)
 
 Back to breakfast now. If you're booked at The Inn on North Jefferson, a meal at
 [The Local Yolkal Cafe](https://thelocalyolkal.com/) is included with your stay
@@ -242,17 +142,7 @@ French toast, you're covered. Be sure to try one of their legendary benedicts,
 coming in seven varieties that range from Creole sardou to The Hemingway with
 smoked salmon.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/curry-and-naan-metropolis-cafe-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/curry-and-naan-metropolis-cafe-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/curry-and-naan-metropolis-cafe-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/curry-and-naan-metropolis-cafe-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Curry and naan at Metropolis Cafe in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Curry and naan at Metropolis Cafe in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/curry-and-naan-metropolis-cafe-milledgeville-ga-665.webp)
 
 Dinner invariably brings you back downtown. For something casual yet different,
 tempt your palate with the Mediterranean flavors at [Metropolis
@@ -262,17 +152,7 @@ appetizer, steamed and grilled to perfection — unless you happen to be there
 Thursday when they serve Indian food, in which case, naan and curry are the way
 to go.
 
-<img
-  src="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/blackbird-coffee-milledgeville-ga-665.webp"
-  srcset="/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/blackbird-coffee-milledgeville-ga-320.webp 320w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/blackbird-coffee-milledgeville-ga-480.webp 480w,
-          /assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/blackbird-coffee-milledgeville-ga-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Blackbird Coffee in Milledgeville, GA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Blackbird Coffee in Milledgeville, GA](/assets/img/everything-to-see-do-and-eat-in-milledgeville-georgia/blackbird-coffee-milledgeville-ga-665.webp)
 
 Wind down your evening at [Blackbird Coffee](https://www.blackbirdcoffee.com/). This is a college town, after all,
 where an espresso is appropriate any time of day. Sink into a couch and soak up

@@ -17,34 +17,14 @@ flourish alongside polka dot buoys and boaters pull up for a chat to while away
 the afternoon. It's even fun to say — "matt-la-shay" — though no one knows
 exactly where the name came from.
 
-<img
-  src="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/trailer-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
-  srcset="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/trailer-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-320.webp 320w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/trailer-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-480.webp 480w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/trailer-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Colorful trailer outside Leoma Lovegrove's Art Gallery and Gardens in Matlacha, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Colorful trailer outside Leoma Lovegrove's Art Gallery and Gardens in Matlacha, FL](/assets/img/floridas-tiny-art-island-welcome-to-matlacha/trailer-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp)
 
 What we do know is the island, dredged up from oyster beds in the 1920s, was
 once a thriving fishing village. When the industry died, the community got
 creative, literally, transforming its main street into a tropical, technicolor
 canvas of shops and seafood shacks.
 
-<img
-  src="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-665.webp"
-  srcset="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-320.webp 320w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-480.webp 480w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Matlacha sign outside a backyard garden in Matlacha, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Matlacha sign outside a backyard garden in Matlacha, FL](/assets/img/floridas-tiny-art-island-welcome-to-matlacha/matlacha-sign-outside-a-backyard-garden-in-matlacha-fl-665.webp)
 
 The surrounding tidal flats, meanwhile, owe nothing to art. They're scenic and
 alive, popular for birdwatching, crabbing, shrimping and fishing or simply
@@ -57,17 +37,7 @@ me to pick up my paintbrush."
 
 Here are the Matlacha experiences you can't miss.
 
-<img
-  src="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
-  srcset="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-320.webp 320w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-480.webp 480w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Entrance to Leoma Lovegrove's Art Gallery and Gardens in Matlacha, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Entrance to Leoma Lovegrove's Art Gallery and Gardens in Matlacha, FL](/assets/img/floridas-tiny-art-island-welcome-to-matlacha/leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp)
 
 ## Soak in Galleries Galore
 
@@ -85,17 +55,7 @@ signature bold strokes.
 
 ## Indulge in Old-Fashioned Fudge
 
-<img
-  src="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-665.webp"
-  srcset="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-320.webp 320w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-480.webp 480w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Stack of fudge from CW Fudge Factory in Matlacha, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Stack of fudge from CW Fudge Factory in Matlacha, FL](/assets/img/floridas-tiny-art-island-welcome-to-matlacha/stack-fudge-from-cw-fudge-factory-matlacha-fl-665.webp)
 
 Designed as the fudge shop of your childhood memories, [CW Fudge
 Factory](https://cwfudge.info/) is stocked with nostalgic candy, homemade
@@ -113,17 +73,7 @@ and their magnificent shell mounds, which you can still see today.
 
 ## Check Out the Tiny Home Architecture
 
-<img
-  src="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/artwork-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp"
-  srcset="/assets/img/floridas-tiny-art-island-welcome-to-matlacha/artwork-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-320.webp 320w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/artwork-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-480.webp 480w,
-          /assets/img/floridas-tiny-art-island-welcome-to-matlacha/artwork-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Artwork outside Leoma Lovegrove's Art Gallery and Gardens in Matlacha, FL"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Artwork outside Leoma Lovegrove's Art Gallery and Gardens in Matlacha, FL](/assets/img/floridas-tiny-art-island-welcome-to-matlacha/artwork-outside-leoma-lovegrove-art-gallery-and-gardens-matlacha-fl-665.webp)
 
 Sporting names like Flamingo and Margarita and vivid exteriors that range from
 turquoise to tangerine, the houses at [Matlacha Tiny

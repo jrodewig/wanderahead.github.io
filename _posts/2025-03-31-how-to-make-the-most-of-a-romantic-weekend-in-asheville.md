@@ -19,17 +19,7 @@ while keeping things relaxed.
 
 ## Pack a Gourmet Picnic
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Picnic at Catawba Falls in Old Fort, NC, near Asheville" 
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Picnic at Catawba Falls in Old Fort, NC, near Asheville](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-picnic-665.webp)
 
 If you're going to be out in that gorgeous nature all day, you'll be hungry, but
 you don't necessarily want to cut your hike short. Plan ahead by bringing a
@@ -61,17 +51,7 @@ of the best picnics we've ever had.
 
 ## Hit the Trails
 
-<img 
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-665.webp" 
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-320.webp 320w, 
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-480.webp 480w, 
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-665.webp 665w" 
-  sizes="(max-width: 665px) 100vw, 665px" 
-  alt="Flower on a trail in Asheville" 
-  width="665" 
-  height="449" 
-  loading="lazy"
-/>
+![Flower on a trail in Asheville](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/asheville-trail-665.webp)
 
 If you look at a map of greater Asheville, it looks like two giant swathes of
 green are about to converge on the city. One comes in from the northeast and the
@@ -87,17 +67,7 @@ three-mile roundtrip with some serious elevation gain that's all worth it at the
 end. Then climb Frying Pan Tower, a 70-foot-tower on a nearby trail that lets
 you see for miles.
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Catawba Falls in Asheville"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Catawba Falls in Asheville](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/catawba-falls-665.webp)
 
 Or go northeast for waterfalls. The three-mile hike to Crabtree Falls is fairly
 moderate and you're rewarded with a massive cascade eye-level from the bridge.
@@ -107,17 +77,7 @@ foot traffic.
 
 ## Play Like You're a Kid Again
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Well Played Board Game Café in Asheville"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Well Played Board Game Café in Asheville](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/board-game-cafe-asheville-665.webp)
 
 Unwind from your hike downtown. There are plenty of places to play: breweries,
 shops, theaters. There's the [French Broad
@@ -159,17 +119,7 @@ placards. Did you know the Twilight Zone pinball maker hired a voice actor?
 
 ## Lounge in Comfort
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Hampton Inn & Suites Asheville Biltmore Area"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Hampton Inn & Suites Asheville Biltmore Area](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/hampton-inn-suites-asheville-biltmore-665.webp)
 
 Asheville has plenty of hotels to choose from, whether you want a local B&B or a
 name brand where you can rack up reward points. The [Hampton Inn & Suites
@@ -194,17 +144,7 @@ bottle filling station. Hydration is key for all that hiking we were doing!
 
 ## Bliss out at Biltmore
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Biltmore Mansion"
-  width="665"
-  height="442"
-  loading="lazy"
-/>
+![Biltmore Mansion](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/biltmore-mansion-665.webp)
 
 It's America's grandest estate, but superlatives really don't do it justice. The
 gardens are overflowing with blooms right now. Hydrangeas, magnolias,
@@ -216,17 +156,7 @@ The beauty helps you overlook the heat if you go in summer. If you're going on a
 day where you need a timed entry for the house, reserve your slot midday to get
 a break from the sun.
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Gardens at the Biltmore Mansion"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Gardens at the Biltmore Mansion](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/gardens-biltmore-manor-665.webp)
 
 Indoors, the panoramas are no less impressive. The medieval-style banquet room
 is seven stories tall. The library contains some 10,000 volumes on its rich
@@ -260,17 +190,7 @@ online](https://www.biltmore.com/landing/ticket-options/) before you go.
 
 ## Wander Through a Floral Arboretum
 
-<img
-  src="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-665.webp"
-  srcset="/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-320.webp 320w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-480.webp 480w,
-          /assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt=""
-  width="665"
-  height="436"
-  loading="lazy"
-/>
+![](/assets/img/how-to-make-the-most-of-a-romantic-weekend-in-asheville/north-carolina-arboretum-665.webp)
 
 I like trees as much as the next person, but I'm here for the flowers.
 

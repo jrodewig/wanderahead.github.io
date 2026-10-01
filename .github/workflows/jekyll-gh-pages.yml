@@ -18,6 +18,12 @@ jobs:
           ruby-version: '3.3.0'
           bundler-cache: true
         
+      - name: Install ImageMagick
+        run: |
+          if ! command -v magick &> /dev/null && ! command -v convert &> /dev/null; then
+            sudo apt-get update && sudo apt-get install -y imagemagick webp
+          fi
+
       - name: Build with Jekyll
         run: |
           bundle install

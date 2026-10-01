@@ -25,17 +25,7 @@ County.
 
 ## Choose a home base
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/fairfax-marriott-at-fair-oaks-in-fairfax-va-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/fairfax-marriott-at-fair-oaks-in-fairfax-va-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/fairfax-marriott-at-fair-oaks-in-fairfax-va-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/fairfax-marriott-at-fair-oaks-in-fairfax-va-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Fairfax Marriott at Fair Oaks in Fairfax, VA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Fairfax Marriott at Fair Oaks in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/fairfax-marriott-at-fair-oaks-in-fairfax-va-665.webp)
 
 The county seat is the bustling city of Fairfax, a great spot for travelers
 thanks to its central location. For a little luxury, stay at the [Fairfax
@@ -60,17 +50,7 @@ landscaped grounds.
 
 ## Meadowlark Botanical Gardens
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/meadowlark-botanical-gardens-in-fairfax-va-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/meadowlark-botanical-gardens-in-fairfax-va-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/meadowlark-botanical-gardens-in-fairfax-va-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/meadowlark-botanical-gardens-in-fairfax-va-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Meadowlark Botanical Gardens in Fairfax, VA"
-  width="665"
-  height="445"
-  loading="lazy"
-/>
+![Meadowlark Botanical Gardens in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/meadowlark-botanical-gardens-in-fairfax-va-665.webp)
 
 Flower lovers will enjoy [Meadowlark Botanical
 Gardens](https://www.novaparks.com/parks/meadowlark-botanical-gardens). Covering
@@ -82,17 +62,7 @@ statues near the entrance.
 
 ## Great Falls Park
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/great-falls-park-in-fairfax-va-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/great-falls-park-in-fairfax-va-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/great-falls-park-in-fairfax-va-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/great-falls-park-in-fairfax-va-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Great Falls Park in Fairfax, VA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Great Falls Park in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/great-falls-park-in-fairfax-va-665.webp)
 
 A natural oasis of a different style, [Great Falls
 Park](https://www.nps.gov/grfa/index.htm) lets you get close to the powerful
@@ -104,17 +74,7 @@ warning: On the weekend, it's popular, so go early.
 
 ## Chow down
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/bollywood-bistro-in-fairfax-va-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/bollywood-bistro-in-fairfax-va-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/bollywood-bistro-in-fairfax-va-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/bollywood-bistro-in-fairfax-va-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Bollywood Bistro in Fairfax, VA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Bollywood Bistro in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/bollywood-bistro-in-fairfax-va-665.webp)
 
 For dinner, stop by the Old Town Plaza in Fairfax. The plaza is a fun place to
 walk and window shop as you decide which restaurant to visit. You can't go wrong
@@ -126,17 +86,7 @@ reasonable.
 
 ## Escape game
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/room-escape-fairfax-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/room-escape-fairfax-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/room-escape-fairfax-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/room-escape-fairfax-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Room Escape Fairfax in Fairfax, VA"
-  width="665"
-  height="499"
-  loading="lazy"
-/>
+![Room Escape Fairfax in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/room-escape-fairfax-665.webp)
 
 For an extra thrill, sign up for an escape game. At [Room Escape
 Fairfax](https://roomescapedc.com/), you and your team have 60 minutes to unravel
@@ -147,17 +97,7 @@ can be completed with anywhere from two to 10 people.
 
 ## Discover DC
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/panda-at-the-national-zoo-fairfax-va-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/panda-at-the-national-zoo-fairfax-va-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/panda-at-the-national-zoo-fairfax-va-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/panda-at-the-national-zoo-fairfax-va-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="Panda eating bamboo at the National Zoo in Fairfax, VA"
-  width="665"
-  height="443"
-  loading="lazy"
-/>
+![Panda eating bamboo at the National Zoo in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/panda-at-the-national-zoo-fairfax-va-665.webp)
 
 Save a day to head into DC. There's public transport from Fairfax County, or you
 can drive. If you opt for driving, budget for parking fees. On the plus side,
@@ -166,17 +106,7 @@ Zoo](https://nationalzoo.si.edu/), you can hang with apes, alpacas, pandas and
 sea lions, all for free. If you can, visit during meal times when the animals
 are active. The keeper talks are also not to be missed.
 
-<img
-  src="/assets/img/things-to-do-in-virginias-fairfax-county/international-spy-museum-fairfax-va-665.webp"
-  srcset="/assets/img/things-to-do-in-virginias-fairfax-county/international-spy-museum-fairfax-va-320.webp 320w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/international-spy-museum-fairfax-va-480.webp 480w,
-          /assets/img/things-to-do-in-virginias-fairfax-county/international-spy-museum-fairfax-va-665.webp 665w"
-  sizes="(max-width: 665px) 100vw, 665px"
-  alt="International Spy Museum in Fairfax, VA"
-  width="665"
-  height="443"
-  loading="lazy"
-/>
+![International Spy Museum in Fairfax, VA](/assets/img/things-to-do-in-virginias-fairfax-county/international-spy-museum-fairfax-va-665.webp)
 
 If you've done the DC tourist circuit already, don't worry — there's plenty
 more. For an attraction much less crowded than the Smithsonian museums but still
