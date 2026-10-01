@@ -1,11 +1,89 @@
-media: media
+media:
+  input: assets/img
+  output: /assets/img
+
 content:
-  - name: pages
-    label: Pages
+  - name: posts
+    label: Posts
     type: collection
-    path: docs
+    path: _posts
+    filename: "{year}-{month}-{day}-{fields.title}.md"
+    view:
+      primary: title
+      fields: [title, date, category, featured]
+      sort: [date]
+      order: desc
     fields:
       - name: title
+        label: Title
         type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: image
+        label: Featured Image
+        type: image
+      - name: featured
+        label: Featured
+        type: boolean
+        default: true
+      - name: category
+        label: Category
+        type: string
+        options:
+          values:
+            - Florida
+            - Georgia
+            - New York
+            - North Carolina
+            - Ohio
+            - Pennsylvania
+            - South Carolina
+            - Virginia
+            - Wisconsin
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+        hidden: true
+      - name: author
+        label: Author
+        type: string
+        default: Cheryl Rodewig
+      - name: excerpt
+        label: Excerpt
+        type: text
       - name: body
+        label: Content
+        type: rich-text
+
+  - name: destinations
+    label: Destinations
+    type: collection
+    path: _destinations
+    filename: "{fields.title}.md"
+    view:
+      primary: title
+      fields: [title, continent]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: image
+        label: Image
+        type: image
+      - name: layout
+        label: Layout
+        type: string
+        default: category
+        hidden: true
+      - name: continent
+        label: Continent
+        type: string
+        default: North America
+      - name: body
+        label: Content
         type: rich-text
