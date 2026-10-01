@@ -1,7 +1,7 @@
 ---
 title: "How To Road Trip Florida's Famous A1A"
 date: 2026-04-07
-image: /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/a1a-sign-fort-lauderdale-fl.webp
+image: /assets/img/how-to-road-trip-floridas-famous-a1a/a1a-sign-fort-lauderdale-fl.webp
 featured: true
 category: Florida
 layout: post
@@ -18,10 +18,10 @@ frontiers as wild as the West, and a quirkiness that is unapologetically
 Floridian.
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/beach-in-key-west-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Beach in Key West, FL"
   width="665"
@@ -40,10 +40,10 @@ Detours are irresistible.
 ## Steeped in History
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/castillo-de-san-marcos-in-st-augustine-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Castillo de San Marcos in St. Augustine, FL"
   width="665"
@@ -64,10 +64,10 @@ drawbridge, dry moat, dungeons, and towers, the star-shaped fortress stands
 regal against a backdrop of palm trees and T-shirt-clad tourists.
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/worlds-oldest-wooden-school-house-in-st-augustine-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="World's Oldest Wooden School House in St Augustine, FL"
   width="665"
@@ -100,10 +100,10 @@ as intricate as brushstrokes.
 ## Lagoon Life
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/jetty-at-ponce-inlet-near-daytona-beach-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Jetty at the Ponce Inlet near Daytona Beach, FL"
   width="665"
@@ -123,10 +123,10 @@ backcountry wilds of Florida.
 ## Optional Detour: Cracker Creek
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/kayaking-at-cracker-creek-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Kayaking at Cracker Creek, FL"
   width="665"
@@ -155,10 +155,10 @@ wood.
 ## Cape Canaveral and Cocoa Beach
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/cocoa-beach-pier-cocoa-beach-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Cocoa Beach Pier in Cocoa Beach, FL"
   width="665"
@@ -192,10 +192,10 @@ ocean. In spring, wildflowers bloom purple and yellow on the coastal plain.
 ## Treasure Coast
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/fish-tacos-at-little-jim-bait-tackle-in-fort-pierce-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Fish tacos at Little Jim Bait & Tackle in Fort Pierce, FL"
   width="665"
@@ -219,10 +219,10 @@ fresh and plentiful shrimp with the zest of a flawless cilantro-lime sauce. The
 views and good vibes didn't hurt either.
 
 <img
-  src="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp"
-  srcset="/assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-320.webp 320w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-480.webp 480w,
-          /assets/img/2025-04-09-how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp 665w"
+  src="/assets/img/how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp"
+  srcset="/assets/img/how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-320.webp 320w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-480.webp 480w,
+          /assets/img/how-to-road-trip-floridas-famous-a1a/ross-witham-beach-stuart-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Ross Witham Beach in Stuart, FL"
   width="665"

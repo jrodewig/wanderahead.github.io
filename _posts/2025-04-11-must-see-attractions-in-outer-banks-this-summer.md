@@ -1,7 +1,7 @@
 ---
 title: Must-See Attractions in the Outer Banks
 date: 2026-04-11
-image: /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/lighthouse-in-nags-head-nc-in-the-outer-banks.webp
+image: /assets/img/must-see-attractions-in-outer-banks-this-summer/lighthouse-in-nags-head-nc-in-the-outer-banks.webp
 featured: true
 category: North Carolina
 layout: post
@@ -22,12 +22,12 @@ some solid dining options. Mix and match to craft your ideal OBX escape.
 ## The Lost Colony
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/lost-colony-play-outer-banks-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="The Lost Colony play in the
   Outer Banks, NC" width="665" height="374" loading="lazy" />
 
@@ -45,12 +45,12 @@ million viewers since 1937. Worth the trip alone.
 ## Jockey's Ridge State Park
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/ruined-folly-at-jockeys-ridge-state-park-in-the-outer-banks-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Ruined folly at Jockey's
   Ridge State Park in the Outer Banks, NC" width="665" height="499"
   loading="lazy" />
@@ -67,12 +67,12 @@ the soundside too. Sunrises and sunsets here are unbeatable. Admission is free.
 ## Jennette's Pier
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/jennettes-pier-in-the-outer-banks-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Jennette's Pier in the
   Outer Banks, NC" width="665" height="499" loading="lazy" />
 
@@ -86,12 +86,12 @@ underneath where the wooden pilings frame the waves.
 ## Roanoke Island Festival Park
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/1500s-style-woodworker-at-roanoke-island-festival-park-in-the-outer-banks-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="1500s-style woodworker at
   Roanoke Island Festival Park in the Outer Banks, NC" width="665" height="374"
   loading="lazy" />
@@ -108,12 +108,12 @@ history lesson.
 ## The Elizabethan Gardens
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/statue-of-queen-elizabeth-at-the-elizabethan-gardens-in-the-outer-banks-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Statue of Queen Elizabeth
   at the Elizabethan Gardens in the Outer Banks, NC" width="665" height="374"
   loading="lazy" />
@@ -130,12 +130,12 @@ opening in summer for cooler temps.
 ## Outer Banks Beaches
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/outer-bank-beaches-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="OBX Beaches in the Outer
   Banks, NC" width="665" height="374" loading="lazy" />
 
@@ -150,12 +150,12 @@ and a bowl, but both hit the spot.
 ## Duck Boardwalk
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/duck-boardwalk-in-duck-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Duck Boardwalk in Duck, NC"
   width="665" height="374" loading="lazy" />
 
@@ -172,12 +172,12 @@ laid-back vibe.
 ## Outer Banks National Scenic Byway
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/bodie-island-light-station-cape-hatteras-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Bodie Island Light Station
   in Cape Hatteras, NC" width="665" height="374" loading="lazy" />
 
@@ -193,12 +193,12 @@ Pamlico Sound sunset.
 ## Bonus: Where To Stay in the Outer Banks
 
 <img
-  src="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp"
-  srcset="/assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-320.webp
+  src="/assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp"
+  srcset="/assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-320.webp
           320w,
-          /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-480.webp
+          /assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-480.webp
   480w,
-  /assets/img/2025-04-10-must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp
+  /assets/img/must-see-attractions-in-outer-banks-this-summer/guest-room-at-the-pearl-in-outer-banks-nc-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Guest room at The Pearl in
   the Outer Banks, NC" width="665" height="374" loading="lazy" />
 

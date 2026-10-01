@@ -1,7 +1,7 @@
 ---
 title: The Perfect One-Day Cincinnati Itinerary
 date: 2026-04-14
-image: /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-oh.webp
+image: /assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-oh.webp
 featured: true
 category: Ohio
 layout: post
@@ -19,10 +19,10 @@ one unforgettable day in Cincinnati.
 ## Visiting the Cincinnati Zoo
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/african-wild-dog-at-cincinnati-zoo-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="African Wild Dog at the Cincinnati Zoo and Botanical Garden in Cincinnati, OH"
   width="665"
@@ -36,10 +36,10 @@ The zoo is carefully designed so that even with crowds, there's a natural
 flow as you move through the park.
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/lioness-sunbathing-at-cincinnati-zoo-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Lioness sunbathing with lions in the background at the Cincinnati Zoo and Botanical Garden in Cincinnati, OH"
   width="665"
@@ -50,10 +50,10 @@ flow as you move through the park.
 Be sure to check out the lions, who often sun themselves in the morning.
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/gibbon-in-primate-exhibit-at-cincinnati-zoo-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Gibbon tightrope walking along a vine at the Cincinnati Zoo and Botanical Garden in Cincinnati, OH"
   width="665"
@@ -67,10 +67,10 @@ African jungle Gorilla World.
 ## Lunch in Cincinnati 
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/findlay-market-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Findlay Market in Cincinnati, OH"
   width="665"
@@ -89,10 +89,10 @@ noodles. [Skyline Chili](https://skylinechili.com/) is a popular local chain.
 You may have seen cans of their product in your local grocery store.
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/burger-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Burger in Cincinnati, OH"
   width="665"
@@ -110,10 +110,10 @@ year-round [Findlay Market](https://www.findlaymarket.org/).
 ## The Unusual Mushroom House in Hyde Park
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-hyde-park-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="The Mushroom House in the Hyde Park in Cincinnati, OH"
   width="665"
@@ -126,10 +126,10 @@ that's both Instagrammable and unusual is the Mushroom House in the Hyde Park
 neighborhood.
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/mushroom-house-stairs-hyde-park-in-cincinnati-oh-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="The Mushroom House in the Hyde Park in Cincinnati, OH"
   width="665"
@@ -145,10 +145,10 @@ blending art with the unexpected.
 ## Flowers, Art, and an Arch at Eden Park 
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-art-museum-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Cincinnati Art Museum in Cincinnati, OH"
   width="665"
@@ -181,10 +181,10 @@ Playhouse](https://cincyplay.com/).
 ## Live Theater at Cincinnati Playhouse in the Park
 
 <img
-  src="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-665.webp"
-  srcset="/assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-320.webp 320w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-480.webp 480w,
-          /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-665.webp 665w"
+  src="/assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-665.webp"
+  srcset="/assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-320.webp 320w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-480.webp 480w,
+          /assets/img/the-perfect-oneday-cincinnati-itinerary/cincinnati-playhouse-in-the-park-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Interior shot of an audience during intermission Cincinnati Playhouse in the Park"
   width="665"

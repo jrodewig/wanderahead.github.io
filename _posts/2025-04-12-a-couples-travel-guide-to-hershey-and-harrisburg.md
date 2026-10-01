@@ -1,7 +1,7 @@
 ---
 title: A Couple's Travel Guide to Hershey and Harrisburg
 date: 2026-04-12
-image: /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/garden-hershey-pa.webp
+image: /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/garden-hershey-pa.webp
 featured: true
 category: Pennsylvania
 layout: post
@@ -20,10 +20,10 @@ Here's how to make the most of a couple's getaway in these neighboring cities.
 ## Discovering Harrisburg
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/state-capitol-in-harrisburb-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Capitol building in Harrisburg, Pennsylvania"
   width="665"
@@ -40,10 +40,10 @@ House and Supreme Court, lavishly gilded and accented with murals and
 chandeliers. With everything free, it's the best deal in town.
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/natural-bridge-state-park-in-harrisburg-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Natural Bridge State Park in Harrisburg, PA"
   width="665"
@@ -70,10 +70,10 @@ low-key, tackle more of the 20-mile Capital Area Greenbelt on bike.
 ## A Taste of Hershey
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/butterflies-in-the-butterfly-atrium-in-hershey-gardens-at-hershey-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Butterflies in the Butterfly Atrium in Hershey Gardens at Hershey, PA"
   width="665"
@@ -89,10 +89,10 @@ before the crowds arrive and when the weather is still cool. For year-round
 color, the Butterfly Atrium recreates a tropical paradise.
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/bears-playing-at-zooamerica-hershey-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Bears playing at ZooAmerica in Hershey, PA"
   width="665"
@@ -115,10 +115,10 @@ learn about the chocolate creation process and get a little something to savor
 on the way home.
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hersheys-chocolate-world-in-hershey-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Hershey Chocolate World in Hershey, PA"
   width="665"
@@ -135,10 +135,10 @@ around-the-world sampling of drinking chocolates.
 ## Lodging and Dining
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/hotel-indigo-harrisburg-hershey-in-hershey-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Hotel Indigo Harrisburg Hershey in Hershey, PA"
   width="665"
@@ -161,10 +161,10 @@ with up-the-minute conveniences like a remote-controlled thermostat and plenty
 of nightstand outlets to charge your devices.
 
 <img
-  src="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp"
-  srcset="/assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-320.webp 320w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-480.webp 480w,
-          /assets/img/2025-04-12-a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp 665w"
+  src="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp"
+  srcset="/assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-320.webp 320w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-480.webp 480w,
+          /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/tomato-pie-at-tomato-pie-cafe-in-hershey-pa-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Tomato Pie at Tomato Pie Café in Hershey, PA"
   width="665"

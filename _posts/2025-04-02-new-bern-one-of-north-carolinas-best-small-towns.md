@@ -1,7 +1,7 @@
 ---
 title: "New Bern: One of North Carolina's Best Small Towns"
 date: 2026-04-02
-image: /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/new-bern-coat-of-arms-new-bern-nc.webp
+image: /assets/img/new-bern-one-of-north-carolinas-best-small-towns/new-bern-coat-of-arms-new-bern-nc.webp
 featured: true
 category: North Carolina
 layout: post
@@ -16,10 +16,10 @@ Raleigh and the coastal town of Wilmington, making it an easy stop on any road
 trip through the region.
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/gardens-at-tyron-palace-in-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Gardens at Tyron Palace in New Bern, NC"
   width="665"
@@ -39,10 +39,10 @@ experiences to prioritize when you visit New Bern.
 ## Get Out on the Water
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/neuse-river-tour-with-anchors-up-marine-solutions-new-bern-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Cruise on the Neuse River with Anchors Up Marine Solutions in New Bern, NC"
   width="665"
@@ -80,10 +80,10 @@ kingfishers, and cardinals are common sights. Or just to zoom in on the scenery.
 ## Go Out on the Town
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/british-colonial-bear-in-new-bern-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="British colonial bear in New Bern, NC"
   width="665"
@@ -103,10 +103,10 @@ from birdhouses to barbecue sauce to boating gear and doubles as an attraction
 itself.
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/birthplace-pepsi-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="The Birthplace of Pepsi in New Bern, NC"
   width="665"
@@ -120,10 +120,10 @@ international bottles, even a Mountain Dew hillbilly mural. Then grab a Pepsi
 float and popcorn at the soda shop.
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/beary-the-hatchet-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Beary The Hatchet in New Bern, NC"
   width="665"
@@ -145,10 +145,10 @@ them.
 ## Stop in at the Palace
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/tyron-palace-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Tyron Palace in New Bern, NC"
   width="665"
@@ -191,10 +191,10 @@ standout picks for every meal, plus a snack stop.
 ### Breakfast
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/breakfast-from-bakers-kitchen-bakery-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Breakfast in Baker's Kitchen Restaurant & Bakery in New Bern, NC"
   width="665"
@@ -217,10 +217,10 @@ the day.
 ### Lunch
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/lunch-at-lawsons-on-the-creek-in-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Lunch at Lawson's on the Creek in New Bern, NC"
   width="665"
@@ -238,10 +238,10 @@ The patio views are a bonus. It's worth stepping out for even if you eat inside.
 ### Dinner
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/burger-mac-cheese-morgans-tavern-grill-new-bern-nc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Burger and mac-and-cheese at Morgan's Tavern & Grill in New Bern, NC"
   width="665"
@@ -264,10 +264,10 @@ Dessert is a must, even if just to admire the platter.
 ### Coffee and Snack
 
 <img
-  src="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-665.webp"
-  srcset="/assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-320.webp 320w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-480.webp 480w,
-          /assets/img/2025-04-09-new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-665.webp 665w"
+  src="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-665.webp"
+  srcset="/assets/img/new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-320.webp 320w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-480.webp 480w,
+          /assets/img/new-bern-one-of-north-carolinas-best-small-towns/coffee-greek-salad-bellas-cafe-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Coffee and Greek salad at Bella's Cafe & Catering"
   width="665"

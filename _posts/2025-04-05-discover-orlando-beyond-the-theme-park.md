@@ -1,7 +1,7 @@
 ---
 title: Discover Orlando Beyond the Theme Parks
 date: 2026-04-05
-image: /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/lake-eola-in-downtown-orlando-fl.webp
+image: /assets/img/discover-orlando-beyond-the-theme-park/lake-eola-in-downtown-orlando-fl.webp
 featured: true
 category: Florida
 layout: post
@@ -18,10 +18,10 @@ Orlando.
 ## Culture on a Dime
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-665.webp 665w"
+  src="/assets/img/discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-665.webp"
+  srcset="/assets/img/discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-320.webp 320w,
+          /assets/img/discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-480.webp 480w,
+          /assets/img/discover-orlando-beyond-the-theme-park/downtown-orlando-at-night-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Downtown Orlando at Night"
   width="665"
@@ -39,10 +39,10 @@ Central Florida's past at the [Orange County Regional History
 Center](https://www.thehistorycenter.org/).
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-665.webp 665w"
+  src="/assets/img/discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-665.webp"
+  srcset="/assets/img/discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-320.webp 320w,
+          /assets/img/discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-480.webp 480w,
+          /assets/img/discover-orlando-beyond-the-theme-park/albin-polasek-museum-and-sculpture-gardens-in-winter-park-fl-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Albin Polasek Museum & Sculpture Gardens in Winter Park, FL"                                                                                             width="665"
   height="499"
@@ -58,10 +58,10 @@ bliss out in the backyard sculpture garden on Lake Osceola.
 ## Best Entertainment
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp 665w"
+  src="/assets/img/discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp"
+  srcset="/assets/img/discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-320.webp 320w,
+          /assets/img/discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-480.webp 480w,
+          /assets/img/discover-orlando-beyond-the-theme-park/sak-comedy-lab-downtown-orlando-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="SAK comedy lab in Downtown Orlando, FL"
   width="665"
@@ -87,10 +87,10 @@ and quoting zany lines performers made up on the spot. And you can go right back
 the next night to see something new.
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp 665w"
+  src="/assets/img/discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp"
+  srcset="/assets/img/discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-320.webp 320w,
+          /assets/img/discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-480.webp 480w,
+          /assets/img/discover-orlando-beyond-the-theme-park/sleeping-cat-at-orlando-cat-cafe-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Sleeping cat at the Orlando Cat Cafe"
   width="665"
@@ -121,10 +121,10 @@ and play with them or just admire the way they lounge with absolute abandon.
 ## Where To Eat in Orlando
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp 665w"
+  src="/assets/img/discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp"
+  srcset="/assets/img/discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-320.webp 320w,
+          /assets/img/discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-480.webp 480w,
+          /assets/img/discover-orlando-beyond-the-theme-park/pastries-donuts-buttermilk-bakery-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Pastries and doughnuts from the Buttermilk Baker in Orlando, FL"
   width="665"
@@ -141,10 +141,10 @@ fruit. The sheer variety makes it hard to choose, but you're on vacation, so you
 have permission to order at least three.
 
 <img
-  src="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp"
-  srcset="/assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-320.webp 320w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-480.webp 480w,
-          /assets/img/2025-04-09-discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp 665w"
+  src="/assets/img/discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp"
+  srcset="/assets/img/discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-320.webp 320w,
+          /assets/img/discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-480.webp 480w,
+          /assets/img/discover-orlando-beyond-the-theme-park/shrimp-bowl-and-dip-east-end-market-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Shrimp bowl and dip at the East End Market in Orlando, FL"
   width="665"

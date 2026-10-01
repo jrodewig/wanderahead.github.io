@@ -1,7 +1,7 @@
 ---
 title: "Visiting Forsyth: From a Fox 'Hunt' to Fried Green Tomatoes"
 date: 2026-04-04
-image: /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/victorian-brick-courthouse-in-forsyth-ga.webp
+image: /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/victorian-brick-courthouse-in-forsyth-ga.webp
 featured: true
 category: Georgia
 layout: post
@@ -15,12 +15,12 @@ dozens of buildings on the National Register of Historic Places, many repurposed
 as boutiques or restaurants.
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-320.webp
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-320.webp
           320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-480.webp
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-480.webp
   480w,
-  /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="National Register of
   Historic Places plaque in Forsyth, GA" width="665" height="499" loading="lazy"
   />
@@ -36,12 +36,12 @@ was home to Georgia's first railroad, and you can spot a second depot in town,
 this one dating to the 1850s, just down the street from the museum.
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-320.webp
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-320.webp
           320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-480.webp
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-480.webp
   480w,
-  /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Monroe County Historical
   Society Museum and Archives" width="665" height="499" loading="lazy" />
 
@@ -61,10 +61,10 @@ variety: Gothic, neoclassical, Mediterranean, Italianate and more. A Victorian
 textile mill towers at one end of the street.
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-320.webp 320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-480.webp 480w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp 665w"
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Downtown Forsyth, GA"
   width="665"
@@ -84,10 +84,10 @@ in store when you visit Monroe County.
 ## Downtown Forsyth
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-320.webp 320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-480.webp 480w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp 665w"
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt=""
   width="665"
@@ -106,12 +106,12 @@ treats. Grab a sundae or a cone — butter pecan and salted caramel truffle are
 popular — and start exploring.
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-320.webp
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-320.webp
           320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-480.webp
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-480.webp
   480w,
-  /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Hidden Fox in Forsyth, GA"
   width="665" height="499" loading="lazy" />
 
@@ -139,10 +139,10 @@ spring.)
 ## Farm Life in Monroe County
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-320.webp 320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-480.webp 480w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp 665w"
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Old-timey Coca-Cola signs at Hamlin Hills Farms in Forsyth, GA"
   width="665"
@@ -170,12 +170,12 @@ locally grown and crafted products.
 ## Waterfall Watching
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-320.webp
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-320.webp
           320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-480.webp
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-480.webp
   480w,
-  /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Towaliga River in Juliette,
   GA" width="665" height="499" loading="lazy" />
 
@@ -195,10 +195,10 @@ ruins of the hydroelectric plant, dating to the 1890s, on a half-mile trail.
 ## Fried Green Tomatoes
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-320.webp 320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-480.webp 480w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp 665w"
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Whistle Stop Café in Juliette, GA"
   width="665"
@@ -216,10 +216,10 @@ nostalgic bric-a-brac fill the front porches. Even the sheriff's substation,
 petite and weathered, is undeniably Instagrammable.
 
 <img
-  src="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp"
-  srcset="/assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-320.webp 320w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-480.webp 480w,
-          /assets/img/2025-04-08-visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp 665w"
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Fried Green Tomatoes at the Whistle Stop Café in Juliette, GA"
   width="665"

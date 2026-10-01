@@ -1,7 +1,7 @@
 ---
 title: Why Longwood Gardens Is America's Most Beautiful Garden
 date: 2026-04-17
-image: /assets/img/2025-04-17-longing-for-longwood/longwood-gardens.webp
+image: /assets/img/longing-for-longwood/longwood-gardens.webp
 featured: true
 category: Pennsylvania
 layout: post
@@ -17,10 +17,10 @@ centuries into the showplace we see today: more than 1,000 acres of trees,
 topiaries, fountains, and flowers.
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/display-at-longwood-gardens-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/display-at-longwood-gardens-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/display-at-longwood-gardens-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/display-at-longwood-gardens-665.webp 665w"
+  src="/assets/img/longing-for-longwood/display-at-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/display-at-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/display-at-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/display-at-longwood-gardens-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Eden-like display at Longwood Gardens in Kennett Square, Pennsylvania"
   width="665"
@@ -40,10 +40,10 @@ manicured lawns. The Silver Garden is more subtle, dealing in shades of dusky
 blues and rock-studded greens.
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/conservatory-at-longwood-gardens-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/conservatory-at-longwood-gardens-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/conservatory-at-longwood-gardens-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/conservatory-at-longwood-gardens-665.webp 665w"
+  src="/assets/img/longing-for-longwood/conservatory-at-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/conservatory-at-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/conservatory-at-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/conservatory-at-longwood-gardens-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Conservatory at Longwood Gardens in Kennett Square, Pennsylvania"
   width="665"
@@ -60,10 +60,10 @@ yourself at least three hours to see it all.
 ## Enjoy Orchids and Other Greenhouse Gems
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp 665w"
+  src="/assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp"
+  srcset="/assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-320.webp 320w,
+          /assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-480.webp 480w,
+          /assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Snapdragons, hydrangeas, and other flowers at Longwood Gardens in Kennett Square, Pennsylvania"
   width="665"
@@ -83,10 +83,10 @@ hundred of the best on display. That changes each March during Orchid
 Extravaganza when Longwood imports thousands of orchids from around the world.
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/hanging-hydrangeas-longwood-gardens-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/hanging-hydrangeas-longwood-gardens-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp 665w"
+  src="/assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Hanging Hydrangeas at Longwood Gradens in Kennett Square, Pennsylvania"
   width="665"
@@ -100,10 +100,10 @@ They fill two ponds in the East Conservatory like orchid meadows.
 ## See the Fountains and Outdoor Gardens
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/main-fountain-garden-longwood-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/main-fountain-garden-longwood-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/main-fountain-garden-longwood-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/main-fountain-garden-longwood-665.webp 665w"
+  src="/assets/img/longing-for-longwood/main-fountain-garden-longwood-665.webp"
+  srcset="/assets/img/longing-for-longwood/main-fountain-garden-longwood-320.webp 320w,
+          /assets/img/longing-for-longwood/main-fountain-garden-longwood-480.webp 480w,
+          /assets/img/longing-for-longwood/main-fountain-garden-longwood-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Main Fountain Garden at Longwood Gradens in Kennett Square, Pennsylvania"
   width="665"
@@ -124,10 +124,10 @@ night when they up the ante with synchronized lights, music, and even fire.
 ## Check Out the Peirce-du Pont House
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp 665w"
+  src="/assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp"
+  srcset="/assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-320.webp 320w,
+          /assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-480.webp 480w,
+          /assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt=""
   width="665"
@@ -149,10 +149,10 @@ makes a perfect place to rest a spell.
 ## Enjoy the Holidays at Longwood Gardens
 
 <img
-  src="/assets/img/2025-04-17-longing-for-longwood/pool-at-longwood-gardens-665.webp"
-  srcset="/assets/img/2025-04-17-longing-for-longwood/pool-at-longwood-gardens-320.webp 320w,
-          /assets/img/2025-04-17-longing-for-longwood/pool-at-longwood-gardens-480.webp 480w,
-          /assets/img/2025-04-17-longing-for-longwood/pool-at-longwood-gardens-665.webp 665w"
+  src="/assets/img/longing-for-longwood/pool-at-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/pool-at-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/pool-at-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/pool-at-longwood-gardens-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Conservatory pool at Longwood Gradens in Kennett Square, Pennsylvania"
   width="665"
