@@ -1,14 +1,15 @@
 ---
 title: A Couple's Travel Guide to Hershey and Harrisburg
-date: 2026-04-12
+date: 2026-09-12
 image: /assets/img/a-couples-travel-guide-to-hershey-and-harrisburg/garden-hershey-pa.webp
 featured: true
 category: Pennsylvania
 layout: post
 author: Cheryl Rodewig
-excerpt: Harrisburg, a quaint city on the Susquehanna River, pairs historic charm and scenic trails with nearby Hershey for a romantic getaway blending culture, cuisine, and nature.
+excerpt: Harrisburg, a quaint city on the Susquehanna River, pairs historic
+  charm and scenic trails with nearby Hershey for a romantic getaway blending
+  culture, cuisine, and nature.
 ---
-
 A quiet city on the Susquehanna River, Harrisburg has fewer than 50,000
 residents but plenty of charm, from historic architecture to scenic trails. Add
 in Hershey, the nearby town of chocolate fame, and Pennsylvania's Hershey &
