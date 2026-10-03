@@ -1,7 +1,7 @@
 ---
 title: "7 Unexpected Things To Do in Calhoun, Georgia"
 date: 2026-04-03
-image: /assets/img/7-unexpected-things-to-do-in-calhoun-ga/flower-garden-calhoun-ga.webp
+image: /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/flower-garden-calhoun-ga.webp
 featured: true
 category: Georgia
 layout: post
@@ -20,10 +20,10 @@ including a Colosseum. If you know where to look, Gordon County's biggest city
 ## Pet Alpacas at K&T Farms
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Alpacas at K&T Farms in Rydal, GA"
   width="665"
@@ -37,10 +37,10 @@ skittish, the ones at [K&T Farms](https://www.kandtfarms.com/) are friendly. In
 fact, they'll eat right out of your hand.
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Alpacas at K&T Farms in Rydal, GA"
   width="665"
@@ -67,10 +67,10 @@ as valuable as cashmere. It's easy to believe when you pet the downy coats of
 1-year-old alpaca twins Domino and Tinker Bell.
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Alpacas at K&T Farms in Rydal, GA"
   width="665"
@@ -105,10 +105,10 @@ Christmas trees awaiting their final home.
 ## See the Sunflowers at Copper Creek Farm
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Sunflowers at Cooper Creek Farm in Calhoun, GA"
   width="665"
@@ -123,10 +123,10 @@ train, duck races. They have a corn maze in the fall along with a haunted barn
 and pumpkin cannon, making it a popular destination for families.
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Sunflowers at Cooper Creek Farm in Calhoun, GA"
   width="665"
@@ -154,12 +154,12 @@ the nature trails and historic sites. You can even go fishing.
 ## Experience a Miniature World at the Calhoun Rock Garden
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-320.webp
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-320.webp
           320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-480.webp
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-480.webp
   480w,
-  /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp
+  /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="The Calhoun Rock Garden in
   Calhoun, GA" width="665" height="482" loading="lazy" />
 <sub>Credit: Calhoun Seventh-day Adventist Church</sub>
@@ -182,12 +182,12 @@ buildings include a monastery, a lighthouse, Dover Castle, the historic town of
 Nottingham, and various parts of Paris.
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-320.webp
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-320.webp
           320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-480.webp
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-480.webp
   480w,
-  /assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp
+  /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp
   665w" sizes="(max-width: 665px) 100vw, 665px" alt="Cathedral at the Calhoun
   Rock Garden in Calhoun, GA" width="665" height="499" loading="lazy" />
 <sub>Credit: Calhoun Seventh-day Adventist Church</sub>
@@ -203,10 +203,10 @@ nearly an acre of land. It's maintained by volunteers who have also added a
 gazebo, picnic tables, and flowers to the park.
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Entrance to the Calhoun Rock Garden in Calhoun, GA"
   width="665"
@@ -240,10 +240,10 @@ Tasting on Saturday.
 ## Visit Downtown Calhoun
 
 <img
-  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp"
-  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-320.webp 320w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-480.webp 480w,
-          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp 665w"
+  src="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp"
+  srcset="/assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-320.webp 320w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-480.webp 480w,
+          /assets/img/2025-04-08-7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Downtown Calhoun, GA"
   width="665"

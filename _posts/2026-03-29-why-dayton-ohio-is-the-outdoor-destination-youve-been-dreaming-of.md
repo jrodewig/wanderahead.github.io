@@ -1,7 +1,7 @@
 ---
 title: Why Dayton, Ohio, Is the Outdoor Destination You've Been Dreaming Of
 date: 2026-03-29
-image: /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/dayton-ohio.webp
+image: /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/dayton-ohio.webp
 featured: true
 category: Ohio
 layout: post
@@ -19,10 +19,10 @@ gardens, streams and meadows, all free and open to the public.
 ## A Day Out in Nature
 
 <img
-  src="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-665.webp"
-  srcset="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-320.webp 320w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-480.webp 480w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-665.webp 665w"
+  src="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-665.webp"
+  srcset="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-320.webp 320w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-480.webp 480w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/view-from-tower-at-cox-arboretum-in-dayton-ohio-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="View from the viewing tower at Cox Arboretum in Dayton, Ohio"
   width="665"
@@ -48,10 +48,10 @@ Fir tree tower leads to an observation deck 45 feet up. It's worth the climb for
 sweeping views of the surrounding landscape.
 
 <img
-  src="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-665.webp"
-  srcset="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-320.webp 320w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-480.webp 480w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-665.webp 665w"
+  src="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-665.webp"
+  srcset="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-320.webp 320w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-480.webp 480w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/aullwood-garden-metropark-in-dayton-ohio-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Aullwood Garden Metropark in Dayton, Ohio"
   width="665"
@@ -75,10 +75,10 @@ music on Saturdays and non-food items, too, if you're looking to pick up a
 handmade souvenir.
 
 <img
-  src="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-665.webp"
-  srcset="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-320.webp 320w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-480.webp 480w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-665.webp 665w"
+  src="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-665.webp"
+  srcset="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-320.webp 320w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-480.webp 480w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/riverscape-metro-park-dayton-ohio-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="RiverScape MetroPark in Dayton, Ohio"
   width="665"
@@ -95,10 +95,10 @@ surprise you, but the pop-tops, cash register and ice cube tray are pretty
 fascinating.
 
 <img
-  src="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-665.webp"
-  srcset="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-320.webp 320w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-480.webp 480w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-665.webp 665w"
+  src="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-665.webp"
+  srcset="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-320.webp 320w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-480.webp 480w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-in-dayton-ohio-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Wegerzyn Gardens in Dayton, Ohio"
   width="665"
@@ -115,10 +115,10 @@ the world — enhanced with colored lights at night — shooting streams of wate
 ## Evening Entertainment
 
 <img
-  src="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-665.webp"
-  srcset="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-320.webp 320w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-480.webp 480w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-665.webp 665w"
+  src="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-665.webp"
+  srcset="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-320.webp 320w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-480.webp 480w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/wegerzyn-gardens-dayton-ohio-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Wegerzyn Gardens in Dayton, Ohio"
   width="665"
@@ -134,10 +134,10 @@ Forest Boardwalk, eerily tranquil just before dusk, though there's plenty of
 life below the water.
 
 <img
-  src="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-665.webp"
-  srcset="/assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-320.webp 320w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-480.webp 480w,
-          /assets/img/why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-665.webp 665w"
+  src="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-665.webp"
+  srcset="/assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-320.webp 320w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-480.webp 480w,
+          /assets/img/2025-04-12-why-dayton-ohio-is-the-outdoor-destination-youve-been-dreaming-of/little-mermaid-decor-at-dayton-playhouse-in-dayton-ohio-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt=""
   width="665"

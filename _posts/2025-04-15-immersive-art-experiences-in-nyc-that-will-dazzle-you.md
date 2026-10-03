@@ -1,7 +1,7 @@
 ---
 title: 8 Immersive Art Experiences in NYC That Will Dazzle You
 date: 2026-04-15
-image: /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/immersize-art-nyc.webp
+image: /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/immersize-art-nyc.webp
 featured: true
 category: New York
 layout: post
@@ -17,10 +17,10 @@ something unforgettable, check out these unique experiences.
 ## 1. Life and Trust
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/romantic-scene-life-and-trust-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Romantic scene in a Gilded Age bedroom for Life and Trust in NYC"
   width="665"
@@ -42,10 +42,10 @@ J.G. Conwell, chairman of the Life and Trust bank, who trades his soul to relive
 his youth the night before the 1929 stock market crash.
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/acrobatic-bank-vault-choreography-life-and-trust-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Acrobatic choreograph in the Conwell building's bank vault for Life and
   Trust in NYC"
@@ -71,10 +71,10 @@ you'll want to come back.
 ## 2. Mercer Labs, Museum of Art and Technology
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/flower-room-at-mercer-labs-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Flower room at Mercer Labs, Museum of Art and Technology in NYC"
   width="665"
@@ -94,10 +94,10 @@ swing as a giant dove, brought to life in 16K projection, flies toward you,
 trailing digital gold dust in its wake.
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/the-dragon-at-mercer-labs-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="The Dragon at Mercer Labs, Museum of Art and Technology in NYC"
   width="665"
@@ -111,10 +111,10 @@ voxels (yep, 3D pixels — I had to Google it too) in midair, like stepping into
 hologram.
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/abstract-chess-set-at-mercer-labs-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Abstract chess set at Mercer Labs, Museum of Art and Technology in NYC"
   width="665"
@@ -129,10 +129,10 @@ sandcastles with magnetic sand. Every experience is different.
 ## 3. Vessel
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-view-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Vessel view in NYC"
   width="665"
@@ -152,10 +152,10 @@ perspective is always changing, and even the facade, with its bronze-colored
 reflective surface, shifts throughout the day.
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/vessel-near-hudson-yards-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Vessel near Hudson Yards in NYC"
   width="665"
@@ -172,10 +172,10 @@ serve as a frame for your photos.
 ## 4. Little Island
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/little-island-in-fall-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Little Island in NYC"
   width="665"
@@ -204,10 +204,10 @@ what's going on during your visit.
 ## 5. Museum of Ice Cream
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/dessert-room-in-museum-of-ice-cream-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Dessert room at the Museum of Ice Cream in NYC"
   width="665"
@@ -228,10 +228,10 @@ wild history or discover how it's eaten worldwide, all while snapping
 Instagrammable pics.
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/banana-room-at-museum-of-ice-cream-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Banana room at the Museum of Ice Cream in NYC"
   width="665"
@@ -251,10 +251,10 @@ it over a world built with ice cream. Grown-ups will have a blast too.
 ## 6. RiseNY
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/beatles-display-at-riseny-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Beatles and Ed Sullivan Show display at RiseNY in NYC"
   width="665"
@@ -274,10 +274,10 @@ virtual subway to a museum inside the attraction, bursting with exhibits that
 spotlight the city's icons and unsung heroes.
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/wicked-exhibit-at-riseny-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Wicked Broadway exhibit at RiseNY in NYC"
   width="665"
@@ -300,10 +300,10 @@ see New York from the sky.
 ## 7. Artechouse NYC
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/magenta-program-at-artechouse-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Magenta exhibit in main hall of Artechouse NYC"
   width="665"
@@ -338,10 +338,10 @@ adventure.
 ### Mercado Little Spain
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/impressive-spread-of-food-at-mercado-little-spain-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Impressive spread of food, including Spanish omelette, Jamón Ibérico, and croquetas at Mercado Little Spain"
   width="665"
@@ -364,10 +364,10 @@ to steal tastes of the creamy filling as kids.
 ### Market 57
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/market-57-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Interior of Market 57 in NYC"
   width="665"
@@ -389,10 +389,10 @@ memorable.
 ### Moynihan Food Hall
 
 <img
-  src="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-665.webp"
-  srcset="/assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-320.webp 320w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-480.webp 480w,
-          /assets/img/immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-665.webp 665w"
+  src="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-665.webp"
+  srcset="/assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-320.webp 320w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-480.webp 480w,
+          /assets/img/2025-04-15-immersive-art-experiences-in-nyc-that-will-dazzle-you/almond-croissant-from-cha-cha-in-moynihan-food-hall-in-nyc-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Almond croissant from Cha Cha in Moynihan Food Hall in NYC"
   width="665"

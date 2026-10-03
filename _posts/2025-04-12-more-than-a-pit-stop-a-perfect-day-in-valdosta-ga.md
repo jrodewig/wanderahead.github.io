@@ -1,7 +1,7 @@
 ---
 title: "More Than a Pit Stop: A Perfect Day in Valdosta, GA"
 date: 2026-04-12
-image: /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/valdosta-ga.webp
+image: /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/valdosta-ga.webp
 featured: true
 category: Georgia
 layout: post
@@ -20,10 +20,10 @@ has to offer.
 ## Spend the Morning at Wild Adventures
 
 <img
-  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp"
-  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-320.webp 320w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-480.webp 480w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp 665w"
+  src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp"
+  srcset="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-320.webp 320w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-480.webp 480w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Wild Adventures in Valdosta, GA"
   width="665"
@@ -42,10 +42,10 @@ monkeys.
 ## Eat Empanadas in the Afternoon
 
 <img
-  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp"
-  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-320.webp 320w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-480.webp 480w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp 665w"
+  src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp"
+  srcset="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-320.webp 320w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-480.webp 480w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Empanadas at Empanadas & More restaurant in Valdosta, GA"
   width="665"
@@ -68,10 +68,10 @@ savoring the layers of spices and contrasting textures.
 It's all good, but their crisp empanadas are the stars. Order at least two.
 
 <img
-  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp"
-  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-320.webp 320w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-480.webp 480w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp 665w"
+  src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp"
+  srcset="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-320.webp 320w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-480.webp 480w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Steak at Empanadas & More restaurant in Valdosta, GA"
   width="665"
@@ -95,10 +95,10 @@ visit, free of charge, for a self-guided tour of the interior, with period
 furniture, between 2 and 5 p.m. weekdays.
 
 <img
-  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp"
-  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-320.webp 320w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-480.webp 480w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp 665w"
+  src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp"
+  srcset="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-320.webp 320w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-480.webp 480w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="The Crescent in Valdosta, GA"
   width="665"
@@ -116,10 +116,10 @@ European antiques and fine porcelain.
 ## Escape in the Evening
 
 <img
-  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp"
-  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-320.webp 320w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-480.webp 480w,
-          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp 665w"
+  src="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp"
+  srcset="/assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-320.webp 320w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-480.webp 480w,
+          /assets/img/2025-04-12-more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp 665w"
   sizes="(max-width: 665px) 100vw, 665px"
   alt="Epic Escape Rooms in Valdosta, GA"
   width="665"
