@@ -1,6 +1,6 @@
 ---
 title: The Perfect One-Day Cincinnati Itinerary
-date: 2026-09-14
+date: 2026-09-15
 image: /assets/img/2025-04-14-the-perfect-oneday-cincinnati-itinerary/cincinnati-oh.webp
 featured: true
 category: Ohio
