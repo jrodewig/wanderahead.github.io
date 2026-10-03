@@ -19,14 +19,34 @@ including a Colosseum. If you know where to look, Gordon County's biggest city
 
 ## Pet Alpacas at K&T Farms
 
-![Alpacas at K&T Farms in Rydal, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Alpacas at K&T Farms in Rydal, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 Start your adventure at a local alpaca farm. These herd animals hail from Peru,
 but the Georgia climate agrees with them just fine. Though they're usually
 skittish, the ones at [K&T Farms](https://www.kandtfarms.com/) are friendly. In
 fact, they'll eat right out of your hand.
 
-![Alpacas at K&T Farms in Rydal, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Alpacas at K&T Farms in Rydal, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 "That's because they're only fed when people come to visit," explains Jenna
 Cain, who started offering farm tours in 2017. The two-hour tours, held Monday
@@ -46,7 +66,17 @@ alpaca fiber. Cain will tell you how fiber from young alpacas, called crias, is
 as valuable as cashmere. It's easy to believe when you pet the downy coats of
 1-year-old alpaca twins Domino and Tinker Bell.
 
-![Alpacas at K&T Farms in Rydal, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/even-more-alpacas-at-kt-farms-in-rydal-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Alpacas at K&T Farms in Rydal, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 The farm store has the usual souvenirs (felted soap, dryer balls) and unusual
 ones: nesting balls that look like giant furry heads, which you hang in your
@@ -74,7 +104,17 @@ Christmas trees awaiting their final home.
 
 ## See the Sunflowers at Copper Creek Farm
 
-![Sunflowers at Cooper Creek Farm in Calhoun, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/sunflowers-at-cooper-creek-farm-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Sunflowers at Cooper Creek Farm in Calhoun, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 Your farm fun isn't over. On the other side of town, [Copper
 Creek Farm](http://www.coppercreekfarm.com/) is open
@@ -82,7 +122,17 @@ seasonally for all the traditional kitschy entertainment: mechanical bull, cow
 train, duck races. They have a corn maze in the fall along with a haunted barn
 and pumpkin cannon, making it a popular destination for families.
 
-![Sunflowers at Cooper Creek Farm in Calhoun, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/more-sunflowers-at-cooper-creek-farm-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Sunflowers at Cooper Creek Farm in Calhoun, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 The stars of the show come out in summer, though, when a field of golden
 sunflowers erupts into bloom. Their beauty is fleeting, here for only a few
@@ -103,8 +153,15 @@ the nature trails and historic sites. You can even go fishing.
 
 ## Experience a Miniature World at the Calhoun Rock Garden
 
-![The Calhoun Rock Garden in
-  Calhoun, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-320.webp
+          320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-480.webp
+  480w,
+  /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-in-calhoun-ga-665.webp
+  665w" sizes="(max-width: 665px) 100vw, 665px" alt="The Calhoun Rock Garden in
+  Calhoun, GA" width="665" height="482" loading="lazy" />
 <sub>Credit: Calhoun Seventh-day Adventist Church</sub>
 
 As you head to the city center, take a detour for a very different outdoor
@@ -124,8 +181,15 @@ blue-domed town of Bethlehem, Japan's Himeji Castle, and Camelot. Other
 buildings include a monastery, a lighthouse, Dover Castle, the historic town of
 Nottingham, and various parts of Paris.
 
-![Cathedral at the Calhoun
-  Rock Garden in Calhoun, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-320.webp
+          320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-480.webp
+  480w,
+  /assets/img/7-unexpected-things-to-do-in-calhoun-ga/cathedral-in-calhoun-rock-garden-in-calhoun-ga-665.webp
+  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Cathedral at the Calhoun
+  Rock Garden in Calhoun, GA" width="665" height="499" loading="lazy" />
 <sub>Credit: Calhoun Seventh-day Adventist Church</sub>
 
 Peer into some of the windows and you'll even see tiny people and furniture
@@ -138,7 +202,17 @@ as a hobby back in 2007. Since then, the Lilliputian village has spread across
 nearly an acre of land. It's maintained by volunteers who have also added a
 gazebo, picnic tables, and flowers to the park.
 
-![Entrance to the Calhoun Rock Garden in Calhoun, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/calhoun-rock-garden-entrance-in-calhoun-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Entrance to the Calhoun Rock Garden in Calhoun, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 This is folk art at its best. The garden is a veritable scavenger hunt for
 details: engraved tile floors, a prayer room with names of couples who've been
@@ -165,7 +239,17 @@ Tasting on Saturday.
 
 ## Visit Downtown Calhoun
 
-![Downtown Calhoun, GA](/assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp)
+<img
+  src="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp"
+  srcset="/assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-320.webp 320w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-480.webp 480w,
+          /assets/img/7-unexpected-things-to-do-in-calhoun-ga/downtown-calhoun-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Downtown Calhoun, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 After communing with nature, you'll be ready for city exploration. In Calhoun,
 the hub is the downtown strip, five blocks along South Wall Street.

@@ -14,8 +14,16 @@ presides over the square. It's surrounded by a broad lawn, mature trees and
 dozens of buildings on the National Register of Historic Places, many repurposed
 as boutiques or restaurants.
 
-![National Register of
-  Historic Places plaque in Forsyth, GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-320.webp
+          320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-480.webp
+  480w,
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/national-register-of-historic-places-forsyth-ga-665.webp
+  665w" sizes="(max-width: 665px) 100vw, 665px" alt="National Register of
+  Historic Places plaque in Forsyth, GA" width="665" height="499" loading="lazy"
+  />
 
 This scene alone makes the stop along I-75 between Atlanta and Macon worth it,
 but there's much more to discover. Monroe County, which just celebrated its
@@ -27,8 +35,15 @@ Archives](https://www.mchsga.org), housed inside an 1899 train depot. Forsyth
 was home to Georgia's first railroad, and you can spot a second depot in town,
 this one dating to the 1850s, just down the street from the museum.
 
-![Monroe County Historical
-  Society Museum and Archives](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-320.webp
+          320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-480.webp
+  480w,
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/monroe-county-historical-society-museum-and-archives-665.webp
+  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Monroe County Historical
+  Society Museum and Archives" width="665" height="499" loading="lazy" />
 
 Farther afield at [Jarrell Plantation State Historic
 Site](https://gastateparks.org/JarrellPlantation), step back in time to an
@@ -45,7 +60,17 @@ Indian Springs Drive, walking distance from the square, for its architectural
 variety: Gothic, neoclassical, Mediterranean, Italianate and more. A Victorian
 textile mill towers at one end of the street.
 
-![Downtown Forsyth, GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/downtown-forsyth-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Downtown Forsyth, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 If you want to see and do it all, you'll need more than an afternoon. Staying in
 Forsyth, you'll be central to the main attractions. There's a KOA campground as
@@ -58,7 +83,17 @@ in store when you visit Monroe County.
 
 ## Downtown Forsyth
 
-![](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/supersized-cone-at-scoops-in-downtown-forsyth-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt=""
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 Start your journey in downtown Forsyth. If it's a weekday, head inside the
 courthouse to see the restored courtroom with its decorative pressed tin
@@ -70,7 +105,15 @@ packed with novelty candy from decades ago along with all your favorite frozen
 treats. Grab a sundae or a cone — butter pecan and salted caramel truffle are
 popular — and start exploring.
 
-![Hidden Fox in Forsyth, GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-320.webp
+          320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-480.webp
+  480w,
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/hidden-fox-in-forsyth-ga-665.webp
+  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Hidden Fox in Forsyth, GA"
+  width="665" height="499" loading="lazy" />
 
 There's a fox hunt with clues that leads you all over downtown in search of
 miniature bronze foxes. Why foxes? It's a throwback to Forsyth's former
@@ -95,7 +138,17 @@ spring.)
 
 ## Farm Life in Monroe County
 
-![Old-timey Coca-Cola signs at Hamlin Hills Farms in Forsyth, GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/old-timey-cocacola-signs-at-hamlin-hills-farms-in-forsyth-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Old-timey Coca-Cola signs at Hamlin Hills Farms in Forsyth, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 Agritourism is thriving in Monroe County today. There's nearly always something
 in season, beginning with strawberries in the spring through pecans and pumpkins
@@ -116,8 +169,15 @@ locally grown and crafted products.
 
 ## Waterfall Watching
 
-![Towaliga River in Juliette,
-  GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-320.webp
+          320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-480.webp
+  480w,
+  /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/towaliga-river-in-juliette-ga-665.webp
+  665w" sizes="(max-width: 665px) 100vw, 665px" alt="Towaliga River in Juliette,
+  GA" width="665" height="499" loading="lazy" />
 
 If you're not expecting waterfalls outside North Georgia, [High Falls State
 Park](https://gastateparks.org/HighFalls) is something of a surprise. The broad,
@@ -134,7 +194,17 @@ ruins of the hydroelectric plant, dating to the 1890s, on a half-mile trail.
 
 ## Fried Green Tomatoes
 
-![Whistle Stop Café in Juliette, GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/whistle-stop-cafe-in-juliette-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Whistle Stop Café in Juliette, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 Monroe County has featured in a number of films: _Baby Driver_, _Anchorman 2_,
 _Cockfighter_, and _Seven Little Johnstons_, to name a few. But it's the 1990s
@@ -145,7 +215,17 @@ Street in Juliette. The storefronts are impossibly quaint. Antiques and
 nostalgic bric-a-brac fill the front porches. Even the sheriff's substation,
 petite and weathered, is undeniably Instagrammable.
 
-![Fried Green Tomatoes at the Whistle Stop Café in Juliette, GA](/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp)
+<img
+  src="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp"
+  srcset="/assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-320.webp 320w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-480.webp 480w,
+          /assets/img/visiting-forsyth-from-a-fox-hunt-to-fried-green-tomatoes/friend-green-tomatoes-at-the-whistle-stop-cafe-in-juliette-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Fried Green Tomatoes at the Whistle Stop Café in Juliette, GA"
+  width="665"
+  height="499"
+  loading="lazy"
+/>
 
 The [Whistle Stop Café](https://thewhistlestopcafe.com) at the end of the block
 is your destination, both for its role in the film and its delicious cuisine.

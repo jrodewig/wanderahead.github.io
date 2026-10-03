@@ -19,7 +19,17 @@ has to offer.
 
 ## Spend the Morning at Wild Adventures
 
-![Wild Adventures in Valdosta, GA](/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp)
+<img
+  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp"
+  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-320.webp 320w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-480.webp 480w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/wild-adventures-valdosta-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Wild Adventures in Valdosta, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 Start off at [Wild Adventures](https://www.wildadventures.com/), a theme park
 that combines roller coasters, animals and a water park into one.
@@ -31,7 +41,17 @@ monkeys.
 
 ## Eat Empanadas in the Afternoon
 
-![Empanadas at Empanadas & More restaurant in Valdosta, GA](/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp)
+<img
+  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp"
+  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-320.webp 320w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-480.webp 480w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/empanadas-at-empanadas-and-more-in-valdosta-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Empanadas at Empanadas & More restaurant in Valdosta, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 Depending on your group, you may want to play longer at Wild Adventures, but if
 you just have one day in the city, head out in the afternoon to see the rest of
@@ -47,7 +67,17 @@ savoring the layers of spices and contrasting textures.
 
 It's all good, but their crisp empanadas are the stars. Order at least two.
 
-![Steak at Empanadas & More restaurant in Valdosta, GA](/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp)
+<img
+  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp"
+  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-320.webp 320w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-480.webp 480w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/steak-at-empanadas-and-more-in-valdosta-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Steak at Empanadas & More restaurant in Valdosta, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 "Normally, in our culture, empanadas are a snack. Here, it's an entree," said
 owner Alberto Sanchez. "We are not fancy people, but we make sure that what you
@@ -64,7 +94,17 @@ original colonies, and it's the most notable landmark in the city. Anyone can
 visit, free of charge, for a self-guided tour of the interior, with period
 furniture, between 2 and 5 p.m. weekdays.
 
-![The Crescent in Valdosta, GA](/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp)
+<img
+  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp"
+  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-320.webp 320w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-480.webp 480w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/the-crescent-valdosta-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="The Crescent in Valdosta, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 To round out your afternoon, head downtown. Valdosta's Central Avenue strip is
 pleasantly walkable and filled with boutiques and emporiums perfect for casual
@@ -75,7 +115,17 @@ European antiques and fine porcelain.
 
 ## Escape in the Evening
 
-![Epic Escape Rooms in Valdosta, GA](/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp)
+<img
+  src="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp"
+  srcset="/assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-320.webp 320w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-480.webp 480w,
+          /assets/img/more-than-a-pit-stop-a-perfect-day-in-valdosta-ga/epic-escape-rooms-valdosta-ga-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Epic Escape Rooms in Valdosta, GA"
+  width="665"
+  height="442"
+  loading="lazy"
+/>
 
 The day isn't over yet. Keep the energy going at [Epic Escape
 Rooms](https://www.epicescapega.com/). The family-run venue offers six

@@ -16,7 +16,17 @@ estate and before that, a Quaker farm, this Pennsylvania retreat has grown over
 centuries into the showplace we see today: more than 1,000 acres of trees,
 topiaries, fountains, and flowers.
 
-![Eden-like display at Longwood Gardens in Kennett Square, Pennsylvania](/assets/img/longing-for-longwood/display-at-longwood-gardens-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/display-at-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/display-at-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/display-at-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/display-at-longwood-gardens-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Eden-like display at Longwood Gardens in Kennett Square, Pennsylvania"
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 Even in dour weather, Longwood recreates Eden in its 20 indoor gardens. From
 room to room, climates vary from tropical South American to arid Mediterranean,
@@ -29,7 +39,17 @@ formal with broad leaves, bright colors, and symmetrical plantings flanking
 manicured lawns. The Silver Garden is more subtle, dealing in shades of dusky
 blues and rock-studded greens.
 
-![Conservatory at Longwood Gardens in Kennett Square, Pennsylvania](/assets/img/longing-for-longwood/conservatory-at-longwood-gardens-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/conservatory-at-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/conservatory-at-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/conservatory-at-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/conservatory-at-longwood-gardens-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Conservatory at Longwood Gardens in Kennett Square, Pennsylvania"
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 Some of Longwood's treasures here are unexpected, such as the rare, palm-like
 _Encephalartos woodii_, whose ancestors fed the dinosaurs in the Jurassic
@@ -39,7 +59,17 @@ yourself at least three hours to see it all.
 
 ## Enjoy Orchids and Other Greenhouse Gems
 
-![Snapdragons, hydrangeas, and other flowers at Longwood Gardens in Kennett Square, Pennsylvania](/assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp"
+  srcset="/assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-320.webp 320w,
+          /assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-480.webp 480w,
+          /assets/img/longing-for-longwood/snapdragons-hydrangeas-and-other-flowers-at-longwood-gardens-in-kennett-square-pennsylvania-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Snapdragons, hydrangeas, and other flowers at Longwood Gardens in Kennett Square, Pennsylvania"
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 Most of the plants used in the displays are grown in production greenhouses on
 site.
@@ -52,14 +82,34 @@ And, of course, the orchids: They have around 6,200 in total with only a few
 hundred of the best on display. That changes each March during Orchid
 Extravaganza when Longwood imports thousands of orchids from around the world.
 
-![Hanging Hydrangeas at Longwood Gradens in Kennett Square, Pennsylvania](/assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/hanging-hydrangeas-longwood-gardens-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Hanging Hydrangeas at Longwood Gradens in Kennett Square, Pennsylvania"
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 There are hanging baskets dripping with orchids. There are towers with orchids.
 They fill two ponds in the East Conservatory like orchid meadows.
 
 ## See the Fountains and Outdoor Gardens
 
-![Main Fountain Garden at Longwood Gradens in Kennett Square, Pennsylvania](/assets/img/longing-for-longwood/main-fountain-garden-longwood-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/main-fountain-garden-longwood-665.webp"
+  srcset="/assets/img/longing-for-longwood/main-fountain-garden-longwood-320.webp 320w,
+          /assets/img/longing-for-longwood/main-fountain-garden-longwood-480.webp 480w,
+          /assets/img/longing-for-longwood/main-fountain-garden-longwood-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Main Fountain Garden at Longwood Gradens in Kennett Square, Pennsylvania"
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 Outdoors, witch hazel and winterberry add color to less floral scenery, but the
 stripped-down landscape lets you glimpse the bones of the garden, which lays
@@ -73,7 +123,17 @@ night when they up the ante with synchronized lights, music, and even fire.
 
 ## Check Out the Peirce-du Pont House
 
-![](/assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp"
+  srcset="/assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-320.webp 320w,
+          /assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-480.webp 480w,
+          /assets/img/longing-for-longwood/peirce-du-pont-house-at-longwood-garden-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt=""
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 Just past the conservatories, you'll find the Peirce-du Pont house, the oldest
 building on the property. It's not a grand château but a Quaker-built farmhouse
@@ -88,7 +148,17 @@ makes a perfect place to rest a spell.
 
 ## Enjoy the Holidays at Longwood Gardens
 
-![Conservatory pool at Longwood Gradens in Kennett Square, Pennsylvania](/assets/img/longing-for-longwood/pool-at-longwood-gardens-665.webp)
+<img
+  src="/assets/img/longing-for-longwood/pool-at-longwood-gardens-665.webp"
+  srcset="/assets/img/longing-for-longwood/pool-at-longwood-gardens-320.webp 320w,
+          /assets/img/longing-for-longwood/pool-at-longwood-gardens-480.webp 480w,
+          /assets/img/longing-for-longwood/pool-at-longwood-gardens-665.webp 665w"
+  sizes="(max-width: 665px) 100vw, 665px"
+  alt="Conservatory pool at Longwood Gradens in Kennett Square, Pennsylvania"
+  width="665"
+  height="445"
+  loading="lazy"
+/>
 
 It's a peaceful time of year, late January through March. The season leading up
 to it, however, is their busiest with the fiercely popular A Longwood Christmas.
