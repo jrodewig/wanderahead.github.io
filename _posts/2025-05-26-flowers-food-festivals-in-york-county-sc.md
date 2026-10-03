@@ -6,9 +6,9 @@ featured: true
 category: South Carolina
 layout: post
 author: Cheryl Rodewig
-excerpt: Rock Hill serves up small-town Americana vibes and attractions off the
-  beaten path.
+excerpt: Rock Hill serves up small-town Americana vibes and attractions off the beaten path. 
 ---
+
 Just over the state line from Charlotte, York County, South Carolina, is a
 charming Southern getaway offering plenty of things to do in a laid-back,
 relaxed sort of way. Think walkable downtowns with public art, community-driven
@@ -389,6 +389,7 @@ slaw, as is Ava's Summer Special Wrap, with fresh mozzarella, goat cheese, Greek
 chicken, pesto, tomatoes, couscous, and hummus.
 
 Right outside, the Riverwalk beckons if want to explore along the Catawba River. 
+
 
 ## Hotels in York County
 
