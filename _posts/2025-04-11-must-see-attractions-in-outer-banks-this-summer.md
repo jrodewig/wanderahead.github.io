@@ -1,6 +1,6 @@
 ---
 title: Must-See Attractions in the Outer Banks
-date: 2026-09-11
+date: 2026-09-12
 image: /assets/img/must-see-attractions-in-outer-banks-this-summer/lighthouse-in-nags-head-nc-in-the-outer-banks.webp
 featured: true
 category: North Carolina
