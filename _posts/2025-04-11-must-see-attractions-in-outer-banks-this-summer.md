@@ -6,8 +6,8 @@ featured: true
 category: North Carolina
 layout: post
 author: Cheryl Rodewig
-excerpt: From collosal dunes to the country's longest running outdoor play, the
-  Outer Banks is more than just beaches.
+excerpt: From colossal dunes to the country's longest running outdoor symphonic
+  drama, the Outer Banks is more than just beaches.
 ---
 Planning the perfect trip to the Outer Banks this summer? There's plenty to
 explore, from nature and history to dining and live theater. This isn't an
