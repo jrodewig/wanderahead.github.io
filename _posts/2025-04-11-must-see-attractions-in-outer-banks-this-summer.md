@@ -14,10 +14,9 @@ explore, from nature and history to dining and live theater. This isn't an
 exhaustive list of everything to do in the Outer Banks. Beyond the highlights
 below, you'll find sightseeing tours, watersports like fishing, parasailing, and
 paddling, plus arcades, laser tag, shopping, parks, and historic sites such as
-the [Wright Brothers National Memorial](https://www.nps.gov/wrbr/index.htm). If
-time is tight, I've picked out the standout experiences worth your while. I'll
-also toss in tips for where to stay on Roanoke Island and the beach, along with
-some solid dining options. Mix and match to craft your ideal OBX escape.
+the [Wright Brothers National Memorial](https://www.nps.gov/wrbr/index.htm). 
+
+If time is tight, I've picked out the standout experiences worth your while. I'll also toss in tips for where to stay on Roanoke Island and the beach, along with some solid dining options. Mix and match to craft your ideal OBX escape.
 
 ## The Lost Colony
 
